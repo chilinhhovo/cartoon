@@ -142,6 +142,35 @@ h1 {
     margin-bottom: 1rem;
 }
 
+/* New AI caption table styles */
+.ai-captions table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.ai-captions th {
+    background: #f1f3f5;
+    font-weight: 500;
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.ai-captions td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+    color: #333;
+    line-height: 1.5;
+}
+
+.ai-captions .model-name {
+    font-weight: 500;
+    color: #1a1a1a;
+}
+
 h2 {
     font-size: 1.8rem;
     margin-bottom: 1.5rem;
@@ -307,6 +336,16 @@ footer a:hover {
         font-size: 0.85rem;
     }
 
+    .ai-captions table {
+        min-width: 600px;
+    }
+
+    .ai-captions th,
+    .ai-captions td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+
     footer {
         margin-top: 2rem;
         padding: 1.5rem 0;
@@ -343,6 +382,8 @@ footer a:hover {
     .ai-captions {
         margin-top: 1.5rem;
         margin-bottom: 2rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
     .ai-model {

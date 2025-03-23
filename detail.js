@@ -44,44 +44,30 @@ document.addEventListener('DOMContentLoaded', function() {
                 document.getElementById('similarity-chart').innerHTML = svgContent;
             });
 
-        // Populate caption table
-        const tbody = document.getElementById('caption-tbody');
-        const captions = [
+        // Populate AI captions
+        const aiCaptions = document.getElementById('ai-captions');
+        const aiModels = [
             {
-                source: 'Winner (Human)',
-                caption: contestData.winning_caption,
-                sentiment: getSentiment(contestSentiment, 'winner'),
-                similarity: 1.0
+                name: 'ChatGPT',
+                caption: modelPerformance.chatgpt_caption || 'No ChatGPT caption available'
             },
             {
-                source: 'ChatGPT',
-                caption: modelPerformance.chatgpt_caption,
-                sentiment: getSentiment(contestSentiment, 'chatgpt'),
-                similarity: parseFloat(contestData.chatgpt_similarity)
+                name: 'Claude',
+                caption: modelPerformance.claude_caption || 'No Claude caption available'
             },
             {
-                source: 'Claude',
-                caption: modelPerformance.claude_caption,
-                sentiment: getSentiment(contestSentiment, 'claude'),
-                similarity: parseFloat(contestData.claude_similarity)
-            },
-            {
-                source: 'DeepSeek',
-                caption: modelPerformance.deepseek_caption,
-                sentiment: getSentiment(contestSentiment, 'deepseek'),
-                similarity: parseFloat(contestData.deepseek_similarity)
+                name: 'DeepSeek',
+                caption: modelPerformance.deepseek_caption || 'No DeepSeek caption available'
             }
         ];
 
-        captions.forEach(caption => {
+        aiModels.forEach(model => {
             const tr = document.createElement('tr');
             tr.innerHTML = `
-                <td>${caption.source}</td>
-                <td>${caption.caption}</td>
-                <td>${formatSentiment(caption.sentiment)}</td>
-                <td>${formatSimilarity(caption.similarity)}</td>
+                <td class="model-name">${model.name}</td>
+                <td>${model.caption}</td>
             `;
-            tbody.appendChild(tr);
+            aiCaptions.appendChild(tr);
         });
 
         // Update metrics
