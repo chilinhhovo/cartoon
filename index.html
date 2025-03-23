@@ -41,6 +41,7 @@
             cursor: pointer;
             font-size: 0.9rem;
             transition: all 0.2s ease;
+            letter-spacing: 0.5px;
         }
 
         .theme-button:hover {
@@ -135,32 +136,190 @@
             color: #1a1a1a;
             text-decoration: underline;
         }
+
+        .description {
+            font-size: 1.1rem;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+            letter-spacing: 0.3px;
+        }
+
+        .search-container {
+            margin-bottom: 2rem;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+
+        .search-input {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            width: 200px;
+            transition: all 0.2s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #1a1a1a;
+            box-shadow: 0 0 0 2px rgba(26, 26, 26, 0.1);
+        }
+
+        .search-button {
+            padding: 0.5rem 1rem;
+            background: #1a1a1a;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: all 0.2s ease;
+        }
+
+        .search-button:hover {
+            background: #333;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 1rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .description {
+                font-size: 1rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .theme-filters {
+                margin-bottom: 1.5rem;
+                gap: 0.4rem;
+            }
+
+            .theme-button {
+                padding: 0.4rem 0.8rem;
+                font-size: 0.85rem;
+            }
+
+            .gallery {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                gap: 1.5rem;
+            }
+
+            .contest-card img {
+                aspect-ratio: 1;
+            }
+
+            .contest-info {
+                padding: 0.4rem 0;
+            }
+
+            .contest-number {
+                font-size: 0.9rem;
+            }
+
+            .contest-theme {
+                font-size: 0.8rem;
+            }
+
+            footer {
+                margin-top: 2rem;
+                padding: 1.5rem 0;
+            }
+
+            footer p {
+                font-size: 0.85rem;
+            }
+
+            .portfolio-link {
+                font-size: 0.85rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .search-container {
+                margin-bottom: 1.5rem;
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .search-input {
+                width: 100%;
+            }
+
+            .search-button {
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 0.8rem;
+            }
+
+            h1 {
+                font-size: 1.3rem;
+            }
+
+            .description {
+                font-size: 0.95rem;
+            }
+
+            .theme-filters {
+                gap: 0.3rem;
+            }
+
+            .theme-button {
+                padding: 0.3rem 0.6rem;
+                font-size: 0.8rem;
+            }
+
+            .gallery {
+                grid-template-columns: 1fr;
+                gap: 1.2rem;
+            }
+
+            .contest-card img {
+                max-height: 300px;
+            }
+        }
     </style>
 </head>
 <body>
     <a href="https://chilinhhovo.github.io/portfolio/" class="portfolio-link">← Return to Portfolio</a>
     <h1>New Yorker Caption Contest Gallery</h1>
-    <p>This is a gallery of the caption contests from the New Yorker. Human captions were crowdsourced from the internet, and I used Claude and Open AI for AI captions by using their vision models, and Hugging Face was used to compare the semantic similarity between the human and AI captions. You can filter by theme and explore by clicking on the individual contest card.</p>
+    
+    <p class="description">This is a gallery of the caption contests from the New Yorker. Human captions were crowdsourced from the internet, and I used Claude and Open AI for AI captions by using their vision models, and Hugging Face was used to compare the semantic similarity between the human and AI captions. You can filter by theme and explore by clicking on the individual contest card.</p>
+    
+    <div class="search-container">
+        <input type="number" class="search-input" placeholder="Enter contest number" min="510" max="895">
+        <button class="search-button">Search</button>
+    </div>
     
     <div class="theme-filters">
         <button class="theme-button active" data-theme="all">All</button>
-<button class="theme-button" data-theme="animals">Animals</button>
-<button class="theme-button" data-theme="death">Death</button>
-<button class="theme-button" data-theme="family">Family</button>
-<button class="theme-button" data-theme="health">Health</button>
-<button class="theme-button" data-theme="law">Law</button>
-<button class="theme-button" data-theme="love">Love</button>
-<button class="theme-button" data-theme="marriage">Marriage</button>
-<button class="theme-button" data-theme="money">Money</button>
-<button class="theme-button" data-theme="parenting">Parenting</button>
-<button class="theme-button" data-theme="politics">Politics</button>
-<button class="theme-button" data-theme="psychology">Psychology</button>
-<button class="theme-button" data-theme="relationships">Relationships</button>
-<button class="theme-button" data-theme="religion">Religion</button>
-<button class="theme-button" data-theme="social media">Social Media</button>
-<button class="theme-button" data-theme="sports">Sports</button>
-<button class="theme-button" data-theme="technology">Technology</button>
-<button class="theme-button" data-theme="work">Work</button>
+        <button class="theme-button" data-theme="animals">Animals</button>
+        <button class="theme-button" data-theme="death">Death</button>
+        <button class="theme-button" data-theme="family">Family</button>
+        <button class="theme-button" data-theme="health">Health</button>
+        <button class="theme-button" data-theme="law">Law</button>
+        <button class="theme-button" data-theme="love">Love</button>
+        <button class="theme-button" data-theme="marriage">Marriage</button>
+        <button class="theme-button" data-theme="money">Money</button>
+        <button class="theme-button" data-theme="parenting">Parenting</button>
+        <button class="theme-button" data-theme="politics">Politics</button>
+        <button class="theme-button" data-theme="psychology">Psychology</button>
+        <button class="theme-button" data-theme="relationships">Relationships</button>
+        <button class="theme-button" data-theme="religion">Religion</button>
+        <button class="theme-button" data-theme="social media">Social Media</button>
+        <button class="theme-button" data-theme="sports">Sports</button>
+        <button class="theme-button" data-theme="technology">Technology</button>
+        <button class="theme-button" data-theme="work">Work</button>
     </div>
 
     <div class="gallery">
@@ -3654,6 +3813,23 @@
                     });
                 });
             });
+        });
+
+        // Add search functionality
+        document.querySelector('.search-button').addEventListener('click', function() {
+            const contestNumber = document.querySelector('.search-input').value;
+            if (contestNumber >= 510 && contestNumber <= 895) {
+                window.location.href = `contest_pages/contest_${contestNumber}.html`;
+            } else {
+                alert('Please enter a valid contest number between 510 and 895');
+            }
+        });
+
+        // Add enter key support for search
+        document.querySelector('.search-input').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                document.querySelector('.search-button').click();
+            }
         });
     </script>
     <footer>

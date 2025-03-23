@@ -336,6 +336,16 @@ footer a:hover {
         font-size: 0.85rem;
     }
 
+    footer {
+        margin-top: 2rem;
+        padding: 1.5rem 0;
+    }
+
+    footer p {
+        font-size: 0.85rem;
+    }
+
+    /* AI captions table */
     .ai-captions table {
         min-width: 600px;
     }
@@ -346,13 +356,14 @@ footer a:hover {
         font-size: 0.9rem;
     }
 
-    footer {
-        margin-top: 2rem;
-        padding: 1.5rem 0;
+    /* Similarity chart */
+    #similarity-chart {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
-    footer p {
-        font-size: 0.85rem;
+    #similarity-chart svg {
+        min-width: 600px;
     }
 }
 
@@ -392,5 +403,33 @@ footer a:hover {
 
     .metrics-section {
         margin-top: 1.5rem;
+    }
+
+    /* Adjust table styles for very small screens */
+    table {
+        min-width: 500px;
+    }
+
+    th, td {
+        padding: 0.4rem;
+        font-size: 0.85rem;
+    }
+
+    /* Adjust chart for very small screens */
+    #similarity-chart svg {
+        min-width: 500px;
+    }
+
+    /* Adjust metrics for very small screens */
+    .metric-card {
+        padding: 0.6rem;
+    }
+
+    .metric-card h4 {
+        font-size: 0.75rem;
+    }
+
+    .metric-card p {
+        font-size: 1rem;
     }
 } 
