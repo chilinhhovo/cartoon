@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+735,It always ends in tiers......,3714,2345,10374,Top 5 Funny,False,True,29,Human
+735,I shouldn't be telling you this but I saw her last week on a different cake.,3217,2719,9872,Top 5 Funny,False,True,76,Human
+735,"Actually, I'm vanilla. Red Velvet is my stripper name.",2749,3113,8910,Top 5 Funny,False,True,54,Human
+735,I was married once.  Didn’t work out.  She was a tart.,1919,2796,7586,Top 5 Funny,False,True,54,Human
+735,"Trust me, it’ll all end in tiers",1847,2440,7433,Top 5 Funny,False,False,32,Human
+735,"Actually, I'm vanilla. Red Velvet is my stripper name.",2749,3113,8910,Top 5 Unfunny,False,True,54,Human
+735,I was married once.  Didn’t work out.  She was a tart.,1919,2796,7586,Top 5 Unfunny,False,True,54,Human
+735,"Bad news. Edith left with the DJ.  I guess you can't have your cake and Edith, too.",1697,2746,6697,Top 5 Unfunny,False,True,83,Human
+735,I shouldn't be telling you this but I saw her last week on a different cake.,3217,2719,9872,Top 5 Unfunny,False,True,76,Human
+735,"Whoa, the cake you fell off of must have been huge!",1644,2706,6668,Top 5 Unfunny,False,True,51,Human

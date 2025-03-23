@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+546,What's happening on your side?,67,117,269,Top 5 Funny,True,True,30,Human
+546,"If we hadn't eaten Ted, he really would have enjoyed this.",66,117,260,Top 5 Funny,False,True,58,Human
+546,We never should have applauded.,65,110,285,Top 5 Funny,False,True,31,Human
+546,"Well, I like it more than their ""ship on the horizon"" gag.",65,117,251,Top 5 Funny,False,True,58,Human
+546,OK. We have two wishes left.,56,108,249,Top 5 Funny,False,True,28,Human
+546,What's happening on your side?,67,117,269,Top 5 Unfunny,True,True,30,Human
+546,"If we hadn't eaten Ted, he really would have enjoyed this.",66,117,260,Top 5 Unfunny,False,True,58,Human
+546,"Well, I like it more than their ""ship on the horizon"" gag.",65,117,251,Top 5 Unfunny,False,True,58,Human
+546,We never should have applauded.,65,110,285,Top 5 Unfunny,False,True,31,Human
+546,"l knew they were smart, but sarcastic?",55,110,224,Top 5 Unfunny,True,True,38,Human

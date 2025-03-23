@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+515,I'm afraid we're out of time.,4,0,6,Top 5 Funny,False,True,29,Human
+515,I can see our time is up.,3,1,5,Top 5 Funny,False,True,25,Human
+515,You're my last patient of the day.,3,1,5,Top 5 Funny,False,True,34,Human
+515,"Well, it appears our time is up.",3,1,6,Top 5 Funny,False,True,32,Human
+515,I see that our time is up.,3,2,6,Top 5 Funny,False,True,26,Human
+515,"I am growing inured to planes, trains, and automobiles.",0,6,6,Top 5 Unfunny,False,True,55,Human
+515,Remember the time we had to jump off a trestle and only suffered a broken nose.,0,6,6,Top 5 Unfunny,False,True,79,Human
+515,Who says NFL players have a problem with foreseeable consequences?,0,6,6,Top 5 Unfunny,True,True,66,Human
+515,I have this recurring dream of a train with wheels on only one side.,0,6,6,Top 5 Unfunny,False,True,68,Human
+515,We need to think about a better retirement plan.,0,6,6,Top 5 Unfunny,False,True,48,Human

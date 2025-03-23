@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+864,You're reading too much into being called the 'dinner speaker.',493,1147,2280,Top 5 Funny,False,False,63,Human
+864,What do you mean I booked you at the wrong pride event?,420,964,1835,Top 5 Funny,True,True,55,Human
+864,I think you misunderstood the meaning of pride week,370,1013,1914,Top 5 Funny,False,False,51,Human
+864,Just tell them why you've chosen to run.,368,933,1882,Top 5 Funny,False,True,40,Human
+864,Be glad you're the AFTER dinner speaker.,357,902,1832,Top 5 Funny,False,True,40,Human
+864,You're reading too much into being called the 'dinner speaker.',493,1147,2280,Top 5 Unfunny,False,False,63,Human
+864,I think you misunderstood the meaning of pride week,370,1013,1914,Top 5 Unfunny,False,False,51,Human
+864,What do you mean I booked you at the wrong pride event?,420,964,1835,Top 5 Unfunny,True,True,55,Human
+864,Just tell them why you've chosen to run.,368,933,1882,Top 5 Unfunny,False,True,40,Human
+864,I know.  It's always tougher speaking before lunch.,317,929,1502,Top 5 Unfunny,False,True,51,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+851,I’m here to conduct your exit interview.,589,1282,2710,Top 5 Funny,False,True,40,Human
+851,It’s an honor to work with a giant in the field.,533,1525,3062,Top 5 Funny,False,True,48,Human
+851,"The restroom?  Third door on your right, then left, left again, then right, right and left. You can’t miss it.",328,796,1649,Top 5 Funny,True,True,110,Human
+851,That concludes our study. You can see yourself out.,324,903,1807,Top 5 Funny,False,True,51,Human
+851,"At this point, I’m no longer sure which one of us they’re testing.",296,699,1463,Top 5 Funny,False,True,66,Human
+851,It’s an honor to work with a giant in the field.,533,1525,3062,Top 5 Unfunny,False,True,48,Human
+851,I’m here to conduct your exit interview.,589,1282,2710,Top 5 Unfunny,False,True,40,Human
+851,"You find the cheese, I'll find the wine and we'll meet back here.",273,908,1727,Top 5 Unfunny,False,True,65,Human
+851,I'd ask directions but I'm a man.,294,907,1665,Top 5 Unfunny,False,True,33,Human
+851,That concludes our study. You can see yourself out.,324,903,1807,Top 5 Unfunny,False,True,51,Human

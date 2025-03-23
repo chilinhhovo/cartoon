@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+810,The zoo wants me to work from home.,768,1353,3008,Top 5 Funny,False,True,35,Human
+810,"Everyone ignores the elephant in the room, but take one on the elevator and everyone has something to say.",740,1335,2915,Top 5 Funny,False,True,106,Human
+810,"I’m okay. The five people in the back, not so much.",668,1436,3113,Top 5 Funny,False,True,51,Human
+810,"Sorry for the wait, but when he got in he hit all the buttons.",561,1302,2339,Top 5 Funny,False,True,62,Human
+810,He thinks taking the freight elevator is body shaming.,557,1312,2662,Top 5 Funny,False,True,54,Human
+810,"I’m okay. The five people in the back, not so much.",668,1436,3113,Top 5 Unfunny,False,True,51,Human
+810,The zoo wants me to work from home.,768,1353,3008,Top 5 Unfunny,False,True,35,Human
+810,"Everyone ignores the elephant in the room, but take one on the elevator and everyone has something to say.",740,1335,2915,Top 5 Unfunny,False,True,106,Human
+810,He thinks taking the freight elevator is body shaming.,557,1312,2662,Top 5 Unfunny,False,True,54,Human
+810,"Sorry for the wait, but when he got in he hit all the buttons.",561,1302,2339,Top 5 Unfunny,False,True,62,Human

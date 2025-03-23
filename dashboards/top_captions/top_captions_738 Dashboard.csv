@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+738,Just to mess with him put them back on the tree.,5788,3256,14665,Top 5 Funny,False,True,48,Human
+738,"This is your first abduction, isn’t it?",4129,3768,12535,Top 5 Funny,True,True,39,Human
+738,"Wait, did they say 'take the man and leave' or 'take the man and leaves?'",3875,3164,11207,Top 5 Funny,True,False,73,Human
+738,"Must be valuable, they spend hours collecting them!",3528,3439,11577,Top 5 Funny,False,True,51,Human
+738,"Trust me—I know their language. If he’s ‘raking it in,’ it’s money.",2965,3779,10315,Top 5 Funny,False,True,67,Human
+738,"Trust me—I know their language. If he’s ‘raking it in,’ it’s money.",2965,3779,10315,Top 5 Unfunny,False,True,67,Human
+738,"This is your first abduction, isn’t it?",4129,3768,12535,Top 5 Unfunny,True,True,39,Human
+738,"After the year they’ve had, it’s the least we can do.",2447,3582,9355,Top 5 Unfunny,False,True,53,Human
+738,"No, the OTHER pile of useless organic matter.",2820,3573,9386,Top 5 Unfunny,False,True,45,Human
+738,Can’t wait to see the look on his face when we put these back on the tree.,1643,3570,7640,Top 5 Unfunny,False,True,74,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+518,Let's live with Mom.,9,13,28,Top 5 Funny,False,True,20,Human
+518,He needs to start drinking outside the box.,8,12,27,Top 5 Funny,False,True,43,Human
+518,I told you they were too big to have come from a cat.,8,15,28,Top 5 Funny,False,True,53,Human
+518,Isn't this the same guy who got shipwrecked in our wading pool?,8,16,27,Top 5 Funny,True,True,63,Human
+518,He thinks he's Lawrence of Suburbia.,8,17,29,Top 5 Funny,False,True,36,Human
+518,"Mr. Sandman, your hardwood floor specialist at it again",0,30,30,Top 5 Unfunny,False,False,55,Human
+518,You have nothing to lose.,0,29,30,Top 5 Unfunny,False,True,25,Human
+518,It's tough to see an old actor like Hanks trying to recapture his Glory days.,0,29,30,Top 5 Unfunny,False,True,77,Human
+518,He must have run out of modeling clay.,0,29,30,Top 5 Unfunny,False,True,38,Human
+518,Wait until see his impression of the Great Pyramid of Giza,0,29,30,Top 5 Unfunny,False,False,58,Human

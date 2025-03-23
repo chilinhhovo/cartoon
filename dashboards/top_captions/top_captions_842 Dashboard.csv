@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+842,"What’s crazier, me talking or you flying?",531,1327,2571,Top 5 Funny,True,True,41,Human
+842,I understand your surprise. It IS unusual to have a female pilot.,508,1525,2779,Top 5 Funny,False,True,65,Human
+842,We expect a little turbulence until we get out of shotgun range.,496,1375,2638,Top 5 Funny,False,True,64,Human
+842,This plane is going d-o-w-n.,489,1343,2106,Top 5 Funny,False,True,28,Human
+842,I can't fly until I get all my passengers in a row.,486,1443,2680,Top 5 Funny,False,True,51,Human
+842,I understand your surprise. It IS unusual to have a female pilot.,508,1525,2779,Top 5 Unfunny,False,True,65,Human
+842,I can't fly until I get all my passengers in a row.,486,1443,2680,Top 5 Unfunny,False,True,51,Human
+842,We expect a little turbulence until we get out of shotgun range.,496,1375,2638,Top 5 Unfunny,False,True,64,Human
+842,This plane is going d-o-w-n.,489,1343,2106,Top 5 Unfunny,False,True,28,Human
+842,"What’s crazier, me talking or you flying?",531,1327,2571,Top 5 Unfunny,True,True,41,Human

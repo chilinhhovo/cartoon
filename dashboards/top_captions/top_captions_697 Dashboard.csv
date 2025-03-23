@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+697,This is a lot more effective on the elevated tracks.,5767,6707,21352,Top 5 Funny,False,True,52,Human
+697,Wait till he finds out this isn't his stop.,5749,7458,20646,Top 5 Funny,False,True,43,Human
+697,"'Of course it's shark-infested, it's Wall Street.'",4948,6117,16908,Top 5 Funny,False,False,50,Human
+697,This was more effective when I worked on the Staten Island Ferry.,4900,6568,18521,Top 5 Funny,False,True,65,Human
+697,I miss the splash!,4840,7125,18637,Top 5 Funny,False,True,18,Human
+697,Wait till he finds out this isn't his stop.,5749,7458,20646,Top 5 Unfunny,False,True,43,Human
+697,I miss the splash!,4840,7125,18637,Top 5 Unfunny,False,True,18,Human
+697,This is a lot more effective on the elevated tracks.,5767,6707,21352,Top 5 Unfunny,False,True,52,Human
+697,This is just until we can afford a ship.,3100,6609,14176,Top 5 Unfunny,False,True,40,Human
+697,This was more effective when I worked on the Staten Island Ferry.,4900,6568,18521,Top 5 Unfunny,False,True,65,Human

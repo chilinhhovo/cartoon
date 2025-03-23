@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+579,The truth is you came from a box of free kittens.,2250,2163,6602,Top 5 Funny,False,True,49,Human
+579,The taxidermist really captured his personality.,1381,1560,4415,Top 5 Funny,False,True,48,Human
+579,"He does know the dog got more votes, right?",1380,1495,4620,Top 5 Funny,True,True,43,Human
+579,Get over yourself... it was ONE mouse!,1195,1185,3977,Top 5 Funny,False,True,38,Human
+579,"No, your majesty, eating the canaries was not what we meant when we asked you to stop the tweeting.",1151,1605,4230,Top 5 Funny,False,True,99,Human
+579,The truth is you came from a box of free kittens.,2250,2163,6602,Top 5 Unfunny,False,True,49,Human
+579,"Whatever, he still shits in a box.",1067,1653,3930,Top 5 Unfunny,False,True,34,Human
+579,"No, your majesty, eating the canaries was not what we meant when we asked you to stop the tweeting.",1151,1605,4230,Top 5 Unfunny,False,True,99,Human
+579,The taxidermist really captured his personality.,1381,1560,4415,Top 5 Unfunny,False,True,48,Human
+579,"A royal heir? Nice try, but you're still getting neutered.",880,1529,3968,Top 5 Unfunny,True,True,58,Human

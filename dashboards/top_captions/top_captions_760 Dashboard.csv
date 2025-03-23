@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+760,It's curb to table.,1603,2512,6068,Top 5 Funny,False,True,19,Human
+760,Perhaps Monsieur should not have tried to order in French.,1292,2403,5354,Top 5 Funny,False,True,58,Human
+760,You probably meant compote.,1213,1773,4422,Top 5 Funny,False,True,27,Human
+760,What color was Madam’s retainer?,1115,2003,4532,Top 5 Funny,True,True,32,Human
+760,Would monsieur care to sniff the lid?,962,1967,4092,Top 5 Funny,True,True,37,Human
+760,It's curb to table.,1603,2512,6068,Top 5 Unfunny,False,True,19,Human
+760,Perhaps Monsieur should not have tried to order in French.,1292,2403,5354,Top 5 Unfunny,False,True,58,Human
+760,What color was Madam’s retainer?,1115,2003,4532,Top 5 Unfunny,True,True,32,Human
+760,Would monsieur care to sniff the lid?,962,1967,4092,Top 5 Unfunny,True,True,37,Human
+760,"If you don't already, you should have reservations.",942,1904,3731,Top 5 Unfunny,False,True,51,Human

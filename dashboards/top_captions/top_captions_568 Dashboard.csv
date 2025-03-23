@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+568,Our timeshare presentation will begin in about 5 minutes.,600,955,2353,Top 5 Funny,False,True,57,Human
+568,How was your flight in on United?,600,1207,2562,Top 5 Funny,True,True,33,Human
+568,So Vito tells me you're leaving the organization.,576,1105,2574,Top 5 Funny,False,True,49,Human
+568,"Grammatically, indeed it IS sleep with the fish, not 'fishes'.",454,816,1768,Top 5 Funny,False,True,62,Human
+568,So when are you two taking the plunge?,412,957,2067,Top 5 Funny,True,True,38,Human
+568,How was your flight in on United?,600,1207,2562,Top 5 Unfunny,True,True,33,Human
+568,So Vito tells me you're leaving the organization.,576,1105,2574,Top 5 Unfunny,False,True,49,Human
+568,So when are you two taking the plunge?,412,957,2067,Top 5 Unfunny,True,True,38,Human
+568,Our timeshare presentation will begin in about 5 minutes.,600,955,2353,Top 5 Unfunny,False,True,57,Human
+568,I know this isn't the kind of farewell party you were expecting.,293,860,1839,Top 5 Unfunny,False,True,64,Human

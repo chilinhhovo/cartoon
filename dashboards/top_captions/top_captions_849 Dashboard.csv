@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+849,Part of me loves it.”,789,2087,3879,Top 5 Funny,False,False,21,Human
+849,I'd like my wife's opinion. She's over in the bridle section.,586,1253,2577,Top 5 Funny,False,True,61,Human
+849,It's for an interview. I'm looking for a stable job.,404,919,2017,Top 5 Funny,False,True,52,Human
+849,How do I look? Yea or neigh?,394,645,1547,Top 5 Funny,True,True,28,Human
+849,The invite just says coat and tails.,346,808,1686,Top 5 Funny,False,True,36,Human
+849,Part of me loves it.”,789,2087,3879,Top 5 Unfunny,False,False,21,Human
+849,I'd like my wife's opinion. She's over in the bridle section.,586,1253,2577,Top 5 Unfunny,False,True,61,Human
+849,I could also use a groom.,250,1025,1881,Top 5 Unfunny,False,True,25,Human
+849,"If you go near the dressing room, you might want to be careful where you step.",311,1022,1831,Top 5 Unfunny,False,True,78,Human
+849,"I like to be the centaur of attention.""",338,989,1847,Top 5 Unfunny,False,False,39,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+784,George quickly realized he ordered from the wrong Amazon.,3671,5423,12681,Top 5 Funny,False,True,57,Human
+784,"I have something to tell you, but first I want to ask if you've noticed how pleasant it is without all the barking this morning?",2876,4817,10993,Top 5 Funny,True,True,128,Human
+784,"From my angle, it says Digest Readers.",2810,4661,10665,Top 5 Funny,False,True,38,Human
+784,Experiencing reptile dysfunction?,2554,4525,9829,Top 5 Funny,True,True,33,Human
+784,Looks like you ordered from the wrong Amazon.,2539,4214,9730,Top 5 Funny,False,True,45,Human
+784,I also love to unwind.,2081,5703,12114,Top 5 Unfunny,False,True,22,Human
+784,George quickly realized he ordered from the wrong Amazon.,3671,5423,12681,Top 5 Unfunny,False,True,57,Human
+784,"I have something to tell you, but first I want to ask if you've noticed how pleasant it is without all the barking this morning?",2876,4817,10993,Top 5 Unfunny,True,True,128,Human
+784,I find Nietzsche hard to digest.,1904,4695,10021,Top 5 Unfunny,False,True,32,Human
+784,"From my angle, it says Digest Readers.",2810,4661,10665,Top 5 Unfunny,False,True,38,Human

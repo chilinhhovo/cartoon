@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+829,You used to look at me like that.,1234,2278,5092,Top 5 Funny,False,True,33,Human
+829,Don't judge me.  I was young and needed the money.,1009,1850,4185,Top 5 Funny,False,True,50,Human
+829,You used to look at me that way.,923,1852,3986,Top 5 Funny,False,True,32,Human
+829,I used to be able to do that.,789,1829,4185,Top 5 Funny,False,True,29,Human
+829,I was young and needed the money.,633,970,2346,Top 5 Funny,False,True,33,Human
+829,You used to look at me like that.,1234,2278,5092,Top 5 Unfunny,False,True,33,Human
+829,You used to look at me that way.,923,1852,3986,Top 5 Unfunny,False,True,32,Human
+829,Don't judge me.  I was young and needed the money.,1009,1850,4185,Top 5 Unfunny,False,True,50,Human
+829,I used to be able to do that.,789,1829,4185,Top 5 Unfunny,False,True,29,Human
+829,"Nice curves, but they’re not natural.",491,1370,2884,Top 5 Unfunny,False,True,37,Human

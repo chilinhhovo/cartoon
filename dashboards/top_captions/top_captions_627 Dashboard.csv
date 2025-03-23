@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+627,Weren't there three of you?,5254,4424,15117,Top 5 Funny,True,True,27,Human
+627,I recommend the pigeon. It's locally sourced.,4268,2610,11918,Top 5 Funny,False,True,45,Human
+627,"Table for two, by the window. Is there a problem?",4174,3806,13794,Top 5 Funny,True,True,49,Human
+627,"Ignore the screams, sir. I’ll get you a new fork.",4153,4323,12899,Top 5 Funny,False,True,49,Human
+627,Welcome back. The Chef enjoyed reading your pithy critique on Yelp.,3836,4029,12219,Top 5 Funny,False,True,67,Human
+627,Weren't there three of you?,5254,4424,15117,Top 5 Unfunny,True,True,27,Human
+627,"Ignore the screams, sir. I’ll get you a new fork.",4153,4323,12899,Top 5 Unfunny,False,True,49,Human
+627,Welcome back. The Chef enjoyed reading your pithy critique on Yelp.,3836,4029,12219,Top 5 Unfunny,False,True,67,Human
+627,You must be the couple with the Groupon.,3418,4002,11840,Top 5 Unfunny,False,True,40,Human
+627,Would you like to hear about our fall specials?,3491,3935,11699,Top 5 Unfunny,True,True,47,Human

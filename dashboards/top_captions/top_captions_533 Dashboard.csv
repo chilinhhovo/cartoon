@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+533,"If you see something, say something.",193,226,491,Top 5 Funny,False,True,36,Human
+533,Our chef trained at the Paris Metro.,69,130,292,Top 5 Funny,False,True,36,Human
+533,"The restroom is located just behind you, sir.",67,131,253,Top 5 Funny,False,True,45,Human
+533,Before this I was a bus-boy.,65,128,267,Top 5 Funny,False,True,28,Human
+533,"Sorry for the wait, but it's been like Grand Central Station in here.",63,126,270,Top 5 Funny,False,True,69,Human
+533,"If you see something, say something.",193,226,491,Top 5 Unfunny,False,True,36,Human
+533,"The restroom is located just behind you, sir.",67,131,253,Top 5 Unfunny,False,True,45,Human
+533,Our chef trained at the Paris Metro.,69,130,292,Top 5 Unfunny,False,True,36,Human
+533,Before this I was a bus-boy.,65,128,267,Top 5 Unfunny,False,True,28,Human
+533,"Sorry for the wait, but it's been like Grand Central Station in here.",63,126,270,Top 5 Unfunny,False,True,69,Human

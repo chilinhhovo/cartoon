@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+793,It's an appetizer. I'm having people for dinner tonight.,1155,1894,4148,Top 5 Funny,False,True,56,Human
+793,Teach a bear to shop and he will never have to fish again.,863,1102,2879,Top 5 Funny,False,True,58,Human
+793,Throw it to me.  I want to say I caught it.,776,1369,3202,Top 5 Funny,False,True,43,Human
+793,"No bag, thanks. I want my wife to think I caught it.",713,1468,3272,Top 5 Funny,False,True,52,Human
+793,"Sure, it's fresh.  I know the guy who caught it.",663,1531,2802,Top 5 Funny,False,True,48,Human
+793,It's an appetizer. I'm having people for dinner tonight.,1155,1894,4148,Top 5 Unfunny,False,True,56,Human
+793,"Sure, it's fresh.  I know the guy who caught it.",663,1531,2802,Top 5 Unfunny,False,True,48,Human
+793,I’d appreciate the ‘Endangered Species’ discount,627,1522,3171,Top 5 Unfunny,False,False,48,Human
+793,"No bag, thanks. I want my wife to think I caught it.",713,1468,3272,Top 5 Unfunny,False,True,52,Human
+793,Throw it to me.  I want to say I caught it.,776,1369,3202,Top 5 Unfunny,False,True,43,Human

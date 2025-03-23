@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+708,Does this make me look middle aged?,5915,6361,17742,Top 5 Funny,True,True,35,Human
+708,"Damn it, Alexa, I said ""Get me a knife.""",5492,6157,16359,Top 5 Funny,False,False,40,Human
+708,I’m off to Walmart. Do you need anything?,5342,5753,16283,Top 5 Funny,True,True,41,Human
+708,I don't care if you rust. You're doing the dishes.,4680,5730,16579,Top 5 Funny,False,True,50,Human
+708,That’s not what I meant when I asked you to start wearing protection.”,4356,5552,15199,Top 5 Funny,False,False,70,Human
+708,Does this make me look middle aged?,5915,6361,17742,Top 5 Unfunny,True,True,35,Human
+708,"Damn it, Alexa, I said ""Get me a knife.""",5492,6157,16359,Top 5 Unfunny,False,False,40,Human
+708,I’m off to Walmart. Do you need anything?,5342,5753,16283,Top 5 Unfunny,True,True,41,Human
+708,I don't care if you rust. You're doing the dishes.,4680,5730,16579,Top 5 Unfunny,False,True,50,Human
+708,That’s not what I meant when I asked you to start wearing protection.”,4356,5552,15199,Top 5 Unfunny,False,False,70,Human

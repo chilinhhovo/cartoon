@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+795,"If you can't eat with the one you love, eat the one you're with.",926,1910,3971,Top 5 Funny,False,True,64,Human
+795,You mate it. We plate it.,825,1503,3241,Top 5 Funny,False,True,25,Human
+795,"Shall I serve your husband first, madame?",786,1706,3615,Top 5 Funny,True,True,41,Human
+795,I believe you are familiar with the special.,674,1634,3534,Top 5 Funny,False,True,44,Human
+795,"Revenge is served cold, madame. Post-coital decapitation is served with potatoes.",673,1663,3243,Top 5 Funny,False,True,81,Human
+795,"If you can't eat with the one you love, eat the one you're with.",926,1910,3971,Top 5 Unfunny,False,True,64,Human
+795,"Shall I serve your husband first, madame?",786,1706,3615,Top 5 Unfunny,True,True,41,Human
+795,"Revenge is served cold, madame. Post-coital decapitation is served with potatoes.",673,1663,3243,Top 5 Unfunny,False,True,81,Human
+795,I believe you are familiar with the special.,674,1634,3534,Top 5 Unfunny,False,True,44,Human
+795,You mate it. We plate it.,825,1503,3241,Top 5 Unfunny,False,True,25,Human

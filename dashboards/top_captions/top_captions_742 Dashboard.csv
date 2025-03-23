@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+742,This is the watercolor gallery. We don't allow charcoal here.,336,467,1236,Top 5 Funny,False,True,61,Human
+742,"You are under the wrong impression, sir.",290,506,1169,Top 5 Funny,False,True,40,Human
+742,"Sir, this is the Met. The Mets are down the street.",282,395,1113,Top 5 Funny,False,True,51,Human
+742,"Make mine rare, but not priceless.",221,423,982,Top 5 Funny,False,True,34,Human
+742,That’s not how artist-in-residence works.,214,315,834,Top 5 Funny,False,True,41,Human
+742,"You are under the wrong impression, sir.",290,506,1169,Top 5 Unfunny,False,True,40,Human
+742,I’ll have the Rauschenburger.,196,502,1062,Top 5 Unfunny,False,True,29,Human
+742,"Fine, but no flash photography.",180,493,947,Top 5 Unfunny,False,True,31,Human
+742,This is watercolors. Charcoals are the next room over.,161,471,1084,Top 5 Unfunny,False,True,54,Human
+742,This is the watercolor gallery. We don't allow charcoal here.,336,467,1236,Top 5 Unfunny,False,True,61,Human

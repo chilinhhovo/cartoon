@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+675,I take it you didn't come here for the atmosphere.,2804,2620,8983,Top 5 Funny,False,True,50,Human
+675,You two seem oddly suited.,2640,2477,8736,Top 5 Funny,False,True,26,Human
+675,"Marine biology? Fascinating. It's not exactly rocket science though, is it?",2635,2488,8756,Top 5 Funny,True,True,75,Human
+675,"Honey, be nice... he's under a lot more pressure.",2561,2213,9393,Top 5 Funny,False,True,49,Human
+675,Remind me not to get in line behind you two for the bathroom.,2414,2421,7604,Top 5 Funny,False,True,61,Human
+675,"Sorry, from the back, you looked like the fridge.",1513,2668,6423,Top 5 Unfunny,False,True,49,Human
+675,I take it you didn't come here for the atmosphere.,2804,2620,8983,Top 5 Unfunny,False,True,50,Human
+675,"So, what do you fellas do?",1583,2503,6544,Top 5 Unfunny,True,True,26,Human
+675,"Marine biology? Fascinating. It's not exactly rocket science though, is it?",2635,2488,8756,Top 5 Unfunny,True,True,75,Human
+675,You two seem oddly suited.,2640,2477,8736,Top 5 Unfunny,False,True,26,Human

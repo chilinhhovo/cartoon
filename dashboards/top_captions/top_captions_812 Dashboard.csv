@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+812,I've started drinking out of the toilet again.,1569,2115,5400,Top 5 Funny,False,True,46,Human
+812,I'm always barking up the wrong tree.,908,1698,3817,Top 5 Funny,False,True,37,Human
+812,"Pleasing people is all I know, but you wouldn't understand.",851,804,2531,Top 5 Funny,False,True,59,Human
+812,It's like you can't even sniff someone's butt anymore.,726,967,2615,Top 5 Funny,False,True,54,Human
+812,It's easy for you to say; you always land on your feet.,715,894,2545,Top 5 Funny,False,True,55,Human
+812,I've started drinking out of the toilet again.,1569,2115,5400,Top 5 Unfunny,False,True,46,Human
+812,I'm always barking up the wrong tree.,908,1698,3817,Top 5 Unfunny,False,True,37,Human
+812,Your office is the only place I’m allowed on the couch.,617,1164,2817,Top 5 Unfunny,False,True,55,Human
+812,Please don't tell me to get off the couch,545,1097,2466,Top 5 Unfunny,False,False,41,Human
+812,It's nice to have a place where I'm allowed on the couch.,577,1040,2714,Top 5 Unfunny,False,True,57,Human

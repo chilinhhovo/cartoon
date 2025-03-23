@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+825,"Just remember, you can be empty headed and orange and still succeed in America.",1123,1218,3107,Top 5 Funny,False,True,79,Human
+825,First the good news. Nobody's getting canned.”,1077,1781,4233,Top 5 Funny,False,False,46,Human
+825,Thanks for carving out a little face time.”,1031,1611,3840,Top 5 Funny,False,False,43,Human
+825,"So, where do you see yourselves, three days from now?",986,1661,3975,Top 5 Funny,True,True,53,Human
+825,Let’s get through the office party tonight without anyone getting smashed.,910,1630,3885,Top 5 Funny,False,True,74,Human
+825,First the good news. Nobody's getting canned.”,1077,1781,4233,Top 5 Unfunny,False,False,46,Human
+825,"So, where do you see yourselves, three days from now?",986,1661,3975,Top 5 Unfunny,True,True,53,Human
+825,Let’s get through the office party tonight without anyone getting smashed.,910,1630,3885,Top 5 Unfunny,False,True,74,Human
+825,Thanks for carving out a little face time.”,1031,1611,3840,Top 5 Unfunny,False,False,43,Human
+825,I'm sorry to say that some of you are going to be canned.,721,1385,3243,Top 5 Unfunny,False,True,57,Human

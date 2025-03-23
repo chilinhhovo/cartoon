@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+718,I don't need your approval. I just need you to tie the laces.,6960,6053,20448,Top 5 Funny,False,True,61,Human
+718,It’s genius! They’ll be tracking 2 men on foot!,6922,6112,19594,Top 5 Funny,False,True,47,Human
+718,I don't think 'dressage' means what you think it means.,6258,5124,17969,Top 5 Funny,False,True,55,Human
+718,"Dude, I'm a horse and I'm talking and the first question you ask is, why I am wearing shoes that don't match?",6074,6385,17481,Top 5 Funny,True,True,109,Human
+718,"Because they don't need to be nailed to my feet, that's why.",5392,4774,15718,Top 5 Funny,False,True,60,Human
+718,"Dude, I'm a horse and I'm talking and the first question you ask is, why I am wearing shoes that don't match?",6074,6385,17481,Top 5 Unfunny,True,True,109,Human
+718,It’s genius! They’ll be tracking 2 men on foot!,6922,6112,19594,Top 5 Unfunny,False,True,47,Human
+718,I don't need your approval. I just need you to tie the laces.,6960,6053,20448,Top 5 Unfunny,False,True,61,Human
+718,You should talk.  Look at that hat.,3894,5719,15072,Top 5 Unfunny,False,True,35,Human
+718,"Technically, they're still horseshoes.",4953,5553,17023,Top 5 Unfunny,False,True,38,Human

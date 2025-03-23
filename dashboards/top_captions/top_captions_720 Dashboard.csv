@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+720,Now imagine having to do that in heels,2647,4029,9952,Top 5 Funny,False,False,38,Human
+720,Your wife is lucky.  I can't even get my husband to pick up his towel.,2395,4231,9907,Top 5 Funny,False,True,70,Human
+720,Good for you! Men your age usually struggle getting it up.,1994,3391,7714,Top 5 Funny,False,True,58,Human
+720,I am also unattainable.,1980,4158,8389,Top 5 Funny,False,True,23,Human
+720,I changed my mind.  It would look better on the other side.,1919,2114,6526,Top 5 Funny,False,True,59,Human
+720,Your wife is lucky.  I can't even get my husband to pick up his towel.,2395,4231,9907,Top 5 Unfunny,False,True,70,Human
+720,I am also unattainable.,1980,4158,8389,Top 5 Unfunny,False,True,23,Human
+720,Now imagine having to do that in heels,2647,4029,9952,Top 5 Unfunny,False,False,38,Human
+720,You think that’s punishment?  Try an eternity of listening to pick-up lines.,1764,3598,7997,Top 5 Unfunny,True,True,76,Human
+720,Good for you! Men your age usually struggle getting it up.,1994,3391,7714,Top 5 Unfunny,False,True,58,Human

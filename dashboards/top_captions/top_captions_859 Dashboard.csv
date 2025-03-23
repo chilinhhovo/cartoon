@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+859,I have nothing left to prove.,849,2235,4013,Top 5 Funny,False,True,29,Human
+859,Just updating my password.,675,1606,3119,Top 5 Funny,False,True,26,Human
+859,"I do this to scare the students, I actually have no idea what it means.",662,1315,2909,Top 5 Funny,False,True,71,Human
+859,I always leave a little room for doubt.,605,1660,2837,Top 5 Funny,False,True,39,Human
+859,The Dean said to tell you ‘never mind!’,551,1243,2495,Top 5 Funny,False,False,39,Human
+859,I have nothing left to prove.,849,2235,4013,Top 5 Unfunny,False,True,29,Human
+859,I always leave a little room for doubt.,605,1660,2837,Top 5 Unfunny,False,True,39,Human
+859,Just updating my password.,675,1606,3119,Top 5 Unfunny,False,True,26,Human
+859,I've solved for x. Maybe you can figure out why.,537,1459,2417,Top 5 Unfunny,False,True,48,Human
+859,"I do this to scare the students, I actually have no idea what it means.",662,1315,2909,Top 5 Unfunny,False,True,71,Human

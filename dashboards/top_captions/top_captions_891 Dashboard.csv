@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+891,HR is concerned about your crotch-grabbing.,1341,3396,6042,Top 5 Funny,False,True,43,Human
+891,We’re looking for someone with more experience in the field.,772,2382,4568,Top 5 Funny,False,True,60,Human
+891,There's been a complaint about pine tar on the microwave.,712,2552,4297,Top 5 Funny,False,True,57,Human
+891,"Sorry, only the catcher works from home.",685,1406,2896,Top 5 Funny,False,True,40,Human
+891,Can you explain why your last employer said you were caught stealing?,654,1548,3072,Top 5 Funny,True,True,69,Human
+891,HR is concerned about your crotch-grabbing.,1341,3396,6042,Top 5 Unfunny,False,True,43,Human
+891,There's been a complaint about pine tar on the microwave.,712,2552,4297,Top 5 Unfunny,False,True,57,Human
+891,We’re looking for someone with more experience in the field.,772,2382,4568,Top 5 Unfunny,False,True,60,Human
+891,You've broken another window.,451,1803,2958,Top 5 Unfunny,False,True,29,Human
+891,Can you work an extra inning this weekend?,563,1773,3371,Top 5 Unfunny,True,True,42,Human

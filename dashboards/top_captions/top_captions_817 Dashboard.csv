@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+817,"If three wise, angry men come by, you haven’t seen me.",575,1461,2820,Top 5 Funny,False,True,54,Human
+817,"A genie granted me one wish. I said, ‘make me a star’.",502,1213,2364,Top 5 Funny,False,True,54,Human
+817,I hope nobody needs to go North.,418,1220,2376,Top 5 Funny,False,True,32,Human
+817,"They tell you to reach for these, but never what to do you if actually catch one.",387,784,1712,Top 5 Funny,False,True,81,Human
+817,I was really good in school today.,306,792,1595,Top 5 Funny,False,True,34,Human
+817,"If three wise, angry men come by, you haven’t seen me.",575,1461,2820,Top 5 Unfunny,False,True,54,Human
+817,I hope nobody needs to go North.,418,1220,2376,Top 5 Unfunny,False,True,32,Human
+817,"A genie granted me one wish. I said, ‘make me a star’.",502,1213,2364,Top 5 Unfunny,False,True,54,Human
+817,But I wanted the moon.,245,872,1585,Top 5 Unfunny,False,True,22,Human
+817,You told me to pack light.,252,863,1539,Top 5 Unfunny,False,True,26,Human

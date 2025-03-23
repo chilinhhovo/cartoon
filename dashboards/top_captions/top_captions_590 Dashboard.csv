@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+590,"No one will believe this, not in a million years.",1549,2058,5571,Top 5 Funny,False,True,49,Human
+590,It's a New Yorker cartoon. Just laugh and act like you get it.,1489,2209,5203,Top 5 Funny,False,True,62,Human
+590,"He did my summer cave in Lascaux, too.",1485,1651,4909,Top 5 Funny,False,True,38,Human
+590,"Sure, drawing it is the easy part, it's the caption that's tough.",1421,1697,4884,Top 5 Funny,False,True,65,Human
+590,I get he's an artist. It's the 'in residence' part I'm not comfortable with.,1398,1963,5446,Top 5 Funny,False,True,76,Human
+590,It's a New Yorker cartoon. Just laugh and act like you get it.,1489,2209,5203,Top 5 Unfunny,False,True,62,Human
+590,"No one will believe this, not in a million years.",1549,2058,5571,Top 5 Unfunny,False,True,49,Human
+590,"Sure he can draw, but can he do captions?",1028,1977,4749,Top 5 Unfunny,True,True,41,Human
+590,I get he's an artist. It's the 'in residence' part I'm not comfortable with.,1398,1963,5446,Top 5 Unfunny,False,True,76,Human
+590,They'll never believe this in a million years!,954,1925,4230,Top 5 Unfunny,False,True,46,Human

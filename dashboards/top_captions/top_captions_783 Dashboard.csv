@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+783,"It's perfectly normal to feel depressed around the hollandaise.""",1442,2188,4827,Top 5 Funny,False,False,64,Human
+783,It's not just your kids that hate you. All kids hate you.,927,2091,4219,Top 5 Funny,False,True,57,Human
+783,"If you think it’s not easy being green, you should try being black.",866,1693,3521,Top 5 Funny,False,True,67,Human
+783,I'm afraid that you're in a persistent vegetative state.,831,1781,3805,Top 5 Funny,False,True,56,Human
+783,"Usually, I treat couch potatoes.",793,1461,3328,Top 5 Funny,False,True,32,Human
+783,"It's perfectly normal to feel depressed around the hollandaise.""",1442,2188,4827,Top 5 Unfunny,False,False,64,Human
+783,It's not just your kids that hate you. All kids hate you.,927,2091,4219,Top 5 Unfunny,False,True,57,Human
+783,I'm afraid that you're in a persistent vegetative state.,831,1781,3805,Top 5 Unfunny,False,True,56,Human
+783,What happened after they invited you for a dip?,769,1721,3695,Top 5 Unfunny,True,True,47,Human
+783,"If you think it’s not easy being green, you should try being black.",866,1693,3521,Top 5 Unfunny,False,True,67,Human

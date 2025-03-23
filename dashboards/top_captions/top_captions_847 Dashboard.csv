@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+847,You look fabulous! Who does your air?,550,1766,3045,Top 5 Funny,True,True,37,Human
+847,You aren't the only giant windbag here.,381,1165,1979,Top 5 Funny,False,True,39,Human
+847,I'd love to hook you up with my leaf blower.,374,1176,2107,Top 5 Funny,False,True,44,Human
+847,Who does your air?,339,950,1709,Top 5 Funny,True,True,18,Human
+847,I absolutely love what you’ve done with your air.,331,952,1744,Top 5 Funny,False,True,49,Human
+847,You look fabulous! Who does your air?,550,1766,3045,Top 5 Unfunny,True,True,37,Human
+847,I'd love to hook you up with my leaf blower.,374,1176,2107,Top 5 Unfunny,False,True,44,Human
+847,You aren't the only giant windbag here.,381,1165,1979,Top 5 Unfunny,False,True,39,Human
+847,Still selling cars Bob?,309,1145,1899,Top 5 Unfunny,True,True,23,Human
+847,You seem to have an inflated sense of yourself.,279,1119,1903,Top 5 Unfunny,False,True,47,Human

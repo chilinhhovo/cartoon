@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+690,3 ..2.. 1..,351,61,432,Top 5 Funny,False,True,11,Human
+690,My mother in law sucks all the oxygen out of the room.,18,20,49,Top 5 Funny,False,True,54,Human
+690,... in case it DOESN’T stop at the penthouse ??,5,11,23,Top 5 Funny,True,True,47,Human
+690,"Watch your one small step, please.",5,15,25,Top 5 Funny,False,True,34,Human
+690,"Psychiatry - 5th floor, huh? Me too !",4,11,19,Top 5 Funny,True,True,37,Human
+690,3 ..2.. 1..,351,61,432,Top 5 Unfunny,False,True,11,Human
+690,My mother in law sucks all the oxygen out of the room.,18,20,49,Top 5 Unfunny,False,True,54,Human
+690,"Sorry Sir, this is as high as it goes.",1,18,21,Top 5 Unfunny,False,True,38,Human
+690,"Welcome home, sir. Long trip?",1,17,18,Top 5 Unfunny,True,True,29,Human
+690,My doctor prescribed this for all future travel to New Jersey.,0,17,18,Top 5 Unfunny,False,True,62,Human

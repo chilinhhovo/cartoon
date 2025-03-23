@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+625,"No, sir, this is Fenway. You're looking for Jurassic Park.",7152,5148,20166,Top 5 Funny,False,True,58,Human
+625,"Remember, if I catch the ball you stop trying to hit it.",5303,5658,17199,Top 5 Funny,False,True,56,Human
+625,How long you been with the club?,5030,5901,17737,Top 5 Funny,True,True,32,Human
+625,I’d say your timing’s a bit off.,4852,5668,17437,Top 5 Funny,False,True,32,Human
+625,That's not why I'm squatting.,4570,6185,16141,Top 5 Funny,False,True,29,Human
+625,This isn't a normal side effect Kenny.. how much of it did you take?!,4056,6509,15548,Top 5 Unfunny,True,True,69,Human
+625,That's not why I'm squatting.,4570,6185,16141,Top 5 Unfunny,False,True,29,Human
+625,How long you been with the club?,5030,5901,17737,Top 5 Unfunny,True,True,32,Human
+625,Is it true you played for Cleveland the year they won the Series?,3933,5865,14886,Top 5 Unfunny,True,True,65,Human
+625,I’d say your timing’s a bit off.,4852,5668,17437,Top 5 Unfunny,False,True,32,Human

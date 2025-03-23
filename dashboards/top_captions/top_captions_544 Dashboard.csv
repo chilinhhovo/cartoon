@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+544,I liked it better when they were just little voices inside our heads.,74,98,253,Top 5 Funny,False,True,69,Human
+544,"Given Mr Tell's declining accuracy with his bow and arrow, we're lucky the guys don't use Apples.",69,82,302,Top 5 Funny,False,True,97,Human
+544,"Where exactly is Bethlehem, NY? Hmmm. Off the top of my head … 42°36'N 73°50'W in Albany County.",60,80,282,Top 5 Funny,True,True,96,Human
+544,Are you thinking what I'm thinking?,47,89,148,Top 5 Funny,True,True,35,Human
+544,Have your person contact my person.,44,87,138,Top 5 Funny,False,True,35,Human
+544,I liked it better when they were just little voices inside our heads.,74,98,253,Top 5 Unfunny,False,True,69,Human
+544,Are you thinking what I'm thinking?,47,89,148,Top 5 Unfunny,True,True,35,Human
+544,Have your person contact my person.,44,87,138,Top 5 Unfunny,False,True,35,Human
+544,Have your guy call my guy.,41,84,130,Top 5 Unfunny,False,True,26,Human
+544,"Given Mr Tell's declining accuracy with his bow and arrow, we're lucky the guys don't use Apples.",69,82,302,Top 5 Unfunny,False,True,97,Human

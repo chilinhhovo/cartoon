@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+731,During next week's session we'll have you paint yourself into a corner.,2885,2774,8998,Top 5 Funny,False,True,71,Human
+731,I think we broke new ground today.,2112,2141,7312,Top 5 Funny,False,True,34,Human
+731,"No, by all means-I want to see where you're going with this.",1899,1889,6652,Top 5 Funny,False,True,60,Human
+731,"Well, I think we did more than scratch the surface today",1889,1877,6841,Top 5 Funny,False,False,56,Human
+731,You can leave him there but I’m still billing you for ‘couples’”,1833,2266,5881,Top 5 Funny,False,False,64,Human
+731,During next week's session we'll have you paint yourself into a corner.,2885,2774,8998,Top 5 Unfunny,False,True,71,Human
+731,Your time is up.  We'll dig a little deeper next week.,1790,2389,7465,Top 5 Unfunny,False,True,54,Human
+731,You can leave him there but I’m still billing you for ‘couples’”,1833,2266,5881,Top 5 Unfunny,False,False,64,Human
+731,I think we broke new ground today.,2112,2141,7312,Top 5 Unfunny,False,True,34,Human
+731,"Honey, please wait until Pennsylvania comes in.",996,2005,4291,Top 5 Unfunny,False,True,47,Human

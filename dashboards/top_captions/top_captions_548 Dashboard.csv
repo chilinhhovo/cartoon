@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+548,So Major Tom... Do you know how fast you were going?,359,427,898,Top 5 Funny,True,True,52,Human
+548,"Well, five acres of popcorn back there says you were.",319,360,963,Top 5 Funny,False,True,53,Human
+548,"Sir, I don't make the laws of physics I just enforce them.",221,291,754,Top 5 Funny,False,True,58,Human
+548,I'm going to need you to take one small step out of the vehicle,155,205,515,Top 5 Funny,False,False,63,Human
+548,"I don't make the laws of physics, sir. I just enforce them.",98,197,442,Top 5 Funny,False,True,59,Human
+548,So Major Tom... Do you know how fast you were going?,359,427,898,Top 5 Unfunny,True,True,52,Human
+548,"Well, five acres of popcorn back there says you were.",319,360,963,Top 5 Unfunny,False,True,53,Human
+548,"Sir, I don't make the laws of physics I just enforce them.",221,291,754,Top 5 Unfunny,False,True,58,Human
+548,I'm going to need you to take one small step out of the vehicle,155,205,515,Top 5 Unfunny,False,False,63,Human
+548,"I don't make the laws of physics, sir. I just enforce them.",98,197,442,Top 5 Unfunny,False,True,59,Human

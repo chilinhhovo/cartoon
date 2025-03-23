@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+575,We sue at dawn.,3513,2398,8955,Top 5 Funny,False,True,15,Human
+575,Let's pick up the pace. They're billing by the hour.,3249,1879,8330,Top 5 Funny,False,True,52,Human
+575,Hostile takeovers ain’t what they used to be.,2896,3190,9148,Top 5 Funny,False,True,45,Human
+575,The field will soon be littered with habeas corpuses.,2782,2498,8215,Top 5 Funny,False,True,53,Human
+575,"We may have lost the battle, but we'll win the appeal.",2330,2065,7535,Top 5 Funny,False,True,54,Human
+575,Hostile takeovers ain’t what they used to be.,2896,3190,9148,Top 5 Unfunny,False,True,45,Human
+575,The field will soon be littered with habeas corpuses.,2782,2498,8215,Top 5 Unfunny,False,True,53,Human
+575,We sue at dawn.,3513,2398,8955,Top 5 Unfunny,False,True,15,Human
+575,I hate legal battles.,1619,2376,6121,Top 5 Unfunny,False,True,21,Human
+575,The streets will run red with tape,2013,2282,6622,Top 5 Unfunny,False,False,34,Human

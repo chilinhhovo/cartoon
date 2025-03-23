@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+695,We have one slot left.,123,75,356,Top 5 Funny,False,True,22,Human
+695,"I don’t care if you were the “greatest thing” , you still need a reservation",32,38,108,Top 5 Funny,False,False,76,Human
+695,The poptarts are already seated.  You’re toast.,23,33,91,Top 5 Funny,False,True,47,Human
+695,"Sorry, we only serve toast at breakfast.",23,32,92,Top 5 Funny,False,True,40,Human
+695,"Greatest thing or not, you still need a reservation.",21,34,74,Top 5 Funny,False,True,52,Human
+695,We have one slot left.,123,75,356,Top 5 Unfunny,False,True,22,Human
+695,"Oh, you're the one who's so late...she said you were toast!",7,57,76,Top 5 Unfunny,False,True,59,Human
+695,"I'm not trying to get a rise out of you, but you're being kinda kneady.",6,57,82,Top 5 Unfunny,False,True,71,Human
+695,"Listen I know you've been working hard, but we can't keep you on. You're ""toast"", Jerry.",1,57,70,Top 5 Unfunny,False,True,88,Human
+695,Let's toast our bride and groom and hope their future is all peanut butter and jelly.,0,57,69,Top 5 Unfunny,False,True,85,Human

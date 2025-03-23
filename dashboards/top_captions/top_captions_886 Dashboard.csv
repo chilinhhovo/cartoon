@@ -1,0 +1,12 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+886,"When we agreed to take separate vacations, I hoped you'd go somewhere else.",718,1512,2859,Top 5 Funny,False,True,75,Human
+886,"It's not the sound of gentle waves kissing the shore, Walter.
+It's the dishwasher.",573,1063,2330,Top 5 Funny,False,True,82,Human
+886,My mother warned me about marrying a dermatologist.,509,1514,2352,Top 5 Funny,False,True,51,Human
+886,"If you close your eyes, the dishwasher sounds exactly like the ocean.",478,1376,2641,Top 5 Funny,False,True,69,Human
+886,"You're a lifeguard, Larry. You can't keep working from home.",468,782,1705,Top 5 Funny,False,True,60,Human
+886,My mother warned me about marrying a dermatologist.,509,1514,2352,Top 5 Unfunny,False,True,51,Human
+886,"When we agreed to take separate vacations, I hoped you'd go somewhere else.",718,1512,2859,Top 5 Unfunny,False,True,75,Human
+886,"If you close your eyes, the dishwasher sounds exactly like the ocean.",478,1376,2641,Top 5 Unfunny,False,True,69,Human
+886,Better give me all your passwords before high tide.”,399,1258,1950,Top 5 Unfunny,False,False,52,Human
+886,You still have to take out the garbage.,303,1134,1952,Top 5 Unfunny,False,True,39,Human

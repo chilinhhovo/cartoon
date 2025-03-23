@@ -1,0 +1,12 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+652,I wish we’d seen that before we ate Dave.,39,85,163,Top 5 Funny,False,True,41,Human
+652,I wish we'd noticed that before eating Bob.,36,71,135,Top 5 Funny,False,True,43,Human
+652,I really don't have any room left after we ate John.,36,90,158,Top 5 Funny,False,True,52,Human
+652,See any Lifesavers?,34,82,141,Top 5 Funny,True,True,19,Human
+652,Looks completely desserted.,34,103,175,Top 5 Funny,False,True,27,Human
+652,My girlfriend just went sugar-free. What's your story?,2,162,178,Top 5 Unfunny,True,True,54,Human
+652,I got you babe,2,161,185,Top 5 Unfunny,False,False,14,Human
+652,"I said, bitch, I'm Dirt McGirt, fresh out and back on the scene,
+and don't you ever in your life turn ya back on the king",1,160,173,Top 5 Unfunny,False,False,121,Human
+652,"I told you, I just cant afford the calories on this diet.",3,159,183,Top 5 Unfunny,False,True,57,Human
+652,It’s a one-way only trip....there’ll be no coming back!,4,156,176,Top 5 Unfunny,False,True,55,Human

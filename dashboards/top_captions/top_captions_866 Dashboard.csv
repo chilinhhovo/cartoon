@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+866,It’s mostly water weight.,1853,4531,8136,Top 5 Funny,False,True,25,Human
+866,Everything I drink goes to my equator.”,1542,4233,7410,Top 5 Funny,False,False,39,Human
+866,One more round and I'll call it a day.,991,3082,5291,Top 5 Funny,False,True,38,Human
+866,"Look, pal — I know when something is seventy percent water.",942,2334,4246,Top 5 Funny,False,True,59,Human
+866,I turn around and the day is gone.,937,2910,5080,Top 5 Funny,False,True,34,Human
+866,It’s mostly water weight.,1853,4531,8136,Top 5 Unfunny,False,True,25,Human
+866,Everything I drink goes to my equator.”,1542,4233,7410,Top 5 Unfunny,False,False,39,Human
+866,One more round and I'll call it a day.,991,3082,5291,Top 5 Unfunny,False,True,38,Human
+866,I turn around and the day is gone.,937,2910,5080,Top 5 Unfunny,False,True,34,Human
+866,Did I mention that I'm bipolar?,846,2681,4653,Top 5 Unfunny,True,True,31,Human

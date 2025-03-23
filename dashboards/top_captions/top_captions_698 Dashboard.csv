@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+698,"Harry, the whole point of leaving England was to blend in.",5326,3137,13541,Top 5 Funny,False,True,58,Human
+698,Maybe His Highness should make reservations next time.,3514,4164,12446,Top 5 Funny,False,True,54,Human
+698,I think the editors should pick a caption. Letting people vote is how we got Trump.,3292,4653,10366,Top 5 Funny,False,True,83,Human
+698,"OK, then, you're a ROYAL pain in the ass . . .",3154,4279,11170,Top 5 Funny,False,True,46,Human
+698,"I don't care what your ancestry results said, you look ridiculous.",3032,4239,11257,Top 5 Funny,False,True,66,Human
+698,I think the editors should pick a caption. Letting people vote is how we got Trump.,3292,4653,10366,Top 5 Unfunny,False,True,83,Human
+698,"OK, then, you're a ROYAL pain in the ass . . .",3154,4279,11170,Top 5 Unfunny,False,True,46,Human
+698,"I don't care what your ancestry results said, you look ridiculous.",3032,4239,11257,Top 5 Unfunny,False,True,66,Human
+698,Maybe His Highness should make reservations next time.,3514,4164,12446,Top 5 Unfunny,False,True,54,Human
+698,"So, how long were you a frog for?",2699,4032,10431,Top 5 Unfunny,True,True,33,Human

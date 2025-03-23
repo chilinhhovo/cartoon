@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+788,I assume it’s a destination wedding?,1831,3115,7040,Top 5 Funny,True,True,36,Human
+788,Or you could get vaccinated.,1742,2998,6626,Top 5 Funny,False,True,28,Human
+788,Or you could just get vaccinated.,1739,2969,6605,Top 5 Funny,False,True,33,Human
+788,Is it a destination wedding?,1119,2393,5130,Top 5 Funny,True,True,28,Human
+788,Let’s see you take one small step.,1064,2190,5056,Top 5 Funny,False,True,34,Human
+788,I assume it’s a destination wedding?,1831,3115,7040,Top 5 Unfunny,True,True,36,Human
+788,Or you could get vaccinated.,1742,2998,6626,Top 5 Unfunny,False,True,28,Human
+788,Or you could just get vaccinated.,1739,2969,6605,Top 5 Unfunny,False,True,33,Human
+788,Is it a destination wedding?,1119,2393,5130,Top 5 Unfunny,True,True,28,Human
+788,Let’s see you take one small step.,1064,2190,5056,Top 5 Unfunny,False,True,34,Human

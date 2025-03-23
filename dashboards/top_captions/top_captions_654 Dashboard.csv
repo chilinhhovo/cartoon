@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+654,I certainly won't be ordering the chocolate lava cake.,47,133,224,Top 5 Funny,False,True,54,Human
+654,I’d like to cancel my lava cake.,46,112,195,Top 5 Funny,False,True,32,Human
+654,Cancel the molten lava cake.,43,105,196,Top 5 Funny,False,True,28,Human
+654,Cancel the Lava cake for desert.,42,112,203,Top 5 Funny,False,True,32,Human
+654,I can't wait to see the Molten Lava Cake.,42,136,224,Top 5 Funny,False,True,41,Human
+654,Now that is a deserted island!,4,215,245,Top 5 Unfunny,False,True,30,Human
+654,The best possible way to mix the ingredients of bird’s nest stew!,5,210,236,Top 5 Unfunny,False,True,65,Human
+654,"I ordered Alfredo, Alfredo !",6,202,230,Top 5 Unfunny,False,True,28,Human
+654,Do you carry tornado insurance against loss if soup?,0,200,221,Top 5 Unfunny,True,True,52,Human
+654,"Yes, I ordered it this way. Now send me your some goggles",1,197,217,Top 5 Unfunny,False,False,57,Human

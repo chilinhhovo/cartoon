@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+522,Have you tried turning it off and back on again?,1008,1439,4197,Top 5 Funny,True,True,48,Human
+522,"Yes sir, a martini for you and a screwdriver for the monster.",542,1040,2445,Top 5 Funny,False,True,61,Human
+522,"Do you still need a hand, Sir?",295,646,1445,Top 5 Funny,True,True,30,Human
+522,the mrs. requests you come upstairs and try creating life the old fashioned way,255,577,1229,Top 5 Funny,False,False,79,Human
+522,"Yes, my license says I'm an organ donor....why do you ask?",247,606,1386,Top 5 Funny,True,True,58,Human
+522,Have you tried turning it off and back on again?,1008,1439,4197,Top 5 Unfunny,True,True,48,Human
+522,"Yes sir, a martini for you and a screwdriver for the monster.",542,1040,2445,Top 5 Unfunny,False,True,61,Human
+522,"Do you still need a hand, Sir?",295,646,1445,Top 5 Unfunny,True,True,30,Human
+522,"Yes, my license says I'm an organ donor....why do you ask?",247,606,1386,Top 5 Unfunny,True,True,58,Human
+522,the mrs. requests you come upstairs and try creating life the old fashioned way,255,577,1229,Top 5 Unfunny,False,False,79,Human

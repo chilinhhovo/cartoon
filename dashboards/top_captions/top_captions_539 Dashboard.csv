@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+539,I don't think he realizes the gravity of the situation.,176,326,746,Top 5 Funny,False,True,55,Human
+539,"Wait, the GPS is recalculating",136,291,681,Top 5 Funny,False,False,30,Human
+539,Now THAT'S the road less traveled!,117,280,646,Top 5 Funny,False,True,34,Human
+539,"Thank God. For a moment there, I thought he was going to jump!",95,246,463,Top 5 Funny,False,True,62,Human
+539,He doesn't seem to appreciate the gravity of his situation.,89,238,440,Top 5 Funny,False,True,59,Human
+539,I don't think he realizes the gravity of the situation.,176,326,746,Top 5 Unfunny,False,True,55,Human
+539,"Wait, the GPS is recalculating",136,291,681,Top 5 Unfunny,False,False,30,Human
+539,Now THAT'S the road less traveled!,117,280,646,Top 5 Unfunny,False,True,34,Human
+539,"Thank God. For a moment there, I thought he was going to jump!",95,246,463,Top 5 Unfunny,False,True,62,Human
+539,He doesn't seem to appreciate the gravity of his situation.,89,238,440,Top 5 Unfunny,False,True,59,Human

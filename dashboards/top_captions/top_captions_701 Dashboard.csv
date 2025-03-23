@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+701,I've been coming to this place since it was a hole in the wall.,8012,3587,17326,Top 5 Funny,False,True,63,Human
+701,I just want to make sure 'mousse' isn't a typo.,7126,2078,14266,Top 5 Funny,False,True,47,Human
+701,"I know I don't look familiar, but believe me, I eat here all the time.",5823,3302,14102,Top 5 Funny,False,True,70,Human
+701,"Just coffee, I have to get back to the lab.",5708,4106,15484,Top 5 Funny,False,True,43,Human
+701,I was considering ordering the cheese board but that seems like a trap.,4896,1964,10919,Top 5 Funny,False,True,71,Human
+701,"Just coffee, I have to get back to the lab.",5708,4106,15484,Top 5 Unfunny,False,True,43,Human
+701,I trust that the 'chocolate mouse' is a typo.,2597,3701,9808,Top 5 Unfunny,False,True,45,Human
+701,I've been coming to this place since it was a hole in the wall.,8012,3587,17326,Top 5 Unfunny,False,True,63,Human
+701,"The last time I was here, I swear they tried to poison me.",3300,3478,10560,Top 5 Unfunny,False,True,58,Human
+701,I remember when this place was just a hole in the wall.,2838,3337,9866,Top 5 Unfunny,False,True,55,Human

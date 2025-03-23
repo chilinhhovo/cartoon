@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='504.00pt' height='288.00pt' viewBox='0 0 504.00 288.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MDQuMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='504.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwyODguMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpMTAyLjE1fDQ5Ny4wM3w0OS44M3wyNDcuNjI='>
+    <rect x='102.15' y='49.83' width='394.88' height='197.79' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTAyLjE1fDQ5Ny4wM3w0OS44M3wyNDcuNjI=)'>
+<rect x='120.10' y='171.20' width='194.22' height='44.95' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #74AA9C;' />
+<rect x='120.10' y='81.30' width='97.33' height='44.95' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #DA7859;' />
+<text x='317.17' y='197.76' style='font-size: 11.38px; font-family: "Arial";' textLength='28.48px' lengthAdjust='spacingAndGlyphs'>0.219</text>
+<text x='219.65' y='107.85' style='font-size: 11.38px; font-family: "Arial";' textLength='22.15px' lengthAdjust='spacingAndGlyphs'>0.11</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1MDQuMDB8MC4wMHwyODguMDA=)'>
+<text x='95.87' y='197.69' text-anchor='end' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='88.90px' lengthAdjust='spacingAndGlyphs'>ChatGPT (gpt-4o)</text>
+<text x='95.87' y='107.79' text-anchor='end' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='35.45px' lengthAdjust='spacingAndGlyphs'>Claude</text>
+<text x='120.10' y='261.92' text-anchor='middle' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='15.55px' lengthAdjust='spacingAndGlyphs'>0.0</text>
+<text x='208.93' y='261.92' text-anchor='middle' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='15.55px' lengthAdjust='spacingAndGlyphs'>0.1</text>
+<text x='297.76' y='261.92' text-anchor='middle' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='15.55px' lengthAdjust='spacingAndGlyphs'>0.2</text>
+<text x='386.59' y='261.92' text-anchor='middle' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='15.55px' lengthAdjust='spacingAndGlyphs'>0.3</text>
+<text x='475.43' y='261.92' text-anchor='middle' style='font-size: 11.20px;fill: #4D4D4D; font-family: "Arial";' textLength='15.55px' lengthAdjust='spacingAndGlyphs'>0.4</text>
+<text x='299.59' y='277.93' text-anchor='middle' style='font-size: 14.00px; font-family: "Arial";' textLength='157.92px' lengthAdjust='spacingAndGlyphs'>Mean Semantic Similarity</text>
+<text x='102.15' y='39.76' style='font-size: 14.00px; font-family: "Arial";' textLength='321.30px' lengthAdjust='spacingAndGlyphs'>ChatGPT aligned more closely with human captions</text>
+<text x='102.15' y='19.03' style='font-size: 16.80px; font-family: "Arial";' textLength='210.96px' lengthAdjust='spacingAndGlyphs'>Contest 667 - ChatGPT won</text>
+</g>
+</svg>

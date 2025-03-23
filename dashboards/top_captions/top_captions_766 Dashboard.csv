@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+766,"Well played, Fran. The tuba will be gone by morning.",1732,2567,6237,Top 5 Funny,False,True,52,Human
+766,"Yes, I'm sure the noise is coming from your apartment!",1071,2172,4904,Top 5 Funny,False,True,54,Human
+766,I sent my wife up an hour ago about the noise. Have you seen her?,987,1831,4218,Top 5 Funny,True,True,65,Human
+766,I hope my knocking on your door for the last 20 minutes didn't disturb you.,943,1671,3945,Top 5 Funny,False,True,75,Human
+766,"Yes, I'm pretty sure the noise is coming from your apartment.""",893,1630,3961,Top 5 Funny,False,False,62,Human
+766,"Well played, Fran. The tuba will be gone by morning.",1732,2567,6237,Top 5 Unfunny,False,True,52,Human
+766,"Yes, I'm sure the noise is coming from your apartment!",1071,2172,4904,Top 5 Unfunny,False,True,54,Human
+766,I sent my wife up an hour ago about the noise. Have you seen her?,987,1831,4218,Top 5 Unfunny,True,True,65,Human
+766,This is the only time I would consider myself anti-vacs,793,1688,3562,Top 5 Unfunny,False,False,55,Human
+766,I hope my knocking on your door for the last 20 minutes didn't disturb you.,943,1671,3945,Top 5 Unfunny,False,True,75,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+769,"His favorite book is A Farewell to Arms, so don't get too close.",2144,2797,7006,Top 5 Funny,False,True,64,Human
+769,"Trying to make it feel more like Amazon. I mean, the Amazon.",1936,1348,4228,Top 5 Funny,False,True,60,Human
+769,What kind of dog was it?,1867,3201,6898,Top 5 Funny,True,True,24,Human
+769,"…yeah, we ordered from the wrong Amazon.",1526,2260,5198,Top 5 Funny,False,True,40,Human
+769,It's not really a book signing.  More of an eat and greet.,1176,1789,4379,Top 5 Funny,False,True,58,Human
+769,What kind of dog was it?,1867,3201,6898,Top 5 Unfunny,True,True,24,Human
+769,"His favorite book is A Farewell to Arms, so don't get too close.",2144,2797,7006,Top 5 Unfunny,False,True,64,Human
+769,"…yeah, we ordered from the wrong Amazon.",1526,2260,5198,Top 5 Unfunny,False,True,40,Human
+769,"The books under him are for sale too, but they cost an arm and a leg.",1041,1864,4066,Top 5 Unfunny,False,True,69,Human
+769,It's not really a book signing.  More of an eat and greet.,1176,1789,4379,Top 5 Unfunny,False,True,58,Human

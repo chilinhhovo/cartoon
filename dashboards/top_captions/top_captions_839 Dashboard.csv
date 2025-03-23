@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+839,I don't care what Satan lets his kids do.,604,1171,2462,Top 5 Funny,False,True,41,Human
+839,Why am I even paying for harp lessons?,482,1366,2572,Top 5 Funny,True,True,38,Human
+839,Don't forget to put them back in orbit when you're done playing.,472,1319,2620,Top 5 Funny,False,True,64,Human
+839,Careful. It took me a week to make that one.,450,1195,2395,Top 5 Funny,False,True,44,Human
+839,Where on Earth are you aiming,431,1168,2250,Top 5 Funny,False,False,29,Human
+839,Why am I even paying for harp lessons?,482,1366,2572,Top 5 Unfunny,True,True,38,Human
+839,Don't forget to put them back in orbit when you're done playing.,472,1319,2620,Top 5 Unfunny,False,True,64,Human
+839,Careful. It took me a week to make that one.,450,1195,2395,Top 5 Unfunny,False,True,44,Human
+839,"Easy, Michael.  Last time you broke you wiped out the dinosaurs.",424,1176,2274,Top 5 Unfunny,False,True,64,Human
+839,"They call it ""big bang."" We call it ""break.""",401,1176,2224,Top 5 Unfunny,False,False,44,Human

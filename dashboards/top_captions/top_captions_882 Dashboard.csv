@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+882,I think this calls for a discouraging word.,1352,2416,4986,Top 5 Funny,False,True,43,Human
+882,He saw the wrong man about a horse.,885,2420,4802,Top 5 Funny,False,True,35,Human
+882,He’s been through the desert on a horse with no mane.,664,1617,3015,Top 5 Funny,False,True,53,Human
+882,Never buy a horse online.,604,1630,3138,Top 5 Funny,False,True,25,Human
+882,"Yeah, he’s good. But I don’t think he’s going anywhere.",551,1328,2711,Top 5 Funny,False,True,55,Human
+882,He saw the wrong man about a horse.,885,2420,4802,Top 5 Unfunny,False,True,35,Human
+882,I think this calls for a discouraging word.,1352,2416,4986,Top 5 Unfunny,False,True,43,Human
+882,Never buy a horse online.,604,1630,3138,Top 5 Unfunny,False,True,25,Human
+882,He’s been through the desert on a horse with no mane.,664,1617,3015,Top 5 Unfunny,False,True,53,Human
+882,And that's why we never use a job recruiter from back East.,445,1468,2640,Top 5 Unfunny,False,True,59,Human

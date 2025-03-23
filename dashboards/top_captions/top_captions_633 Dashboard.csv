@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+633,Can you spell social security?,4085,7740,14289,Top 5 Funny,True,True,30,Human
+633,"Stop calling me 'Dad', you're embarrassing me in front of my friends.",3236,4808,12332,Top 5 Funny,False,True,69,Human
+633,"Now that recreational pot is legal, you'll be seeing a lot more of us.",2977,4664,11918,Top 5 Funny,False,True,70,Human
+633,"Sorry, kid, but this is the corporate ladder.",2766,3715,10328,Top 5 Funny,False,True,45,Human
+633,Shouldn't you be somewhere staring at a screen?,2334,4236,10472,Top 5 Funny,True,True,47,Human
+633,Can you spell social security?,4085,7740,14289,Top 5 Unfunny,True,True,30,Human
+633,"Stop calling me 'Dad', you're embarrassing me in front of my friends.",3236,4808,12332,Top 5 Unfunny,False,True,69,Human
+633,"Now that recreational pot is legal, you'll be seeing a lot more of us.",2977,4664,11918,Top 5 Unfunny,False,True,70,Human
+633,Shouldn't you be somewhere staring at a screen?,2334,4236,10472,Top 5 Unfunny,True,True,47,Human
+633,Our Boss told us to work on our slide presentation,2203,4089,9390,Top 5 Unfunny,False,False,50,Human

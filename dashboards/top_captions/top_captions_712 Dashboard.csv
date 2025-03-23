@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+712,Tell me about a time you identified a problem that others didn't see coming.,8464,4384,19606,Top 5 Funny,False,True,76,Human
+712,It was at that precise moment that George realized he could tell his boss exactly where to shove that performance review.,7362,4809,17151,Top 5 Funny,False,True,121,Human
+712,So...we had a bad 1st quarter. It’s not the end of the world.,7314,2882,17162,Top 5 Funny,False,True,61,Human
+712,Barring any unforeseen complications...,6555,6419,20578,Top 5 Funny,False,True,39,Human
+712,Just one last question:  Where do you see yourself in 5 years?,5579,4528,16153,Top 5 Funny,True,True,62,Human
+712,Barring any unforeseen complications...,6555,6419,20578,Top 5 Unfunny,False,True,39,Human
+712,It was at that precise moment that George realized he could tell his boss exactly where to shove that performance review.,7362,4809,17151,Top 5 Unfunny,False,True,121,Human
+712,Just one last question:  Where do you see yourself in 5 years?,5579,4528,16153,Top 5 Unfunny,True,True,62,Human
+712,Tell me about a time you identified a problem that others didn't see coming.,8464,4384,19606,Top 5 Unfunny,False,True,76,Human
+712,It's actually a painting but it gives me an edge during negotiation.,4046,3911,11935,Top 5 Unfunny,False,True,68,Human

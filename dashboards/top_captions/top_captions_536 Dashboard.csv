@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+536,Sometimes a dipstick is just a dipstick.,1512,827,2614,Top 5 Funny,False,True,40,Human
+536,"The impotence, that feeling of being out of control when you find yourself parallel parking against your will, probably started when you were being assembled.",98,145,261,Top 5 Funny,False,True,158,Human
+536,I'd like to see you again in two thousand miles.,59,108,247,Top 5 Funny,False,True,48,Human
+536,"I'm afraid we're out of time, but I'd like to see you again in 5,000 miles …",45,98,202,Top 5 Funny,False,False,76,Human
+536,And are the clowns inside you now?,45,99,181,Top 5 Funny,True,True,34,Human
+536,Sometimes a dipstick is just a dipstick.,1512,827,2614,Top 5 Unfunny,False,True,40,Human
+536,"The impotence, that feeling of being out of control when you find yourself parallel parking against your will, probably started when you were being assembled.",98,145,261,Top 5 Unfunny,False,True,158,Human
+536,I'd like to see you again in two thousand miles.,59,108,247,Top 5 Unfunny,False,True,48,Human
+536,So you're no longer attending your AAA meetings?,44,99,191,Top 5 Unfunny,True,True,48,Human
+536,And are the clowns inside you now?,45,99,181,Top 5 Unfunny,True,True,34,Human

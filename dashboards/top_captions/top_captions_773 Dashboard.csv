@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+773,„.dnos ǝɥʇ ɹǝpɹo ʇ’uoᗡ„,1245,1565,4022,Top 5 Funny,False,False,23,Human
+773,Your first time in Australia?,654,1155,2651,Top 5 Funny,True,True,29,Human
+773,"I guess I should have said ""cheers"" instead of ""bottoms up.""",624,1069,2647,Top 5 Funny,False,False,60,Human
+773,I'm definitely ordering the sticky rice.,607,1103,2804,Top 5 Funny,False,True,40,Human
+773,We should've ordered our drinks straight up.,606,1002,2385,Top 5 Funny,False,True,44,Human
+773,„.dnos ǝɥʇ ɹǝpɹo ʇ’uoᗡ„,1245,1565,4022,Top 5 Unfunny,False,False,23,Human
+773,Your first time in Australia?,654,1155,2651,Top 5 Unfunny,True,True,29,Human
+773,I'm definitely ordering the sticky rice.,607,1103,2804,Top 5 Unfunny,False,True,40,Human
+773,"I guess I should have said ""cheers"" instead of ""bottoms up.""",624,1069,2647,Top 5 Unfunny,False,False,60,Human
+773,"If we order the apple turnover, we should be ok.",531,1033,2442,Top 5 Unfunny,False,True,48,Human

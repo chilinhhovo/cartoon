@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+746,I forgot what I came upstairs for.,1738,2127,5902,Top 5 Funny,False,True,34,Human
+746,That wasn't the kind of erection I had in mind,1639,2607,6134,Top 5 Funny,False,False,46,Human
+746,"On second thought, put them back in a circle.",1599,2111,6126,Top 5 Funny,False,True,45,Human
+746,It’s a rock classic.  I’ll call it Stairway to Heaven.,1456,2224,5486,Top 5 Funny,False,True,54,Human
+746,How about you do a little more hunting and a little less gathering?,1445,2000,5538,Top 5 Funny,True,True,67,Human
+746,That wasn't the kind of erection I had in mind,1639,2607,6134,Top 5 Unfunny,False,False,46,Human
+746,It’s a rock classic.  I’ll call it Stairway to Heaven.,1456,2224,5486,Top 5 Unfunny,False,True,54,Human
+746,Did you even look at the instructions?,1336,2181,5658,Top 5 Unfunny,True,True,38,Human
+746,"First a wheel, now stairs. When are you going to invent something useful?",1383,2179,5498,Top 5 Unfunny,True,True,73,Human
+746,"Okay, now throw me the slinky.",1292,2131,5210,Top 5 Unfunny,False,True,30,Human

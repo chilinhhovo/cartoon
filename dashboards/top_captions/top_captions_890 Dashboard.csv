@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+890,You could have mentioned that those photos were from 13 billion years ago.,828,1622,3426,Top 5 Funny,False,True,74,Human
+890,You're being nebulous again.,731,1807,3422,Top 5 Funny,False,True,28,Human
+890,"Then, of course, there's the age difference.",676,1305,2873,Top 5 Funny,False,True,44,Human
+890,Of course I’ve been seeing other galaxies—I’m an astronomer.,598,1411,2936,Top 5 Funny,False,True,60,Human
+890,This restaurant has only 5 stars,584,1431,2842,Top 5 Funny,False,False,32,Human
+890,You're being nebulous again.,731,1807,3422,Top 5 Unfunny,False,True,28,Human
+890,You could have mentioned that those photos were from 13 billion years ago.,828,1622,3426,Top 5 Unfunny,False,True,74,Human
+890,This restaurant has only 5 stars,584,1431,2842,Top 5 Unfunny,False,False,32,Human
+890,Of course I’ve been seeing other galaxies—I’m an astronomer.,598,1411,2936,Top 5 Unfunny,False,True,60,Human
+890,I don’t care if you travelled at the speed of light.  You’re still late.,581,1384,2837,Top 5 Unfunny,False,True,72,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+626,"No, I said I'm getting BUCKED, with a B.",2927,5338,12678,Top 5 Funny,False,True,40,Human
+626,"No, I can’t hold on.",2649,4788,12125,Top 5 Funny,False,True,20,Human
+626,"About to land now, call you when I'm on the ground.",2551,4692,12295,Top 5 Funny,False,True,51,Human
+626,"Test driving a new mustang, what are you up to?",2527,4636,11845,Top 5 Funny,True,True,47,Human
+626,Turns out this IS my first rodeo.,2459,4360,10496,Top 5 Funny,False,True,33,Human
+626,"No, I said I'm getting BUCKED, with a B.",2927,5338,12678,Top 5 Unfunny,False,True,40,Human
+626,"No, I can’t hold on.",2649,4788,12125,Top 5 Unfunny,False,True,20,Human
+626,Hold on!--it's just a dead zone.,1951,4718,8382,Top 5 Unfunny,False,True,32,Human
+626,"About to land now, call you when I'm on the ground.",2551,4692,12295,Top 5 Unfunny,False,True,51,Human
+626,"You’re absolutely right, dear – the rattlesnake ringer tone was not a good idea!",2402,4659,10301,Top 5 Unfunny,False,True,80,Human

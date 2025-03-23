@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+724,"Oh really? Well, I thought bookstores were extinct.",3843,4651,12059,Top 5 Funny,True,True,51,Human
+724,"""MEET ??"". I heard ""EAT"".",3339,2595,9135,Top 5 Funny,True,True,25,Human
+724,"Mary Trump, your uncle sent me.",3301,3916,9746,Top 5 Funny,False,True,31,Human
+724,"The phrase you used, I believe, was, “Hilariously short arms.”",3091,4286,10992,Top 5 Funny,False,False,62,Human
+724,You're still publishing on paper and I'm the dinosaur?,2815,3965,10123,Top 5 Funny,True,True,54,Human
+724,"Oh really? Well, I thought bookstores were extinct.",3843,4651,12059,Top 5 Unfunny,True,True,51,Human
+724,I saw a line and just started eating.,2032,4599,8519,Top 5 Unfunny,False,True,37,Human
+724,"The phrase you used, I believe, was, “Hilariously short arms.”",3091,4286,10992,Top 5 Unfunny,False,False,62,Human
+724,"I’m really not the monster you made me out to be, Barbara.",2309,4248,10119,Top 5 Unfunny,False,True,58,Human
+724,You're still publishing on paper and I'm the dinosaur?,2815,3965,10123,Top 5 Unfunny,True,True,54,Human

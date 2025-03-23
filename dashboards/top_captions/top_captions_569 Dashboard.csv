@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+569,"Three yea's, six ney's, and Anderson is still up in the air on this one.",1014,1016,3304,Top 5 Funny,False,True,72,Human
+569,He's been suspended indefinitely.,787,870,2578,Top 5 Funny,False,True,33,Human
+569,"I think you fail to recognize the gravity of our situation, Atkins.",743,1043,2789,Top 5 Funny,False,True,67,Human
+569,The memo said to 'expect incoming male' but we had assumed it was a typo,560,1033,2475,Top 5 Funny,False,False,72,Human
+569,This is no time for levity.,544,1093,2560,Top 5 Funny,False,True,27,Human
+569,This is no time for levity.,544,1093,2560,Top 5 Unfunny,False,True,27,Human
+569,"I think you fail to recognize the gravity of our situation, Atkins.",743,1043,2789,Top 5 Unfunny,False,True,67,Human
+569,The memo said to 'expect incoming male' but we had assumed it was a typo,560,1033,2475,Top 5 Unfunny,False,False,72,Human
+569,"Three yea's, six ney's, and Anderson is still up in the air on this one.",1014,1016,3304,Top 5 Unfunny,False,True,72,Human
+569,At this time I'd like to turn it over to Mr. Thompson from our satellite office.,465,1011,2258,Top 5 Unfunny,False,True,80,Human

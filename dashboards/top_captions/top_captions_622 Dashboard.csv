@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+622,To go?,138,100,370,Top 5 Funny,True,True,6,Human
+622,My wife got the house.,58,115,244,Top 5 Funny,False,True,22,Human
+622,"It’ll have to be rare, buddy. I get off at 42nd Street.",25,74,157,Top 5 Funny,False,True,55,Human
+622,"If you want cheese, you’ll have to stay on until 59th Street.",24,73,150,Top 5 Funny,False,True,61,Human
+622,Penn Station is medium. Times Square is well done.,19,60,93,Top 5 Funny,False,True,50,Human
+622,My wife got the house.,58,115,244,Top 5 Unfunny,False,True,22,Human
+622,To go?,138,100,370,Top 5 Unfunny,True,True,6,Human
+622,"It’ll have to be rare, buddy. I get off at 42nd Street.",25,74,157,Top 5 Unfunny,False,True,55,Human
+622,"If you want cheese, you’ll have to stay on until 59th Street.",24,73,150,Top 5 Unfunny,False,True,61,Human
+622,OK ... but tell your friends it's BYOB.,13,73,115,Top 5 Unfunny,False,True,39,Human

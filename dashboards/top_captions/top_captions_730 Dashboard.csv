@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+730,"I'm the only one commenting on your name, Dr. Katz?",60,39,119,Top 5 Funny,True,True,51,Human
+730,"Says here, you have a lot of lab experience.",7,11,23,Top 5 Funny,False,True,44,Human
+730,"I'm impressed by how quickly you made it here, doctor. This lab is a maze.",7,13,26,Top 5 Funny,False,True,74,Human
+730,"If you're free after work, I know this hole-in-the-wall place you'll love.",6,13,28,Top 5 Funny,False,True,74,Human
+730,"For the last time, Bob, I don’t know who moved your cheese.",5,11,22,Top 5 Funny,False,True,59,Human
+730,"I'm the only one commenting on your name, Dr. Katz?",60,39,119,Top 5 Unfunny,True,True,51,Human
+730,This is not going to play well on social media.,1,23,26,Top 5 Unfunny,False,True,47,Human
+730,"I know you grew attached to them, but we need to terminate those four turtle subjects",2,21,28,Top 5 Unfunny,False,False,85,Human
+730,"Ethical concerns aside, you are gonna love being on this side of the microscope.",0,20,24,Top 5 Unfunny,False,True,80,Human
+730,You were warned about side effects.,1,19,24,Top 5 Unfunny,False,True,35,Human

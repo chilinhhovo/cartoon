@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+566,Call him Ishmeow.,226,475,976,Top 5 Funny,False,True,17,Human
+566,"That's Ahab's brother, Rehab. He's in pet therapy.",203,509,938,Top 5 Funny,False,True,50,Human
+566,Am I the only one who misses the parrot?,182,463,954,Top 5 Funny,True,True,40,Human
+566,Since when do we have a pension plan?,173,564,949,Top 5 Funny,True,True,37,Human
+566,He calls it Ishmeow,162,454,858,Top 5 Funny,False,False,19,Human
+566,Since when do we have a pension plan?,173,564,949,Top 5 Unfunny,True,True,37,Human
+566,"That's Ahab's brother, Rehab. He's in pet therapy.",203,509,938,Top 5 Unfunny,False,True,50,Human
+566,Call him Ishmeow.,226,475,976,Top 5 Unfunny,False,True,17,Human
+566,Am I the only one who misses the parrot?,182,463,954,Top 5 Unfunny,True,True,40,Human
+566,He calls it Ishmeow,162,454,858,Top 5 Unfunny,False,False,19,Human

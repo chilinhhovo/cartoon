@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+560,That's Bob Mankoff. He used to be the cartoon editor of the New Yorker.,1672,2004,4836,Top 5 Funny,False,True,71,Human
+560,He got the cave but she got the wheel and the fire.,1447,1924,4714,Top 5 Funny,False,True,51,Human
+560,I couldn't afford that place if I lived to be 30.,1056,2097,4530,Top 5 Funny,False,True,49,Human
+560,I invented fire. He invested in it.,945,1938,4071,Top 5 Funny,False,True,35,Human
+560,So this is how the 1% live.,926,1892,4121,Top 5 Funny,False,True,27,Human
+560,I couldn't afford that place if I lived to be 30.,1056,2097,4530,Top 5 Unfunny,False,True,49,Human
+560,That's Bob Mankoff. He used to be the cartoon editor of the New Yorker.,1672,2004,4836,Top 5 Unfunny,False,True,71,Human
+560,Why can't I have a man cave?,611,1962,3582,Top 5 Unfunny,True,True,28,Human
+560,I invented fire. He invested in it.,945,1938,4071,Top 5 Unfunny,False,True,35,Human
+560,He got the cave but she got the wheel and the fire.,1447,1924,4714,Top 5 Unfunny,False,True,51,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+613,"We are authorized to use farce, if necessary.",1575,1681,5009,Top 5 Funny,False,True,45,Human
+613,"Unless you want a very long ride in a very small car, I suggest you start talking.",1399,1798,5053,Top 5 Funny,False,True,82,Human
+613,"If you think he's a clown, wait until you meet your public defender.",1312,2124,5274,Top 5 Funny,False,True,68,Human
+613,“I’m the carrot. He’s the stchick”.,1191,2223,5042,Top 5 Funny,False,True,35,Human
+613,Don't make us go for the juggler.,1058,1611,3982,Top 5 Funny,False,True,33,Human
+613,Does it look like we're joking?,1058,2229,5150,Top 5 Unfunny,True,True,31,Human
+613,“I’m the carrot. He’s the stchick”.,1191,2223,5042,Top 5 Unfunny,False,True,35,Human
+613,"If you think he's a clown, wait until you meet your public defender.",1312,2124,5274,Top 5 Unfunny,False,True,68,Human
+613,Roberts....make me a chair. We are going to be here a while.,725,1888,3931,Top 5 Unfunny,False,True,60,Human
+613,Start talking or we bring in the mime.,736,1860,3814,Top 5 Unfunny,False,True,38,Human

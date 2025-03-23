@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+574,Something tells me that there are two prime rib steaks sitting on my desk.,1397,1491,4539,Top 5 Funny,False,True,74,Human
+574,Cases like this are rare.,1346,1590,4825,Top 5 Funny,False,True,25,Human
+574,"He told me to cook the books, but didn't say for how long.",1307,1345,4666,Top 5 Funny,False,True,58,Human
+574,I roast my case.,1171,1627,4412,Top 5 Funny,False,True,16,Human
+574,"No, I won't be going back to work on Monday. Why do you ask?",1111,1255,4060,Top 5 Funny,True,True,60,Human
+574,I roast my case.,1171,1627,4412,Top 5 Unfunny,False,True,16,Human
+574,Cases like this are rare.,1346,1590,4825,Top 5 Unfunny,False,True,25,Human
+574,I normally love grilling but this feels like work.,1009,1557,4213,Top 5 Unfunny,False,True,50,Human
+574,Didn’t we cook the books last quarter?,624,1540,3413,Top 5 Unfunny,True,True,38,Human
+574,Something tells me that there are two prime rib steaks sitting on my desk.,1397,1491,4539,Top 5 Unfunny,False,True,74,Human

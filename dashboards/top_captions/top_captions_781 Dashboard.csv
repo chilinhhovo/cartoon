@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+781,Where do you see yourself in five seconds?,744,1599,3419,Top 5 Funny,True,True,42,Human
+781,Call to let me know you got home safe.,729,1787,3672,Top 5 Funny,False,True,38,Human
+781,So...how long has the circus been letting you work from home?,699,1608,3180,Top 5 Funny,True,True,61,Human
+781,"I hate to see you go, but I love to watch you leave.",681,1448,3011,Top 5 Funny,False,True,52,Human
+781,I heard you were leaving but I didn't know you were getting fired.,614,1520,2985,Top 5 Funny,False,True,66,Human
+781,Call to let me know you got home safe.,729,1787,3672,Top 5 Unfunny,False,True,38,Human
+781,So...how long has the circus been letting you work from home?,699,1608,3180,Top 5 Unfunny,True,True,61,Human
+781,Where do you see yourself in five seconds?,744,1599,3419,Top 5 Unfunny,True,True,42,Human
+781,I heard you were leaving but I didn't know you were getting fired.,614,1520,2985,Top 5 Unfunny,False,True,66,Human
+781,A circus? Really. And what do you do there?,556,1520,3031,Top 5 Unfunny,True,True,43,Human

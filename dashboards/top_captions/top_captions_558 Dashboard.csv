@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+558,I pictured it differently when you said you kept my room just like it was.,245,489,1050,Top 5 Funny,False,True,74,Human
+558,I hate being born on Leap Year.,177,401,789,Top 5 Funny,False,True,31,Human
+558,"Fine, mom. You've made your point. I'll start looking for an apartment tomorrow.",175,406,875,Top 5 Funny,False,True,80,Human
+558,"Mom! When you said I could have my old room back, this isn't what I had in mind.",163,388,801,Top 5 Funny,False,True,80,Human
+558,"Nope, still not ready to finish those peas.",160,376,725,Top 5 Funny,False,True,43,Human
+558,I pictured it differently when you said you kept my room just like it was.,245,489,1050,Top 5 Unfunny,False,True,74,Human
+558,"Fine, mom. You've made your point. I'll start looking for an apartment tomorrow.",175,406,875,Top 5 Unfunny,False,True,80,Human
+558,I hate being born on Leap Year.,177,401,789,Top 5 Unfunny,False,True,31,Human
+558,"Mom! When you said I could have my old room back, this isn't what I had in mind.",163,388,801,Top 5 Unfunny,False,True,80,Human
+558,"Nope, still not ready to finish those peas.",160,376,725,Top 5 Unfunny,False,True,43,Human

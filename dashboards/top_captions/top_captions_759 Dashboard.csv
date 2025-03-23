@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+759,They call it kitsch-and-release.,1263,2225,4732,Top 5 Funny,False,True,32,Human
+759,"Well, well, well. If  it isn't the one who got away.",714,1324,2984,Top 5 Funny,False,True,52,Human
+759,Well if it isn't the one that got away.,550,1085,2339,Top 5 Funny,False,True,39,Human
+759,There are two things certain in life: death and taxidermy.,550,1158,2343,Top 5 Funny,False,True,58,Human
+759,"No, Jerry, I did not have a good weekend.",498,1037,2246,Top 5 Funny,False,True,41,Human
+759,They call it kitsch-and-release.,1263,2225,4732,Top 5 Unfunny,False,True,32,Human
+759,"Well, well, well. If  it isn't the one who got away.",714,1324,2984,Top 5 Unfunny,False,True,52,Human
+759,There are two things certain in life: death and taxidermy.,550,1158,2343,Top 5 Unfunny,False,True,58,Human
+759,Well if it isn't the one that got away.,550,1085,2339,Top 5 Unfunny,False,True,39,Human
+759,"No, Jerry, I did not have a good weekend.",498,1037,2246,Top 5 Unfunny,False,True,41,Human

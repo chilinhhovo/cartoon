@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+554,You were with Ringling Brothers? I was with Lehman Brothers.,2228,2347,6645,Top 5 Funny,True,True,60,Human
+554,Shouldn't you be at your confirmation hearing?,1767,2329,5341,Top 5 Funny,True,True,46,Human
+554,"Sure, it's all fun and games. Until one of you gets elected.",917,1171,3053,Top 5 Funny,False,True,60,Human
+554,"Would you like that straight up, on the rocks, or sprayed directly in your face?",833,1110,2939,Top 5 Funny,True,True,80,Human
+554,Don't let it get you down. There were only so many cabinet positions he could fill.,614,942,2239,Top 5 Funny,False,True,83,Human
+554,You were with Ringling Brothers? I was with Lehman Brothers.,2228,2347,6645,Top 5 Unfunny,True,True,60,Human
+554,Shouldn't you be at your confirmation hearing?,1767,2329,5341,Top 5 Unfunny,True,True,46,Human
+554,"Sure, it's all fun and games. Until one of you gets elected.",917,1171,3053,Top 5 Unfunny,False,True,60,Human
+554,"Would you like that straight up, on the rocks, or sprayed directly in your face?",833,1110,2939,Top 5 Unfunny,True,True,80,Human
+554,Don't let it get you down. There were only so many cabinet positions he could fill.,614,942,2239,Top 5 Unfunny,False,True,83,Human

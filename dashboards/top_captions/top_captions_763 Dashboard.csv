@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+763,You can use the loaner corn dog while you wait. Can you drive a stick?,1849,2513,6018,Top 5 Funny,True,True,70,Human
+763,When does it knock worst?,1190,2019,4510,Top 5 Funny,True,True,25,Human
+763,How long have you been driving with the Check Condiment light on?,1127,1998,4757,Top 5 Funny,True,True,65,Human
+763,I can give you a ballpark estimate.,1033,1901,4608,Top 5 Funny,False,True,35,Human
+763,"Yeah, we’ve got the part you need, but its only sold in packages of eight.",915,1621,3783,Top 5 Funny,False,True,74,Human
+763,You can use the loaner corn dog while you wait. Can you drive a stick?,1849,2513,6018,Top 5 Unfunny,True,True,70,Human
+763,When does it knock worst?,1190,2019,4510,Top 5 Unfunny,True,True,25,Human
+763,How long have you been driving with the Check Condiment light on?,1127,1998,4757,Top 5 Unfunny,True,True,65,Human
+763,I can give you a ballpark estimate.,1033,1901,4608,Top 5 Unfunny,False,True,35,Human
+763,I’ll give you a ballpark figure.,863,1680,3991,Top 5 Unfunny,False,True,32,Human

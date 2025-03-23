@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+609,He really did appoint Chris Christie as Secretary of Transportation.,1685,2492,6051,Top 5 Funny,False,True,68,Human
+609,I’m just relieved Subway outbid Trojan.,1665,2657,5915,Top 5 Funny,False,True,39,Human
+609,Why does everything look like food when I am on a diet?,1572,2502,6153,Top 5 Funny,True,True,55,Human
+609,"You realize you’ve just wasted your last wish, don’t you?",1453,2489,5874,Top 5 Funny,True,True,57,Human
+609,"Budget cuts, service cuts, now, cold cuts?",1326,2447,5933,Top 5 Funny,True,True,42,Human
+609,I’m just relieved Subway outbid Trojan.,1665,2657,5915,Top 5 Unfunny,False,True,39,Human
+609,Why does everything look like food when I am on a diet?,1572,2502,6153,Top 5 Unfunny,True,True,55,Human
+609,He really did appoint Chris Christie as Secretary of Transportation.,1685,2492,6051,Top 5 Unfunny,False,True,68,Human
+609,"You realize you’ve just wasted your last wish, don’t you?",1453,2489,5874,Top 5 Unfunny,True,True,57,Human
+609,"Budget cuts, service cuts, now, cold cuts?",1326,2447,5933,Top 5 Unfunny,True,True,42,Human

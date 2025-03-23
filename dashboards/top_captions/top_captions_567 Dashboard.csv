@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+567,Like I'm the first person who's tried sleeping their way to the top.,821,1060,2943,Top 5 Funny,False,True,68,Human
+567,And yet you embraced the standing desk.,517,816,2160,Top 5 Funny,False,True,39,Human
+567,It's called a Murphy desk.,515,989,2318,Top 5 Funny,False,True,26,Human
+567,Then quit making the meetings so early.,433,800,2085,Top 5 Funny,False,True,39,Human
+567,"Are you in my dream, or am I in your office?",394,889,1886,Top 5 Funny,True,True,44,Human
+567,Like I'm the first person who's tried sleeping their way to the top.,821,1060,2943,Top 5 Unfunny,False,True,68,Human
+567,It's called a Murphy desk.,515,989,2318,Top 5 Unfunny,False,True,26,Human
+567,"Are you in my dream, or am I in your office?",394,889,1886,Top 5 Unfunny,True,True,44,Human
+567,Sorry I'm late. I had trouble getting out of bed this morning.,329,871,1813,Top 5 Unfunny,False,True,62,Human
+567,And yet you embraced the standing desk.,517,816,2160,Top 5 Unfunny,False,True,39,Human

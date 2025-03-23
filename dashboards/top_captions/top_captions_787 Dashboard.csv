@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+787,Packing for the Republican National Convention gets easier and easier every four years.,816,1759,3502,Top 5 Funny,False,True,87,Human
+787,Are you trying to tell me that B.C. is a place in Canada?,804,1813,3774,Top 5 Funny,True,True,57,Human
+787,This is all they are allowing me to bring to the Texas Science Convention.,761,1711,3247,Top 5 Funny,False,True,74,Human
+787,Of course I’m living in the past. Have you seen the present?!,754,1519,3380,Top 5 Funny,True,True,61,Human
+787,Just had a thought. What if I put the wheel on the outside?,629,1346,2813,Top 5 Funny,True,True,59,Human
+787,Are you trying to tell me that B.C. is a place in Canada?,804,1813,3774,Top 5 Unfunny,True,True,57,Human
+787,Packing for the Republican National Convention gets easier and easier every four years.,816,1759,3502,Top 5 Unfunny,False,True,87,Human
+787,This is all they are allowing me to bring to the Texas Science Convention.,761,1711,3247,Top 5 Unfunny,False,True,74,Human
+787,Of course I’m living in the past. Have you seen the present?!,754,1519,3380,Top 5 Unfunny,True,True,61,Human
+787,Just had a thought. What if I put the wheel on the outside?,629,1346,2813,Top 5 Unfunny,True,True,59,Human

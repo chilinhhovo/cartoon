@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+757,I thought partly cloudy with a chance of rage was a typo,1189,2006,4773,Top 5 Funny,False,False,56,Human
+757,Well it looks like my mother found out that you’re not Jewish.,1159,1954,4482,Top 5 Funny,False,True,62,Human
+757,"They banned him from Twitter, but he’s still in the Cloud.",1104,1943,4457,Top 5 Funny,False,True,58,Human
+757,That reminds me. Your mother called.,1061,1933,4424,Top 5 Funny,False,True,36,Human
+757,What the hell did you upload to the cloud?!,1038,2118,4656,Top 5 Funny,True,True,43,Human
+757,What the hell did you upload to the cloud?!,1038,2118,4656,Top 5 Unfunny,True,True,43,Human
+757,I thought partly cloudy with a chance of rage was a typo,1189,2006,4773,Top 5 Unfunny,False,False,56,Human
+757,Well it looks like my mother found out that you’re not Jewish.,1159,1954,4482,Top 5 Unfunny,False,True,62,Human
+757,"They banned him from Twitter, but he’s still in the Cloud.",1104,1943,4457,Top 5 Unfunny,False,True,58,Human
+757,That reminds me. Your mother called.,1061,1933,4424,Top 5 Unfunny,False,True,36,Human

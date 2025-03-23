@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+803,"Okay I'll grab some crayons and get started on the paper work. """,1157,1678,4230,Top 5 Funny,False,False,64,Human
+803,It's all driveway miles.,975,1953,4531,Top 5 Funny,False,True,24,Human
+803,The previous owner outgrew it.,940,2065,4685,Top 5 Funny,False,True,30,Human
+803,"So, we ran your credit report...",895,1728,3844,Top 5 Funny,False,True,32,Human
+803,And it is 100% guaranteed to stop your teenagers from asking to borrow the car.,880,1284,3184,Top 5 Funny,False,True,79,Human
+803,The previous owner outgrew it.,940,2065,4685,Top 5 Unfunny,False,True,30,Human
+803,They're mostly driveway miles.,871,2012,4607,Top 5 Unfunny,False,True,30,Human
+803,It's all driveway miles.,975,1953,4531,Top 5 Unfunny,False,True,24,Human
+803,"So, we ran your credit report...",895,1728,3844,Top 5 Unfunny,False,True,32,Human
+803,"Okay I'll grab some crayons and get started on the paper work. """,1157,1678,4230,Top 5 Unfunny,False,False,64,Human

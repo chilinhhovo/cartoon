@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+807,We use the males as a control group - they never ask for directions.,738,1158,2672,Top 5 Funny,False,True,68,Human
+807,"Forget the experiment for a minute, where the hell has your mouth gone?",625,1402,2664,Top 5 Funny,True,True,71,Human
+807,It's a female.  She's asking for directions.,594,1550,2659,Top 5 Funny,False,True,44,Human
+807,Our grant was awarded by a hedge fund.,560,1379,2752,Top 5 Funny,False,True,38,Human
+807,We’ve decided the most intelligent ones never enter the maze at all.,504,1199,2512,Top 5 Funny,False,True,68,Human
+807,It's a female.  She's asking for directions.,594,1550,2659,Top 5 Unfunny,False,True,44,Human
+807,"Forget the experiment for a minute, where the hell has your mouth gone?",625,1402,2664,Top 5 Unfunny,True,True,71,Human
+807,Our grant was awarded by a hedge fund.,560,1379,2752,Top 5 Unfunny,False,True,38,Human
+807,He’s still dizzy from the crop circles.,495,1372,2389,Top 5 Unfunny,False,True,39,Human
+807,"He should do well, he is a field mouse.",446,1218,2517,Top 5 Unfunny,False,True,39,Human

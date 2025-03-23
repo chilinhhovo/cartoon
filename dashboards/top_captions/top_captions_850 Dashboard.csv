@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+850,This motherfucker.,4,10,15,Top 5 Funny,False,True,18,Human
+850,I prefer soul.,3,9,18,Top 5 Funny,False,True,14,Human
+850,I'm about to be at your door!,3,10,19,Top 5 Funny,False,True,29,Human
+850,Shut the fuck up!,3,8,13,Top 5 Funny,False,True,17,Human
+850,I think you're taking the genre a bit too literally.,3,8,12,Top 5 Funny,False,True,52,Human
+850,Don’t you ever take a holiday?,3,13,19,Top 5 Unfunny,True,True,30,Human
+850,"Hey down there, you’re killing that song.",1,12,18,Top 5 Unfunny,False,True,41,Human
+850,Keep it down!  You’ll wake the Grateful Dead!,2,12,15,Top 5 Unfunny,False,True,45,Human
+850,The grateful death,1,12,13,Top 5 Unfunny,False,False,18,Human
+850,He is dead. He just hasn’t left the building yet.,1,12,13,Top 5 Unfunny,False,True,49,Human

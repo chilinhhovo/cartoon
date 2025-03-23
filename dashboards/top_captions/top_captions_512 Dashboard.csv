@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+512,"We're pretentious, not ostentatious.",19,11,32,Top 5 Funny,False,True,36,Human
+512,Broga meets on the 2nd floor.,7,7,16,Top 5 Funny,False,True,29,Human
+512,"Let her out, Fred.",4,6,13,Top 5 Funny,False,True,18,Human
+512,"Look, you and I both know that doesn't fly in here.",4,6,11,Top 5 Funny,False,True,51,Human
+512,The rug can stay but those tube socks have got to go.,4,7,12,Top 5 Funny,False,True,53,Human
+512,"We're pretentious, not ostentatious.",19,11,32,Top 5 Unfunny,False,True,36,Human
+512,I get it: you're angry with the donor-class Yoga establishment.,0,10,12,Top 5 Unfunny,False,True,63,Human
+512,"We've seen a lot of newcomers inspired by the primaries ... people finding they can hold all kinds of awkward positions. But for us, size actually does matter and it's just too big.",0,10,11,Top 5 Unfunny,False,True,181,Human
+512,"Yes I did say to make your mat your ""home"" during class but...",0,10,10,Top 5 Unfunny,False,True,62,Human
+512,"I'm a lumberjack too, and I don't care either!",0,10,10,Top 5 Unfunny,False,True,46,Human

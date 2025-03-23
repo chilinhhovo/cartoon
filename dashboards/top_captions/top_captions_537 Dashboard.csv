@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+537,He said the patent expired,300,505,990,Top 5 Funny,False,False,26,Human
+537,He says the guy with the original idea never took out a patent!,195,387,711,Top 5 Funny,False,True,63,Human
+537,He is making a life preserver for my Mother.,163,352,692,Top 5 Funny,False,True,44,Human
+537,He told me that the patent expired.,160,345,640,Top 5 Funny,False,True,35,Human
+537,I hope he discovers fire soon. Dinner is at six.,145,334,692,Top 5 Funny,False,True,48,Human
+537,He said the patent expired,300,505,990,Top 5 Unfunny,False,False,26,Human
+537,He says the guy with the original idea never took out a patent!,195,387,711,Top 5 Unfunny,False,True,63,Human
+537,He is making a life preserver for my Mother.,163,352,692,Top 5 Unfunny,False,True,44,Human
+537,He told me that the patent expired.,160,345,640,Top 5 Unfunny,False,True,35,Human
+537,I hope he discovers fire soon. Dinner is at six.,145,334,692,Top 5 Unfunny,False,True,48,Human

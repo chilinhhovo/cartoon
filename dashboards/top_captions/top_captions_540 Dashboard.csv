@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+540,"I know a specialist, but he's in prison.",25,61,114,Top 5 Funny,False,True,40,Human
+540,"Well, frankly, I think it's a combination of things...",22,63,108,Top 5 Funny,False,True,54,Human
+540,I will need to see the family jewels at some point.,21,56,94,Top 5 Funny,False,True,51,Human
+540,Are you having night deposits? Suspicious withdrawals?,21,68,116,Top 5 Funny,True,True,54,Human
+540,When was your last dial movement?,18,50,91,Top 5 Funny,True,True,33,Human
+540,"If I was a younger man I'de ask you out on a date."" ""Shush, I'm trying to listen."" ""If I was handsome like a movie star, maybe then?"" ""It's only what's inside you that counts."" Said the Doc sympathetically. ""Gold Digger."" ""You're imposable.",0,133,135,Top 5 Unfunny,True,True,240,Human
+540,Maybe I can get the safe open if I listen to it.,0,130,131,Top 5 Unfunny,False,True,48,Human
+540,have a heart and let me open this thing,1,128,133,Top 5 Unfunny,False,False,39,Human
+540,"It's safe to say, it's not your heart this time.",3,122,133,Top 5 Unfunny,False,True,48,Human
+540,My brother has a rent-stabilized safe deposit box on 19th St. Perhaps you could go in together on a Dumpster?,3,122,129,Top 5 Unfunny,True,True,109,Human

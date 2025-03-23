@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+631,"Ideally, you want the dough to rise to about 35,000 feet.",3137,4373,12031,Top 5 Funny,False,True,57,Human
+631,There will be plenty for you. The two people next to me don't have mouths.,2909,4768,10947,Top 5 Funny,False,True,74,Human
+631,"This way, it's a business trip",2815,3895,11749,Top 5 Funny,False,False,30,Human
+631,"Yes, that is a pepperoni in my pocket.",2707,4639,10931,Top 5 Funny,False,True,38,Human
+631,I'd sit in first class if I had enough dough.,2610,3834,11045,Top 5 Funny,False,True,45,Human
+631,There will be plenty for you. The two people next to me don't have mouths.,2909,4768,10947,Top 5 Unfunny,False,True,74,Human
+631,"Yes, that is a pepperoni in my pocket.",2707,4639,10931,Top 5 Unfunny,False,True,38,Human
+631,"Ideally, you want the dough to rise to about 35,000 feet.",3137,4373,12031,Top 5 Unfunny,False,True,57,Human
+631,I was told to pack my carry-on with the things I'd knead most.,2104,4310,9773,Top 5 Unfunny,False,True,62,Human
+631,"Ya, well your laptop is bothering me.",1854,4199,9121,Top 5 Unfunny,False,True,37,Human

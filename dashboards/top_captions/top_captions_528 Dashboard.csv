@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+528,Welcome to Weight Watchers!,10,25,42,Top 5 Funny,False,True,27,Human
+528,This meeting is getting away from me.,8,22,37,Top 5 Funny,False,True,37,Human
+528,I am entertaining a motion to evacuate. Do I hear a second?,7,23,42,Top 5 Funny,True,True,59,Human
+528,The captain assures me it was a very small iceberg.,7,23,39,Top 5 Funny,False,True,51,Human
+528,I don't think you understand the gravity of the situation.,7,24,39,Top 5 Funny,False,True,58,Human
+528,Welcome to Weight Watchers!,10,25,42,Top 5 Unfunny,False,True,27,Human
+528,I don't think you understand the gravity of the situation.,7,24,39,Top 5 Unfunny,False,True,58,Human
+528,"Well, maybe now you will appreciate the gravity of the situation.",7,24,39,Top 5 Unfunny,False,True,65,Human
+528,"So, then -- all in favor of removing the wheels from our chairs, say 'aye.'d",6,24,35,Top 5 Unfunny,False,False,76,Human
+528,Red rover red rover send Sandi on over,6,24,34,Top 5 Unfunny,False,False,38,Human

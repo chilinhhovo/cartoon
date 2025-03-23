@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+806,Can I interest you in a one knight stand?,915,1712,3668,Top 5 Funny,True,True,41,Human
+806,Watch out.  Serfs are up.,844,1835,3933,Top 5 Funny,False,True,25,Human
+806,Does this outfit make me look middle aged?,825,1877,3967,Top 5 Funny,True,True,42,Human
+806,I’d say the toughest part is the chainmail Speedo.,798,1663,3492,Top 5 Funny,False,True,50,Human
+806,"Dress for the job you want,not the job you have.",798,1842,3967,Top 5 Funny,False,True,48,Human
+806,Does this outfit make me look middle aged?,825,1877,3967,Top 5 Unfunny,True,True,42,Human
+806,"Dress for the job you want,not the job you have.",798,1842,3967,Top 5 Unfunny,False,True,48,Human
+806,Watch out.  Serfs are up.,844,1835,3933,Top 5 Unfunny,False,True,25,Human
+806,Can I interest you in a one knight stand?,915,1712,3668,Top 5 Unfunny,True,True,41,Human
+806,Hi. I’m Rusty.,744,1694,3698,Top 5 Unfunny,False,True,14,Human

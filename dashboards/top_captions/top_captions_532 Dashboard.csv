@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+532,Who's endangered now?,130,348,686,Top 5 Funny,True,True,21,Human
+532,They were never going to find you anyway,82,272,477,Top 5 Funny,False,False,40,Human
+532,Sorry...I was texting.,81,268,456,Top 5 Funny,False,True,22,Human
+532,"Yeah, well your profile wasn't exactly honest either.",65,250,444,Top 5 Funny,False,True,53,Human
+532,"I ain't heavy, I'm your blubber.",49,208,315,Top 5 Funny,False,True,32,Human
+532,Who's endangered now?,130,348,686,Top 5 Unfunny,True,True,21,Human
+532,They were never going to find you anyway,82,272,477,Top 5 Unfunny,False,False,40,Human
+532,Sorry...I was texting.,81,268,456,Top 5 Unfunny,False,True,22,Human
+532,"Yeah, well your profile wasn't exactly honest either.",65,250,444,Top 5 Unfunny,False,True,53,Human
+532,"Sorry, totally thought I could jump it.",47,209,328,Top 5 Unfunny,False,True,39,Human

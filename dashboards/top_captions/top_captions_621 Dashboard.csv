@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+621,It’s off the rack.  The guy on the rack doesn’t need it anymore.,3825,3573,11014,Top 5 Funny,False,True,64,Human
+621,She’ll appreciate you’re wearing protection.,3409,2930,10469,Top 5 Funny,False,True,44,Human
+621,LIMERICK: When buying a nice suit of steel...No matter how good it may feel...You do have to watch...If it's tight in the crotch...Cause it'll make you scream when you kneel.,3157,3905,10054,Top 5 Funny,False,True,174,Human
+621,It does make you look slightly middle-aged.,3099,3212,9651,Top 5 Funny,False,True,43,Human
+621,"May I say, sir: quite riveting.",3087,3391,10530,Top 5 Funny,False,True,31,Human
+621,LIMERICK: When buying a nice suit of steel...No matter how good it may feel...You do have to watch...If it's tight in the crotch...Cause it'll make you scream when you kneel.,3157,3905,10054,Top 5 Unfunny,False,True,174,Human
+621,It’s off the rack.  The guy on the rack doesn’t need it anymore.,3825,3573,11014,Top 5 Unfunny,False,True,64,Human
+621,"May I say, sir: quite riveting.",3087,3391,10530,Top 5 Unfunny,False,True,31,Human
+621,It does make you look slightly middle-aged.,3099,3212,9651,Top 5 Unfunny,False,True,43,Human
+621,"May I inquire what the bride is wearing, sir?",2171,3195,8674,Top 5 Unfunny,True,True,45,Human

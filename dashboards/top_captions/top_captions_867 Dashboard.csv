@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+867,Before we get married I should tell you I have a woodpecker.,668,1404,2650,Top 5 Funny,False,True,60,Human
+867,Can you believe it? They’re making me branch manager!,503,1453,2703,Top 5 Funny,True,True,53,Human
+867,It confuses the dogs.,503,1695,2946,Top 5 Funny,False,True,21,Human
+867,I need to look professional. I don't want to get axed.,459,1406,2603,Top 5 Funny,False,True,54,Human
+867,A bow tie? And look ridiculous?,450,1574,2750,Top 5 Funny,True,True,31,Human
+867,It confuses the dogs.,503,1695,2946,Top 5 Unfunny,False,True,21,Human
+867,A bow tie? And look ridiculous?,450,1574,2750,Top 5 Unfunny,True,True,31,Human
+867,Does this tie make me look too deciduous?,414,1489,2497,Top 5 Unfunny,True,True,41,Human
+867,Can you believe it? They’re making me branch manager!,503,1453,2703,Top 5 Unfunny,True,True,53,Human
+867,I need to look professional. I don't want to get axed.,459,1406,2603,Top 5 Unfunny,False,True,54,Human

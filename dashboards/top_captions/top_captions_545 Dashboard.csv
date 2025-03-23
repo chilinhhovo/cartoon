@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+545,It's amazing to think he started out in the lobby.,416,282,1022,Top 5 Funny,False,True,50,Human
+545,"Before we start, would anyone else like some water?",141,162,422,Top 5 Funny,True,True,51,Human
+545,He got his start in the lobby.,87,122,345,Top 5 Funny,False,True,30,Human
+545,...and I'll need an office with a window.,87,126,320,Top 5 Funny,False,True,41,Human
+545,I thought we were moving all of our plants to Mexico.,72,119,264,Top 5 Funny,False,True,53,Human
+545,It's amazing to think he started out in the lobby.,416,282,1022,Top 5 Unfunny,False,True,50,Human
+545,"Before we start, would anyone else like some water?",141,162,422,Top 5 Unfunny,True,True,51,Human
+545,...and I'll need an office with a window.,87,126,320,Top 5 Unfunny,False,True,41,Human
+545,He got his start in the lobby.,87,122,345,Top 5 Unfunny,False,True,30,Human
+545,I thought we were moving all of our plants to Mexico.,72,119,264,Top 5 Unfunny,False,True,53,Human

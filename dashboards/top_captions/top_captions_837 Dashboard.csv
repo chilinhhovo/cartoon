@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+837,I suspect vowel play,742,2091,4186,Top 5 Funny,False,False,20,Human
+837,Why couldn’t he have been murdered on a Monday.,442,1651,3360,Top 5 Funny,False,True,47,Human
+837,I have a feeling all will be revealed tomorrow.,439,1574,3154,Top 5 Funny,False,True,47,Human
+837,"Done in ink. We're dealing with a narcissist, Watson.",420,1286,2338,Top 5 Funny,False,True,53,Human
+837,"Until now, my dear Watson, we have never had a cross word between us.",398,1632,2677,Top 5 Funny,False,True,69,Human
+837,I suspect vowel play,742,2091,4186,Top 5 Unfunny,False,False,20,Human
+837,Why couldn’t he have been murdered on a Monday.,442,1651,3360,Top 5 Unfunny,False,True,47,Human
+837,"Until now, my dear Watson, we have never had a cross word between us.",398,1632,2677,Top 5 Unfunny,False,True,69,Human
+837,I have a feeling all will be revealed tomorrow.,439,1574,3154,Top 5 Unfunny,False,True,47,Human
+837,Some mastermind. It’s in pencil.,288,1559,2695,Top 5 Unfunny,False,True,32,Human

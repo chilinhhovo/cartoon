@@ -1,0 +1,13 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+751,"If you see a fork in the road, avoid it.",1682,1863,5581,Top 5 Funny,False,True,40,Human
+751,I had to break up with my last boyfriend because he was a prick.,1555,2210,5280,Top 5 Funny,False,True,64,Human
+751,"If you jump up and down, it starts snowing.",1499,1787,4996,Top 5 Funny,False,True,43,Human
+751,"It would never work...
+we move in different circles.",1474,2028,5529,Top 5 Funny,False,True,52,Human
+751,My fish says you get used to it.,1268,1755,4903,Top 5 Funny,False,True,32,Human
+751,I had to break up with my last boyfriend because he was a prick.,1555,2210,5280,Top 5 Unfunny,False,True,64,Human
+751,"It would never work...
+we move in different circles.",1474,2028,5529,Top 5 Unfunny,False,True,52,Human
+751,"Well it’s clear this is a dream, no one is looking at their phone.",1267,1888,4905,Top 5 Unfunny,False,True,66,Human
+751,"If you see a fork in the road, avoid it.",1682,1863,5581,Top 5 Unfunny,False,True,40,Human
+751,"If you jump up and down, it starts snowing.",1499,1787,4996,Top 5 Unfunny,False,True,43,Human

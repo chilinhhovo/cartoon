@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+601,I thought you said it wouldn't need much attention.,863,1238,3268,Top 5 Funny,False,True,51,Human
+601,We'll lose him in the swimming and biking stages.,686,1268,3055,Top 5 Funny,False,True,49,Human
+601,Next time just relieve yourself against a rock.,675,1362,2993,Top 5 Funny,False,True,47,Human
+601,"You know how they say that in the Spring, the desert comes alive?",542,1033,2608,Top 5 Funny,True,True,65,Human
+601,Why couldn't you just pee behind a bush?,512,1338,2758,Top 5 Funny,True,True,40,Human
+601,Next time just relieve yourself against a rock.,675,1362,2993,Top 5 Unfunny,False,True,47,Human
+601,Why couldn't you just pee behind a bush?,512,1338,2758,Top 5 Unfunny,True,True,40,Human
+601,We'll lose him in the swimming and biking stages.,686,1268,3055,Top 5 Unfunny,False,True,49,Human
+601,I thought you said it wouldn't need much attention.,863,1238,3268,Top 5 Unfunny,False,True,51,Human
+601,"The wall was dumb, but these border guard disguises are even worse.",445,1126,2299,Top 5 Unfunny,False,True,67,Human

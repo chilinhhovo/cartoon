@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+682,I don't mind autumn so much; it's the fall I hate.,5899,2266,13884,Top 5 Funny,False,True,50,Human
+682,Congratulations. You're now the branch manager.,4167,3539,12512,Top 5 Funny,False,True,47,Human
+682,Deciduous? When were you going to tell me,3837,3679,12364,Top 5 Funny,True,False,41,Human
+682,"I've led a good life, but now it's time to meet my raker.",3655,3599,11951,Top 5 Funny,False,True,57,Human
+682,I'll wait for you on the car.,3021,2973,10417,Top 5 Funny,False,True,29,Human
+682,Deciduous? When were you going to tell me,3837,3679,12364,Top 5 Unfunny,True,False,41,Human
+682,"I've led a good life, but now it's time to meet my raker.",3655,3599,11951,Top 5 Unfunny,False,True,57,Human
+682,Congratulations. You're now the branch manager.,4167,3539,12512,Top 5 Unfunny,False,True,47,Human
+682,Seems to me you have problems letting go.,2428,3509,10474,Top 5 Unfunny,False,True,41,Human
+682,We’ll always have summer.,1407,3389,7856,Top 5 Unfunny,False,True,25,Human

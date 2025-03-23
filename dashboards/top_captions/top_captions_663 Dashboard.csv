@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+663,"Next time, when they ask you if you want any toppings, you’d better be more specific than 'Yeah, a couple.'",4585,2568,11758,Top 5 Funny,False,False,107,Human
+663,OMG...Remember us...we were on your wedding cake!,2550,3153,9168,Top 5 Funny,False,True,49,Human
+663,You said you were in the mood for a little Italian.,2414,2329,8333,Top 5 Funny,False,True,51,Human
+663,I don't know either. We asked for a small table on the piazza.,2381,3081,8677,Top 5 Funny,False,True,62,Human
+663,"Hello , we’re the Toppings!",2244,3395,8944,Top 5 Funny,False,True,27,Human
+663,"Hello , we’re the Toppings!",2244,3395,8944,Top 5 Unfunny,False,True,27,Human
+663,OMG...Remember us...we were on your wedding cake!,2550,3153,9168,Top 5 Unfunny,False,True,49,Human
+663,I don't know either. We asked for a small table on the piazza.,2381,3081,8677,Top 5 Unfunny,False,True,62,Human
+663,You ordered Basil and Olive? Here we are.,2069,2996,7987,Top 5 Unfunny,True,True,41,Human
+663,"Well, you're not what we ordered either.",2022,2922,7910,Top 5 Unfunny,False,True,40,Human

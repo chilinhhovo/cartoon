@@ -1,0 +1,13 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+645,"Location is important,
+but here,
+timing is everything",32,78,149,Top 5 Funny,False,False,53,Human
+645,"If we time it right, I can get you in this house today.",27,65,140,Top 5 Funny,False,True,55,Human
+645,"With this house, timing is everything.",27,93,159,Top 5 Funny,False,True,38,Human
+645,"Sure, location is important, but timing is everything.",26,65,129,Top 5 Funny,False,True,54,Human
+645,It’s not your typical run of the mill house.,26,88,155,Top 5 Funny,False,True,44,Human
+645,Where is the shmoo?,0,145,157,Top 5 Unfunny,True,True,19,Human
+645,This property won't last long!,2,144,167,Top 5 Unfunny,False,True,30,Human
+645,Cloth earns an energy credit.,5,144,162,Top 5 Unfunny,False,True,29,Human
+645,Plus it makes elephant clouds to order,2,142,158,Top 5 Unfunny,False,False,38,Human
+645,I think this listing will be on par to your liking.,6,140,171,Top 5 Unfunny,False,True,51,Human

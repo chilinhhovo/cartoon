@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+563,No wonder this gym was so cheap.,219,479,862,Top 5 Funny,False,True,32,Human
+563,It’s Karma !! But who’da thunk the hamsters would inherit the earth?,109,292,522,Top 5 Funny,True,True,68,Human
+563,It started with a stand-up desk.,52,155,297,Top 5 Funny,False,True,32,Human
+563,"pD piety, pD piety, pD piety, …",43,164,286,Top 5 Funny,False,False,31,Human
+563,The pay is good but they treat us like animals.,42,162,282,Top 5 Funny,False,True,47,Human
+563,No wonder this gym was so cheap.,219,479,862,Top 5 Unfunny,False,True,32,Human
+563,It’s Karma !! But who’da thunk the hamsters would inherit the earth?,109,292,522,Top 5 Unfunny,True,True,68,Human
+563,"pD piety, pD piety, pD piety, …",43,164,286,Top 5 Unfunny,False,False,31,Human
+563,The pay is good but they treat us like animals.,42,162,282,Top 5 Unfunny,False,True,47,Human
+563,It started with a stand-up desk.,52,155,297,Top 5 Unfunny,False,True,32,Human

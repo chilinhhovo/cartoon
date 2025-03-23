@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+543,If he farts I'm out of here.,120,189,337,Top 5 Funny,False,True,28,Human
+543,I really just thought they would send me a lapel pin when I registered.,90,157,370,Top 5 Funny,False,True,71,Human
+543,"Well, at least the 800-lb gorilla finally left.",81,151,331,Top 5 Funny,False,True,47,Human
+543,Face it: 'Ms. Bigly' refuses to go with you to the Trump rally today!,53,126,211,Top 5 Funny,False,True,69,Human
+543,The zoo won't pay the ransom. Now what?,49,122,212,Top 5 Funny,True,True,39,Human
+543,If he farts I'm out of here.,120,189,337,Top 5 Unfunny,False,True,28,Human
+543,I really just thought they would send me a lapel pin when I registered.,90,157,370,Top 5 Unfunny,False,True,71,Human
+543,"Well, at least the 800-lb gorilla finally left.",81,151,331,Top 5 Unfunny,False,True,47,Human
+543,Face it: 'Ms. Bigly' refuses to go with you to the Trump rally today!,53,126,211,Top 5 Unfunny,False,True,69,Human
+543,The zoo won't pay the ransom. Now what?,49,122,212,Top 5 Unfunny,True,True,39,Human

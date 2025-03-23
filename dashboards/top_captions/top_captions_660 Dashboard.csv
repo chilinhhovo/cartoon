@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+660,Worse than a cold. It's a common cold.,5053,2470,12670,Top 5 Funny,False,True,38,Human
+660,I’m afraid we’ve found a problem with the Crown Jewels.,5050,2576,12083,Top 5 Funny,False,True,55,Human
+660,"On the bright side, I've got some good news for the prince.",3948,2976,10878,Top 5 Funny,False,True,59,Human
+660,"Well, the good news is, it’s not just a pain in the ass; it’s a royal pain in the ass.",3734,3270,11169,Top 5 Funny,False,True,86,Human
+660,"Under pre-existing conditions, why did you write 'Frog'?",3641,2944,9956,Top 5 Funny,True,True,56,Human
+660,"Well, King Midas, you really shouldn’t have touched that area.",3364,3488,10643,Top 5 Unfunny,False,True,62,Human
+660,"It’s not a king’s ransom, it’s your co-pay.",3079,3329,10367,Top 5 Unfunny,False,True,43,Human
+660,"Well, the good news is, it’s not just a pain in the ass; it’s a royal pain in the ass.",3734,3270,11169,Top 5 Unfunny,False,True,86,Human
+660,Experiencing any trouble on the throne?,3537,3091,10913,Top 5 Unfunny,True,True,39,Human
+660,The robe is supposed to open in the back.,2149,3055,8393,Top 5 Unfunny,False,True,41,Human

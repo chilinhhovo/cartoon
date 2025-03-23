@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+519,We might be empty nesters sooner than we thought.,8,6,20,Top 5 Funny,False,True,49,Human
+519,This may be his final tweet.,8,7,19,Top 5 Funny,False,True,28,Human
+519,"Same decoy as last year. Honestly, I don't known why he bothers.",8,8,21,Top 5 Funny,False,True,64,Human
+519,"I think we're safe, it's Dick Cheney.",8,10,23,Top 5 Funny,False,True,37,Human
+519,She always insists on riding shotgun.,8,10,21,Top 5 Funny,False,True,37,Human
+519,The bird on a gun is worth two birds on a limb!,0,23,23,Top 5 Unfunny,False,True,47,Human
+519,If he hadn't lost his camel he would have made it by now,0,23,23,Top 5 Unfunny,False,False,56,Human
+519,He's obviously prey. Let's eat him.,0,23,23,Top 5 Unfunny,False,True,35,Human
+519,What's up with all the kids doing 'slack gun' these days?,0,23,23,Top 5 Unfunny,True,True,57,Human
+519,"whistle while you work, indeed.",0,23,23,Top 5 Unfunny,False,True,31,Human

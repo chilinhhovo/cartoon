@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+527,"Well, your profile pic doesn't look much like you either.",39,80,175,Top 5 Funny,False,True,57,Human
+527,"Well, I never believed in you either.",39,82,154,Top 5 Funny,False,True,37,Human
+527,"You voted ‘Leave,’ didn’t you?",38,74,150,Top 5 Funny,True,True,30,Human
+527,"Greetings, and let go of my penis.",36,81,136,Top 5 Funny,False,True,34,Human
+527,We have observed you in the barn. So many questions.,34,73,133,Top 5 Funny,False,True,52,Human
+527,"Well, I never believed in you either.",39,82,154,Top 5 Unfunny,False,True,37,Human
+527,"Greetings, and let go of my penis.",36,81,136,Top 5 Unfunny,False,True,34,Human
+527,"Well, your profile pic doesn't look much like you either.",39,80,175,Top 5 Unfunny,False,True,57,Human
+527,Your cows speak highly of you.,30,76,136,Top 5 Unfunny,False,True,30,Human
+527,"Welcome aboard! First stop, Uranus.",30,76,131,Top 5 Unfunny,False,True,35,Human

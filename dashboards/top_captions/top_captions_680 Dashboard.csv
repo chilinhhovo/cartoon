@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+680,Is the salmon fresh?,7027,2164,14423,Top 5 Funny,True,True,20,Human
+680,"So, I take it the salmon is wild-caught?",4480,3048,13544,Top 5 Funny,True,True,40,Human
+680,Thanks for checking on the salmon. How's the lamb?,4005,3588,12223,Top 5 Funny,True,True,50,Human
+680,"Okay,  since you’ve gone to the trouble , I’ll have the fresh-caught salmon!",3293,3961,12657,Top 5 Funny,False,True,76,Human
+680,Well don't put it on the menu if you can't catch one.,3058,3597,10204,Top 5 Funny,False,True,53,Human
+680,"Okay,  since you’ve gone to the trouble , I’ll have the fresh-caught salmon!",3293,3961,12657,Top 5 Unfunny,False,True,76,Human
+680,Well don't put it on the menu if you can't catch one.,3058,3597,10204,Top 5 Unfunny,False,True,53,Human
+680,Thanks for checking on the salmon. How's the lamb?,4005,3588,12223,Top 5 Unfunny,True,True,50,Human
+680,I said I wanted a wheat beer not a wet bear!,1860,3360,7734,Top 5 Unfunny,False,True,44,Human
+680,Is it too late to cancel the salmon?,2455,3314,9184,Top 5 Unfunny,True,True,36,Human

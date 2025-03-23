@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+805,Let's end here. I know you have a plane to catch.,825,1785,3728,Top 5 Funny,False,True,49,Human
+805,I think he's been seeing the woman upstairs.,730,1635,3455,Top 5 Funny,False,True,44,Human
+805,When we were dating he climbed a skyscraper for me—now I can’t even get him to take out the garbage.,588,1084,2478,Top 5 Funny,False,True,100,Human
+805,"We'll end early, Mr. Kong. I understand you have a 'plane to catch.'",547,1259,2597,Top 5 Funny,False,False,68,Human
+805,So I'm thinking next week we go back to Zoom.,545,1320,2887,Top 5 Funny,False,True,45,Human
+805,Let's end here. I know you have a plane to catch.,825,1785,3728,Top 5 Unfunny,False,True,49,Human
+805,I think he's been seeing the woman upstairs.,730,1635,3455,Top 5 Unfunny,False,True,44,Human
+805,I think it's time we address the 115-pound woman in the room.,541,1346,2793,Top 5 Unfunny,False,True,61,Human
+805,So I'm thinking next week we go back to Zoom.,545,1320,2887,Top 5 Unfunny,False,True,45,Human
+805,"Your husband is a movie star Debra, you knew that when you married him.",529,1320,2754,Top 5 Unfunny,False,True,71,Human

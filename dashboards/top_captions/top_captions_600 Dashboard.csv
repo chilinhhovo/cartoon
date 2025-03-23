@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+600,Mission accomplished. We will report that this planet's inhabitants are friendly and playful.,923,0,924,Top 5 Funny,False,True,93,Human
+600,"When I said abduct the dog, I meant President Trump...",2,0,29,Top 5 Funny,False,True,54,Human
+600,Did you remember to take him out before we left?,2,0,33,Top 5 Funny,True,True,48,Human
+600,"He agrees to a rectal probe, but only if we use our noses.",2,0,46,Top 5 Funny,False,True,58,Human
+600,"My research on tail movements suggests he has to “go,” but I haven’t been able to determine what that means...",2,0,48,Top 5 Funny,False,True,110,Human
+600,We should have been more specific when we ordered a new lab.,0,4550,4550,Top 5 Unfunny,False,True,60,Human
+600,"Good luck, Zorg. Remember, you hate cats and mailmen.",0,4408,4408,Top 5 Unfunny,False,True,53,Human
+600,"They feed him, bath him, and pick up his poop. He seems to be their leader.",0,4393,4393,Top 5 Unfunny,False,True,75,Human
+600,What do you mean you need to go out?,0,4341,4341,Top 5 Unfunny,True,True,36,Human
+600,"When we beam you back up the next time, we expect you to have the stick.",0,4291,4291,Top 5 Unfunny,False,True,72,Human

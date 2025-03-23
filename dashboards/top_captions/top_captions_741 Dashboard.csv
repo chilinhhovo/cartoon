@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+741,Don’t be fooled. He has a dark side.,2473,1108,5238,Top 5 Funny,False,True,36,Human
+741,"When the moon's in the sky like a big winking eye, that's emoji.",2029,2083,5932,Top 5 Funny,False,True,64,Human
+741,Be careful.  He has a dark side.,1622,1927,5632,Top 5 Funny,False,True,32,Human
+741,I think it's just a phase.,1020,1039,3458,Top 5 Funny,False,True,26,Human
+741,Just look at him.  He's full of himself.,865,1429,3105,Top 5 Funny,False,True,40,Human
+741,"When the moon's in the sky like a big winking eye, that's emoji.",2029,2083,5932,Top 5 Unfunny,False,True,64,Human
+741,Be careful.  He has a dark side.,1622,1927,5632,Top 5 Unfunny,False,True,32,Human
+741,"Don't worry, it's just a phase.",830,1585,3869,Top 5 Unfunny,False,True,31,Human
+741,Just look at him.  He's full of himself.,865,1429,3105,Top 5 Unfunny,False,True,40,Human
+741,"This isn’t the first time you brought a date up to this spot, isn’t it?",615,1303,2739,Top 5 Unfunny,True,True,71,Human

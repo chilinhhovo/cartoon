@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+584,"Hold on, the Senate Committee on Women's Health is getting out.",2554,1448,5762,Top 5 Funny,False,True,63,Human
+584,The sperm bank class action lawsuit clients are here.,2510,1538,5984,Top 5 Funny,False,True,53,Human
+584,"Sir, the President's Council on Women's Health has arrived.",2324,1392,5307,Top 5 Funny,False,True,59,Human
+584,"On second thought, bring the name tags.",2223,1115,5844,Top 5 Funny,False,True,39,Human
+584,"That's correct, sir. The door to accounting was left open and now they're loose.",1707,1364,4844,Top 5 Funny,False,True,80,Human
+584,The sperm bank class action lawsuit clients are here.,2510,1538,5984,Top 5 Unfunny,False,True,53,Human
+584,Describe him.,1311,1512,4589,Top 5 Unfunny,False,True,13,Human
+584,Tell Jim to stop messing with the 3D printer.,1604,1493,5194,Top 5 Unfunny,False,True,45,Human
+584,The diversity training seminar looks like it's wrapping up.,1490,1469,4790,Top 5 Unfunny,False,True,59,Human
+584,"Hold on, the Senate Committee on Women's Health is getting out.",2554,1448,5762,Top 5 Unfunny,False,True,63,Human

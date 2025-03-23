@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+747,Just be glad he's not wearing his kilt today.,1707,1686,5183,Top 5 Funny,False,True,45,Human
+747,I just hope they don’t put in a pool.,1551,1674,5287,Top 5 Funny,False,True,37,Human
+747,I think it's called an air B&B.,1521,1607,4990,Top 5 Funny,False,True,31,Human
+747,I don’t think he understands the gravity of his situation.,1073,1340,3817,Top 5 Funny,False,True,58,Human
+747,They never tell you the whole story behind those reverse mortgages.,1039,1238,3572,Top 5 Funny,False,True,67,Human
+747,Just be glad he's not wearing his kilt today.,1707,1686,5183,Top 5 Unfunny,False,True,45,Human
+747,I just hope they don’t put in a pool.,1551,1674,5287,Top 5 Unfunny,False,True,37,Human
+747,I think it's called an air B&B.,1521,1607,4990,Top 5 Unfunny,False,True,31,Human
+747,I don’t think he understands the gravity of his situation.,1073,1340,3817,Top 5 Unfunny,False,True,58,Human
+747,You said your grandson made those brownies...?,1018,1338,3509,Top 5 Unfunny,True,True,46,Human

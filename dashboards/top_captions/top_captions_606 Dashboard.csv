@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+606,"Yep, we're lost. We passed this guy an hour ago.",25,37,89,Top 5 Funny,False,True,48,Human
+606,"As senior squeegee-man during flight simulations, moving up didn’t pan out.",24,35,84,Top 5 Funny,False,True,75,Human
+606,"He's always had his head in the clouds, but THIS ???",22,34,87,Top 5 Funny,True,True,52,Human
+606,"OK, but he is going to have to check that bag.",16,29,67,Top 5 Funny,False,True,46,Human
+606,It's the only way Delta lets you redeem their vouchers,16,29,63,Top 5 Funny,False,False,54,Human
+606,"Yep, we're lost. We passed this guy an hour ago.",25,37,89,Top 5 Unfunny,False,True,48,Human
+606,"As senior squeegee-man during flight simulations, moving up didn’t pan out.",24,35,84,Top 5 Unfunny,False,True,75,Human
+606,"He's always had his head in the clouds, but THIS ???",22,34,87,Top 5 Unfunny,True,True,52,Human
+606,"OK, but he is going to have to check that bag.",16,29,67,Top 5 Unfunny,False,True,46,Human
+606,It's the only way Delta lets you redeem their vouchers,16,29,63,Top 5 Unfunny,False,False,54,Human

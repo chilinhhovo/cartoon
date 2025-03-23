@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+583,So much for the suggestion box being anonymous,1523,1158,4442,Top 5 Funny,False,False,46,Human
+583,It was a very hostile takeover.,1322,1181,4111,Top 5 Funny,False,True,31,Human
+583,Let's see him check his phone during a meeting now.,1212,992,3750,Top 5 Funny,False,True,51,Human
+583,"Don't worry, Ken's in stocks. You'll be working in bonds.",1205,933,3567,Top 5 Funny,False,True,57,Human
+583,It says very clearly that there are penalties for early withdrawal.,1178,1181,3967,Top 5 Funny,False,True,67,Human
+583,Ted's in stocks. You'll be working primarily with bonds.,900,1262,3554,Top 5 Unfunny,False,True,56,Human
+583,"Yep, he's the one who hit ""reply all"".",825,1258,3285,Top 5 Unfunny,False,True,38,Human
+583,It was a very hostile takeover.,1322,1181,4111,Top 5 Unfunny,False,True,31,Human
+583,It says very clearly that there are penalties for early withdrawal.,1178,1181,3967,Top 5 Unfunny,False,True,67,Human
+583,So much for the suggestion box being anonymous,1523,1158,4442,Top 5 Unfunny,False,False,46,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+844,You can leave your label on.,1026,1991,4547,Top 5 Funny,False,True,28,Human
+844,Good news. I found a way to stop your aging.,962,2032,4193,Top 5 Funny,False,True,44,Human
+844,"You won't be able to drive after this, and neither will I.",693,1760,3543,Top 5 Funny,False,True,58,Human
+844,I’m afraid you need glasses.,677,1443,2913,Top 5 Funny,False,True,28,Human
+844,You must be my 5 o'clock,590,1356,2807,Top 5 Funny,False,False,24,Human
+844,Good news. I found a way to stop your aging.,962,2032,4193,Top 5 Unfunny,False,True,44,Human
+844,You can leave your label on.,1026,1991,4547,Top 5 Unfunny,False,True,28,Human
+844,"You won't be able to drive after this, and neither will I.",693,1760,3543,Top 5 Unfunny,False,True,58,Human
+844,I’m afraid you need glasses.,677,1443,2913,Top 5 Unfunny,False,True,28,Human
+844,You must be my 5 o'clock,590,1356,2807,Top 5 Unfunny,False,False,24,Human

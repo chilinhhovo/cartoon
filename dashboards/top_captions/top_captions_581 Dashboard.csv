@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+581,Expect a chilly reception at the circumcision symposium.,822,951,2003,Top 5 Funny,False,True,56,Human
+581,Your mother wanted me to give you this.,315,661,1171,Top 5 Funny,False,True,39,Human
+581,It gets chilly at night in the desert.,245,525,879,Top 5 Funny,False,True,38,Human
+581,...and this is just one sample of what I can do with the foreskins.,164,377,603,Top 5 Funny,False,True,67,Human
+581,"Put this on, take two tablets, and call me in the morning.",130,355,649,Top 5 Funny,False,True,58,Human
+581,Expect a chilly reception at the circumcision symposium.,822,951,2003,Top 5 Unfunny,False,True,56,Human
+581,Your mother wanted me to give you this.,315,661,1171,Top 5 Unfunny,False,True,39,Human
+581,It gets chilly at night in the desert.,245,525,879,Top 5 Unfunny,False,True,38,Human
+581,...and this is just one sample of what I can do with the foreskins.,164,377,603,Top 5 Unfunny,False,True,67,Human
+581,"Put this on, take two tablets, and call me in the morning.",130,355,649,Top 5 Unfunny,False,True,58,Human

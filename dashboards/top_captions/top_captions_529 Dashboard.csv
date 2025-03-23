@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+529,Of course I understand the gravity of the situation.,48,70,173,Top 5 Funny,False,True,52,Human
+529,It's easy once you realize there's nothing to it.,43,69,166,Top 5 Funny,False,True,49,Human
+529,There's really nothing to it.,36,64,156,Top 5 Funny,False,True,29,Human
+529,"See, there's nothing to it.",35,67,144,Top 5 Funny,False,True,27,Human
+529,Because it's not there.,35,67,126,Top 5 Funny,False,True,23,Human
+529,Of course I understand the gravity of the situation.,48,70,173,Top 5 Unfunny,False,True,52,Human
+529,It's easy once you realize there's nothing to it.,43,69,166,Top 5 Unfunny,False,True,49,Human
+529,I'm suspended by disbelief.,34,68,152,Top 5 Unfunny,False,True,27,Human
+529,"See, there's nothing to it.",35,67,144,Top 5 Unfunny,False,True,27,Human
+529,Because it's not there.,35,67,126,Top 5 Unfunny,False,True,23,Human

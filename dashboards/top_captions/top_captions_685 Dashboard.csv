@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+685,The waffle shirts were a bad idea.,3277,4028,11729,Top 5 Funny,False,True,34,Human
+685,"My survival instinct is telling me to play dead, but my OCD says wipe the spout.",3215,3980,11406,Top 5 Funny,False,True,80,Human
+685,Don’t worry. Honey doesn’t go bad.,3051,5652,13428,Top 5 Funny,False,True,34,Human
+685,"Honey, behind you.",3041,3329,10327,Top 5 Funny,False,True,18,Human
+685,There must be a Costco nearby.,2533,4648,10401,Top 5 Funny,False,True,30,Human
+685,Don’t worry. Honey doesn’t go bad.,3051,5652,13428,Top 5 Unfunny,False,True,34,Human
+685,There must be a Costco nearby.,2533,4648,10401,Top 5 Unfunny,False,True,30,Human
+685,"Uh-oh, Drizzly Bear.",2067,4218,9825,Top 5 Unfunny,False,True,20,Human
+685,The waffle shirts were a bad idea.,3277,4028,11729,Top 5 Unfunny,False,True,34,Human
+685,Anyone find a little yellow cap?,2450,4019,10527,Top 5 Unfunny,True,True,32,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+696,When.,5629,5362,16760,Top 5 Funny,False,True,5,Human
+696,"Frankly, I'm so over this whole farm-to-table fad!",5322,5550,17029,Top 5 Funny,False,True,50,Human
+696,"If there's a ring in here, Hank, I swear to God...",4261,4392,12814,Top 5 Funny,False,True,50,Human
+696,"Thanks a bunch, Mr. I-can-order-in-French.",4045,5056,13348,Top 5 Funny,False,True,42,Human
+696,I'd assumed The Hungry Pig would be more of a barbecue place.,3994,5129,14187,Top 5 Funny,False,True,61,Human
+696,"Frankly, I'm so over this whole farm-to-table fad!",5322,5550,17029,Top 5 Unfunny,False,True,50,Human
+696,When.,5629,5362,16760,Top 5 Unfunny,False,True,5,Human
+696,I'd assumed The Hungry Pig would be more of a barbecue place.,3994,5129,14187,Top 5 Unfunny,False,True,61,Human
+696,"Thanks a bunch, Mr. I-can-order-in-French.",4045,5056,13348,Top 5 Unfunny,False,True,42,Human
+696,I was going to break up with you after dinner but I think I'll do it now.,3830,4802,12963,Top 5 Unfunny,False,True,73,Human

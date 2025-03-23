@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+623,"You better hope that was rain I just felt.""",3656,2403,10403,Top 5 Funny,False,False,43,Human
+623,"Okay, but if he starts sniffing their tails he has to leave.",3079,3278,10188,Top 5 Funny,False,True,60,Human
+623,"He's a beagle, but he claims the ""b"" is silent.",2362,2957,8304,Top 5 Funny,False,True,47,Human
+623,"Have you tried saying, ""Down, boy""?",2330,2938,8968,Top 5 Funny,True,True,35,Human
+623,It's a park. He's on a leash. What's it to you?,2310,1996,7202,Top 5 Funny,True,True,47,Human
+623,"Okay, but if he starts sniffing their tails he has to leave.",3079,3278,10188,Top 5 Unfunny,False,True,60,Human
+623,I don't think you appreciate the gravity of the situation.,2165,3141,8307,Top 5 Unfunny,False,True,58,Human
+623,Do you realize your kite's in the car with the window cracked open?,1633,3130,7334,Top 5 Unfunny,True,True,67,Human
+623,But my dog IS on a leash,1784,3128,8180,Top 5 Unfunny,False,False,24,Human
+623,"Sir, did you leave a kite at the dog park by any chance?",1930,2982,7936,Top 5 Unfunny,True,True,56,Human

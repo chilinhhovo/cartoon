@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+770,"I guess ""trail lawyer"" wasn't a typo after all.",1297,1739,4466,Top 5 Funny,False,True,47,Human
+770,"I found them Sir. No, they don't want to extend their vehicle's warranty.",1249,1713,4088,Top 5 Funny,False,True,73,Human
+770,He's an adventure capitalist.,922,1418,3632,Top 5 Funny,False,True,29,Human
+770,This was a molehill until your lawyer got involved.,845,1445,3388,Top 5 Funny,False,True,51,Human
+770,I guess I misunderstood when you said your legal problems were behind you.,818,1351,3376,Top 5 Funny,False,True,74,Human
+770,"I guess ""trail lawyer"" wasn't a typo after all.",1297,1739,4466,Top 5 Unfunny,False,True,47,Human
+770,"I found them Sir. No, they don't want to extend their vehicle's warranty.",1249,1713,4088,Top 5 Unfunny,False,True,73,Human
+770,This was a molehill until your lawyer got involved.,845,1445,3388,Top 5 Unfunny,False,True,51,Human
+770,He's an adventure capitalist.,922,1418,3632,Top 5 Unfunny,False,True,29,Human
+770,I guess I misunderstood when you said your legal problems were behind you.,818,1351,3376,Top 5 Unfunny,False,True,74,Human

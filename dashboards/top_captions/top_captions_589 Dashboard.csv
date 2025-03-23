@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+589,It's a lot to digest.,959,1570,3961,Top 5 Funny,False,True,21,Human
+589,"Please listen carefully, as some of our menu options have changed.",888,1243,3344,Top 5 Funny,False,True,66,Human
+589,All we have left is the meatloaf.,804,1304,3096,Top 5 Funny,False,True,33,Human
+589,Wait 'til you see the check.,787,1025,2747,Top 5 Funny,False,True,28,Human
+589,Do you need a minute?,733,992,2916,Top 5 Funny,True,True,21,Human
+589,It's a lot to digest.,959,1570,3961,Top 5 Unfunny,False,True,21,Human
+589,All we have left is the meatloaf.,804,1304,3096,Top 5 Unfunny,False,True,33,Human
+589,"Please listen carefully, as some of our menu options have changed.",888,1243,3344,Top 5 Unfunny,False,True,66,Human
+589,"Your first time in Texas, sir?",671,1212,2997,Top 5 Unfunny,True,True,30,Human
+589,I’m sorry. That’s not on the menu.,520,1111,2499,Top 5 Unfunny,False,True,34,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+887,Four wishes if you listen to a timeshare presentation.,464,1315,2368,Top 5 Funny,False,True,54,Human
+887,"Wish granted, kid, pending corporate approval.",329,975,1567,Top 5 Funny,False,True,46,Human
+887,"All our genies are busy right now, but please continue to rub that lamp, your wishes are very important to us.",320,1020,1738,Top 5 Funny,False,True,110,Human
+887,"Yes, I'm the genie, but the last guy wished to swap outfits.",310,927,1484,Top 5 Funny,False,True,60,Human
+887,"Yeah, well, you don't look like Aladdin either",226,782,1312,Top 5 Funny,False,False,46,Human
+887,Four wishes if you listen to a timeshare presentation.,464,1315,2368,Top 5 Unfunny,False,True,54,Human
+887,"All our genies are busy right now, but please continue to rub that lamp, your wishes are very important to us.",320,1020,1738,Top 5 Unfunny,False,True,110,Human
+887,"Wish granted, kid, pending corporate approval.",329,975,1567,Top 5 Unfunny,False,True,46,Human
+887,"Yes, I'm the genie, but the last guy wished to swap outfits.",310,927,1484,Top 5 Unfunny,False,True,60,Human
+887,"Yeah, well, you don't look like Aladdin either",226,782,1312,Top 5 Unfunny,False,False,46,Human

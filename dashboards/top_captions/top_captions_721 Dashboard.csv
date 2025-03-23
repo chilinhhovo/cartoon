@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+721,"I can still vote by mail,you know.",3249,3392,10361,Top 5 Funny,False,True,34,Human
+721,"Mom, can't I just wear a mask?",2129,3476,8963,Top 5 Funny,True,True,30,Human
+721,There. Now in 14 days we'll check your temperature again.,1637,3261,7786,Top 5 Funny,False,True,57,Human
+721,How is that door coming along?,1547,2824,7443,Top 5 Funny,True,True,30,Human
+721,This is why nobody likes to play with you.,1414,2679,6114,Top 5 Funny,False,True,42,Human
+721,"Mom, can't I just wear a mask?",2129,3476,8963,Top 5 Unfunny,True,True,30,Human
+721,"I can still vote by mail,you know.",3249,3392,10361,Top 5 Unfunny,False,True,34,Human
+721,There. Now in 14 days we'll check your temperature again.,1637,3261,7786,Top 5 Unfunny,False,True,57,Human
+721,How is that door coming along?,1547,2824,7443,Top 5 Unfunny,True,True,30,Human
+721,This is why nobody likes to play with you.,1414,2679,6114,Top 5 Unfunny,False,True,42,Human

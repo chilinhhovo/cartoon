@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+511,I'm hourly.,12,18,43,Top 5 Funny,False,True,11,Human
+511,And one day your son will keep you from having a heart attack.,8,15,34,Top 5 Funny,False,True,62,Human
+511,I wish you had found that yesterday.,7,15,31,Top 5 Funny,False,True,36,Human
+511,"Attention to detail is important, son.",5,13,27,Top 5 Funny,False,True,38,Human
+511,My cardiologist sells them.,4,12,26,Top 5 Funny,False,True,27,Human
+511,I'm hourly.,12,18,43,Top 5 Unfunny,False,True,11,Human
+511,And one day your son will keep you from having a heart attack.,8,15,34,Top 5 Unfunny,False,True,62,Human
+511,I wish you had found that yesterday.,7,15,31,Top 5 Unfunny,False,True,36,Human
+511,"Attention to detail is important, son.",5,13,27,Top 5 Unfunny,False,True,38,Human
+511,My cardiologist sells them.,4,12,26,Top 5 Unfunny,False,True,27,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+620,"Most of them have candy, this ones filled with nuts.",3268,3006,9690,Top 5 Funny,False,True,52,Human
+620,The best part? Not a single religion predicted this one.,2807,3003,8705,Top 5 Funny,True,True,56,Human
+620,It's not the end of the world if he misses.,2702,2403,9697,Top 5 Funny,False,True,43,Human
+620,"Lower it a bit, Mar-a-Lago's just coming back around.",2694,3027,8341,Top 5 Funny,False,True,53,Human
+620,These young guys have it easy. It was much harder back when it was flat,2610,2912,8622,Top 5 Funny,False,False,71,Human
+620,"Lower it a bit, Mar-a-Lago's just coming back around.",2694,3027,8341,Top 5 Unfunny,False,True,53,Human
+620,"Most of them have candy, this ones filled with nuts.",3268,3006,9690,Top 5 Unfunny,False,True,52,Human
+620,The best part? Not a single religion predicted this one.,2807,3003,8705,Top 5 Unfunny,True,True,56,Human
+620,"It was a biblical typo.  It's really called the ""Rupture.""",2492,2964,8137,Top 5 Unfunny,False,False,58,Human
+620,These young guys have it easy. It was much harder back when it was flat,2610,2912,8622,Top 5 Unfunny,False,False,71,Human

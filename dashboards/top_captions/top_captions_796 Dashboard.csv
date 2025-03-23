@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+796,Turns out they only check to see if you return the shoes.,1614,2164,5462,Top 5 Funny,False,True,57,Human
+796,That drummer downstairs doesn't know who he's messing with.,1267,2417,5450,Top 5 Funny,False,True,59,Human
+796,Exactly how many times did you hit “add to cart”?,1052,2015,4513,Top 5 Funny,True,True,49,Human
+796,Lots of people have unusual hobbies.  The guy downstairs enjoys thumping on his ceiling with a broom.,1046,2022,4397,Top 5 Funny,False,True,101,Human
+796,The bowling alley said I could work from home today.,905,1914,4215,Top 5 Funny,False,True,52,Human
+796,That drummer downstairs doesn't know who he's messing with.,1267,2417,5450,Top 5 Unfunny,False,True,59,Human
+796,Turns out they only check to see if you return the shoes.,1614,2164,5462,Top 5 Unfunny,False,True,57,Human
+796,Lots of people have unusual hobbies.  The guy downstairs enjoys thumping on his ceiling with a broom.,1046,2022,4397,Top 5 Unfunny,False,True,101,Human
+796,Exactly how many times did you hit “add to cart”?,1052,2015,4513,Top 5 Unfunny,True,True,49,Human
+796,The bowling alley said I could work from home today.,905,1914,4215,Top 5 Unfunny,False,True,52,Human

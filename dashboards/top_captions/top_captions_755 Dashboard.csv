@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+755,So what am I then? Ancient history?,1005,1562,4151,Top 5 Funny,True,True,35,Human
+755,"Kevin, at some point you're going to have to shave and go back into the office",942,1448,3760,Top 5 Funny,False,False,78,Human
+755,You knew I was a Neanderthal when you married me.,911,1357,3670,Top 5 Funny,False,True,49,Human
+755,The restroom is just down the hall and anywhere you want.,864,1183,3134,Top 5 Funny,False,True,57,Human
+755,"Myles, the pandemic is ending.  You should try to find your pants.",855,1256,3160,Top 5 Funny,False,True,66,Human
+755,So what am I then? Ancient history?,1005,1562,4151,Top 5 Unfunny,True,True,35,Human
+755,"Kevin, at some point you're going to have to shave and go back into the office",942,1448,3760,Top 5 Unfunny,False,False,78,Human
+755,You knew I was a Neanderthal when you married me.,911,1357,3670,Top 5 Unfunny,False,True,49,Human
+755,I just can’t get past the difference in our ages.,844,1315,3375,Top 5 Unfunny,False,True,49,Human
+755,"Of course everything's locally sourced.  Where else is there?""",756,1267,3289,Top 5 Unfunny,True,False,62,Human

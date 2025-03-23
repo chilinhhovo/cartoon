@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+669,He went right from crawling to stand-up!,3537,1677,9057,Top 5 Funny,False,True,40,Human
+669,"Thanks, you've been a great audience, I'll be awake all night.",2953,2253,8624,Top 5 Funny,False,True,62,Human
+669,My next guests I have known my entire life.,2223,1929,7145,Top 5 Funny,False,True,43,Human
+669,"I'd like to start off by saying—thanks for having me, folks!",2164,2298,7636,Top 5 Funny,False,True,60,Human
+669,"Look, honey! He skipped crawling and went straight to stand-up!",2062,1881,7089,Top 5 Funny,False,True,63,Human
+669,My next number will be a Number Two.,1855,2368,6368,Top 5 Unfunny,False,True,36,Human
+669,"I'd like to start off by saying—thanks for having me, folks!",2164,2298,7636,Top 5 Unfunny,False,True,60,Human
+669,"Thanks, you've been a great audience, I'll be awake all night.",2953,2253,8624,Top 5 Unfunny,False,True,62,Human
+669,... and also big thanks to those tuning in on the baby monitor.,1710,2203,6859,Top 5 Unfunny,False,True,63,Human
+669,"America, are you ready for a change?  I know I am",1820,1992,5706,Top 5 Unfunny,True,False,49,Human

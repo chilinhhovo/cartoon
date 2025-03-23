@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+774,You're a sight for a sore eye.,937,2182,4722,Top 5 Funny,False,True,30,Human
+774,"To be fair, you don't look like your profile picture either.",925,2089,4495,Top 5 Funny,False,True,60,Human
+774,I could use some arrr and arrr.,899,2337,4598,Top 5 Funny,False,True,31,Human
+774,They said it was a reorganization.  Then out came this plank.,854,1990,4280,Top 5 Funny,False,True,61,Human
+774,"If you're waiting for your ship to come in, I wouldn't.",854,2279,4554,Top 5 Funny,False,True,55,Human
+774,I could use some arrr and arrr.,899,2337,4598,Top 5 Unfunny,False,True,31,Human
+774,"If you're waiting for your ship to come in, I wouldn't.",854,2279,4554,Top 5 Unfunny,False,True,55,Human
+774,You're a sight for a sore eye.,937,2182,4722,Top 5 Unfunny,False,True,30,Human
+774,"To be fair, you don't look like your profile picture either.",925,2089,4495,Top 5 Unfunny,False,True,60,Human
+774,Could I borrow your Aye Phone?,730,2030,4035,Top 5 Unfunny,True,True,30,Human

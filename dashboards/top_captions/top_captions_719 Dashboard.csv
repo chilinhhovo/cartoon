@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+719,The only downside is that the monthly rent has to be paid in quarters,3150,3711,10959,Top 5 Funny,False,False,69,Human
+719,Well the ad did say apartment size washer and dryer.,3068,3444,9807,Top 5 Funny,False,True,52,Human
+719,"If you want a side-by-side, you'll have to go to the suburbs.",2817,3137,9431,Top 5 Funny,False,True,61,Human
+719,...course you’ll have to put some money into it.,2384,2479,7568,Top 5 Funny,False,True,48,Human
+719,Rent is stabilized at 25 cents for five minutes.,2002,2711,6963,Top 5 Funny,False,True,48,Human
+719,The only downside is that the monthly rent has to be paid in quarters,3150,3711,10959,Top 5 Unfunny,False,False,69,Human
+719,Well the ad did say apartment size washer and dryer.,3068,3444,9807,Top 5 Unfunny,False,True,52,Human
+719,"If you want a side-by-side, you'll have to go to the suburbs.",2817,3137,9431,Top 5 Unfunny,False,True,61,Human
+719,Nothing in the neighborhood stacks up against it.,1937,2937,7112,Top 5 Unfunny,False,True,49,Human
+719,The only downside is that rent needs to be paid in quarters.,1611,2763,6768,Top 5 Unfunny,False,True,60,Human
