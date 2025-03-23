@@ -5,9 +5,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contest Detail - New Yorker Caption Contest</title>
     <link rel="stylesheet" href="detail-style.css">
+    <style>
+        .portfolio-link {
+            display: inline-block;
+            text-decoration: none;
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+            transition: color 0.2s;
+        }
+
+        .portfolio-link:hover {
+            color: #1a1a1a;
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
+        <a href="https://chilinhhovo.github.io/portfolio/" class="portfolio-link">← Return to Portfolio</a>
         <header>
             <a href="index.html" class="back-button">← Back to Gallery</a>
             <h1>Contest #<span id="contest-number"></span></h1>
@@ -84,6 +100,7 @@
         <p>Credit to database: Zhang, J.*, Jain, L.*, Guo, Y.*, Chen, J., Zhou, K. L., Suresh, S., ... & Nowak, R. (2024). Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning. arXiv preprint arXiv:2406.10522.</p>
         <p>Jain, L., Jamieson, K., Mankoff, R., Nowak, R., Sievert, S., (2020). The New Yorker Cartoon Caption Contest Dataset. <a href="https://nextml.github.io/caption-contest-data/">view database here</a></p>
         <p>These data were gathered as part of the The New Yorker (TNY) cartoon caption contest. The crowdsourced ratings inform the final judging of the captions, but the official winner is decided by the TNY editorial staff.</p>
+        <p>Analysis and curation by <a href="https://chilinhhovo.github.io/portfolio/">Chi Vo</a></p>
     </footer>
     <script src="detail.js"></script>
 </body>
