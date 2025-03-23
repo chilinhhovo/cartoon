@@ -49,9 +49,9 @@
         }
 
         .theme-button.active {
-            background: #0000ff;
-            color: white;
-            border-color: #0000ff;
+            background: #1a1a1a;
+            color: #fff;
+            border-color: #1a1a1a;
         }
 
         .gallery {
@@ -98,6 +98,28 @@
 
         .hidden {
             display: none;
+        }
+
+        footer {
+            margin-top: 4rem;
+            padding: 2rem 0;
+            border-top: 1px solid #eee;
+            font-size: 0.9rem;
+            color: #666;
+            line-height: 1.6;
+        }
+
+        footer p {
+            margin-bottom: 1rem;
+        }
+
+        footer a {
+            color: #1a1a1a;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -3618,5 +3640,10 @@
             });
         });
     </script>
+    <footer>
+        <p>Credit to database: Zhang, J.*, Jain, L.*, Guo, Y.*, Chen, J., Zhou, K. L., Suresh, S., ... & Nowak, R. (2024). Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning. arXiv preprint arXiv:2406.10522.</p>
+        <p>Jain, L., Jamieson, K., Mankoff, R., Nowak, R., Sievert, S., (2020). The New Yorker Cartoon Caption Contest Dataset. <a href="https://nextml.github.io/caption-contest-data/">view database here</a></p>
+        <p>These data were gathered as part of the The New Yorker (TNY) cartoon caption contest. The crowdsourced ratings inform the final judging of the captions, but the official winner is decided by the TNY editorial staff.</p>
+    </footer>
 </body>
 </html>
