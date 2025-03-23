@@ -236,6 +236,10 @@ footer a:hover {
 }
 
 @media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+
     .content {
         grid-template-columns: 1fr;
         gap: 2rem;
@@ -248,8 +252,104 @@ footer a:hover {
     .image-section img {
         max-height: none;
     }
-    
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    .theme-tag {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+    }
+
+    /* Make table scrollable on mobile */
+    .section-block {
+        margin-bottom: 2rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    table {
+        min-width: 600px; /* Ensure table can be scrolled on mobile */
+    }
+
+    th, td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+
     .metrics-grid {
         grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .metric-card {
+        padding: 0.8rem;
+    }
+
+    .metric-card h4 {
+        font-size: 0.8rem;
+    }
+
+    .metric-card p {
+        font-size: 1.1rem;
+    }
+
+    .similarity-description p {
+        font-size: 0.85rem;
+    }
+
+    footer {
+        margin-top: 2rem;
+        padding: 1.5rem 0;
+    }
+
+    footer p {
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0.8rem;
+    }
+
+    header {
+        margin-bottom: 1.5rem;
+    }
+
+    .back-button, .portfolio-link {
+        font-size: 0.9rem;
+    }
+
+    .theme-tag {
+        position: static;
+        margin-top: 0.5rem;
+        display: inline-block;
+    }
+
+    .section-block {
+        margin-bottom: 1.5rem;
+    }
+
+    .ai-captions {
+        margin-top: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .ai-model {
+        margin-bottom: 1rem;
+    }
+
+    .metrics-section {
+        margin-top: 1.5rem;
     }
 } 
