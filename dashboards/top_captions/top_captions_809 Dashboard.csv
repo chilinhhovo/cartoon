@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+809,The only thing keeping up with the Kardashians are my glutes.,778,1580,2663,Top 5 Funny,False,True,61,Human
+809,Let’s stop here and call it a halfway house.,748,1270,2947,Top 5 Funny,False,True,44,Human
+809,I regret the marble countertops,548,996,2415,Top 5 Funny,False,False,31,Human
+809,I'm thinking of down-downsizing.,543,1155,1931,Top 5 Funny,False,True,32,Human
+809,'Let me do the talking when your mother wakes up.',539,880,2075,Top 5 Funny,False,False,50,Human
+809,The only thing keeping up with the Kardashians are my glutes.,778,1580,2663,Top 5 Unfunny,False,True,61,Human
+809,Let’s stop here and call it a halfway house.,748,1270,2947,Top 5 Unfunny,False,True,44,Human
+809,I'm thinking of down-downsizing.,543,1155,1931,Top 5 Unfunny,False,True,32,Human
+809,"You're right, the marble countertops would have been a mistake.",445,1154,2520,Top 5 Unfunny,False,True,63,Human
+809,We really need to find a house sitter next time.,504,1110,2471,Top 5 Unfunny,False,True,48,Human

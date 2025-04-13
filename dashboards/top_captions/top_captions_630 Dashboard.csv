@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+630,Gore was right. This is inconvenient.,6363,2672,14468,Top 5 Funny,False,True,37,Human
+630,I clearly recall choosing hell over high water.,5039,3576,14180,Top 5 Funny,False,True,47,Human
+630,Looks like we might be facing a row vs wade  decision,4686,4345,12841,Top 5 Funny,False,False,53,Human
+630,"Still want to vote Republican, Ed?",3370,4524,11818,Top 5 Funny,True,True,34,Human
+630,Is your mom still in the lounge chair?,3097,3420,9627,Top 5 Funny,True,True,38,Human
+630,"Still want to vote Republican, Ed?",3370,4524,11818,Top 5 Unfunny,True,True,34,Human
+630,It’s Florida. We stand our ground.,2597,4394,10824,Top 5 Unfunny,False,True,34,Human
+630,Looks like we might be facing a row vs wade  decision,4686,4345,12841,Top 5 Unfunny,False,False,53,Human
+630,"Ok, but the moon landing was still a hoax.",3037,4250,11344,Top 5 Unfunny,False,True,42,Human
+630,Please put your trunks on before the tide goes out!,2845,4215,11628,Top 5 Unfunny,False,True,51,Human

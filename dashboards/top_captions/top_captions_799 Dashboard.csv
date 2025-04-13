@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+799,"..... and that's when she said, 'It's me or the cat.",1913,2831,7108,Top 5 Funny,False,True,52,Human
+799,Finish your wine and I’ll explain what I meant by ‘fixed’”.,1853,2822,6885,Top 5 Funny,False,True,59,Human
+799,I hope it pairs well with whatever you dragged in.,1755,2913,7119,Top 5 Funny,False,True,50,Human
+799,"To be honest, not what I was expecting when you said you were a cat person.",1601,2816,6646,Top 5 Funny,False,True,75,Human
+799,"I must say, when your profile said “Must like cats” this isn’t exactly what I was expecting…",1600,3055,7094,Top 5 Funny,False,False,92,Human
+799,"I must say, when your profile said “Must like cats” this isn’t exactly what I was expecting…",1600,3055,7094,Top 5 Unfunny,False,False,92,Human
+799,Are you ignoring anyone else?,1443,2991,6726,Top 5 Unfunny,True,True,29,Human
+799,I hope it pairs well with whatever you dragged in.,1755,2913,7119,Top 5 Unfunny,False,True,50,Human
+799,"..... and that's when she said, 'It's me or the cat.",1913,2831,7108,Top 5 Unfunny,False,True,52,Human
+799,Finish your wine and I’ll explain what I meant by ‘fixed’”.,1853,2822,6885,Top 5 Unfunny,False,True,59,Human

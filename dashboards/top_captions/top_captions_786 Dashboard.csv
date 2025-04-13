@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+786,My client is prepared to walk.,1775,2781,7163,Top 5 Funny,False,True,30,Human
+786,"And what value would you place on *your* testicles, Mr. Flanagan?",1657,2509,5721,Top 5 Funny,True,True,65,Human
+786,It's simple really. He's had his shots. He wants you to get yours.,1611,2543,5996,Top 5 Funny,False,True,66,Human
+786,My client wants out.,1559,2896,6651,Top 5 Funny,False,True,20,Human
+786,"He'll negotiate, but he won't beg.",1512,2317,6346,Top 5 Funny,False,True,34,Human
+786,My client wants out.,1559,2896,6651,Top 5 Unfunny,False,True,20,Human
+786,My client is prepared to walk.,1775,2781,7163,Top 5 Unfunny,False,True,30,Human
+786,It's simple really. He's had his shots. He wants you to get yours.,1611,2543,5996,Top 5 Unfunny,False,True,66,Human
+786,"And what value would you place on *your* testicles, Mr. Flanagan?",1657,2509,5721,Top 5 Unfunny,True,True,65,Human
+786,My client wants to play ball.,1330,2499,6157,Top 5 Unfunny,False,True,29,Human

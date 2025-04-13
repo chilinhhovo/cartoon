@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+737,We have a stalker.,3868,2838,10940,Top 5 Funny,False,True,18,Human
+737,I thought you said the cloud was secure.,3491,2086,9825,Top 5 Funny,False,True,40,Human
+737,"Now that he's hacked the cloud, do you think he'll spill the beans?",2857,2337,8370,Top 5 Funny,True,True,67,Human
+737,No one here seems to know Jack.,1930,2893,7652,Top 5 Funny,False,True,31,Human
+737,So much for the security of cloud-based meetings.,1713,3222,8437,Top 5 Funny,False,True,49,Human
+737,And that’s when jack realized bean stalks lead to bean counters.,1412,3723,7541,Top 5 Unfunny,False,True,64,Human
+737,So much for the security of cloud-based meetings.,1713,3222,8437,Top 5 Unfunny,False,True,49,Human
+737,Giant? Next floor.,1379,3072,7220,Top 5 Unfunny,True,True,18,Human
+737,No one here seems to know Jack.,1930,2893,7652,Top 5 Unfunny,False,True,31,Human
+737,"As you can see, stalks are up.",1128,2865,6097,Top 5 Unfunny,False,True,30,Human

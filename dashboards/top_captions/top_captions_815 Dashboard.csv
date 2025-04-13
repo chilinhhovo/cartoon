@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+815,Elbows on the table.  Another reason I don't like broccoli.,971,1366,3433,Top 5 Funny,False,True,59,Human
+815,"Well, you did tell the waiter to serve the vegetables first.""",739,1136,2806,Top 5 Funny,False,False,61,Human
+815,This place is known for serving local produce.,677,900,2418,Top 5 Funny,False,True,46,Human
+815,This is the only place around here that serves vegetables.,631,1057,2534,Top 5 Funny,False,True,58,Human
+815,Why do they always serve the salad first?,596,1053,2397,Top 5 Funny,True,True,41,Human
+815,Elbows on the table.  Another reason I don't like broccoli.,971,1366,3433,Top 5 Unfunny,False,True,59,Human
+815,"Well, you did tell the waiter to serve the vegetables first.""",739,1136,2806,Top 5 Unfunny,False,False,61,Human
+815,This is the only place around here that serves vegetables.,631,1057,2534,Top 5 Unfunny,False,True,58,Human
+815,Why do they always serve the salad first?,596,1053,2397,Top 5 Unfunny,True,True,41,Human
+815,The menu does say they serve vegetables.,583,1052,2487,Top 5 Unfunny,False,True,40,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+541,Let me guess...the Gym Reaper?,202,251,633,Top 5 Funny,True,True,30,Human
+541,You must be kidding. I've got tickets for 'Hamilton' tonight.,168,269,650,Top 5 Funny,False,True,61,Human
+541,We're divorced---but I'd be delighted to give you his current address.,154,270,607,Top 5 Funny,False,True,70,Human
+541,He's in the kitchen washing the toaster.,120,236,460,Top 5 Funny,False,True,40,Human
+541,"No, I get it. I just think it's a little insulting that he sends an intern.",119,236,537,Top 5 Funny,False,True,75,Human
+541,We're divorced---but I'd be delighted to give you his current address.,154,270,607,Top 5 Unfunny,False,True,70,Human
+541,You must be kidding. I've got tickets for 'Hamilton' tonight.,168,269,650,Top 5 Unfunny,False,True,61,Human
+541,Let me guess...the Gym Reaper?,202,251,633,Top 5 Unfunny,True,True,30,Human
+541,"No, I get it. I just think it's a little insulting that he sends an intern.",119,236,537,Top 5 Unfunny,False,True,75,Human
+541,He's in the kitchen washing the toaster.,120,236,460,Top 5 Unfunny,False,True,40,Human

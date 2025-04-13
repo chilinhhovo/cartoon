@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Contest 632 - New Yorker Caption Contest</title>
+<link href="../detail-style.css" rel="stylesheet"/>
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        body {
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: #fff;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: #1a1a1a;
+        }
+
+        .theme-filters {
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .theme-button {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #fff;
+            color: #666;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .theme-button:hover {
+            background: #f5f5f5;
+            border-color: #999;
+        }
+
+        .theme-button.active {
+            background: #0000ff;
+            color: white;
+            border-color: #0000ff;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .contest-card {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            transition: transform 0.2s ease;
+        }
+
+        .contest-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .contest-card img {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 0.5rem;
+        }
+
+        .contest-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+        }
+
+        .contest-number {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .contest-theme {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .theme-label {
+            text-align: center;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background: #f5f5f5;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: #666;
+            display: inline-block;
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+<header>
+<a class="back-link" href="../index.html">← Back to Gallery</a>
+<h1>Contest #632</h1>
+</header>
+<div class="content">
+<div class="image-section">
+<img alt="Contest 632 Image" class="contest-image" src="../contest_images/632_Dashboard.jpg"/>
+<div class="theme-label">Theme: work</div>
+</div>
+<div class="captions-section">
+<div class="human-captions">
+<h2>Top Human Captions</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Caption</th>
+<th>Funny</th>
+<th>Unfunny</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="caption-number">1</td>
+<td>What makes you think the Russians were involved?</td>
+<td class="vote-cell">4575</td>
+<td class="vote-cell">2658</td>
+<td class="vote-cell">11637</td>
+</tr>
+<tr>
+<td class="caption-number">2</td>
+<td>They were all in it together.</td>
+<td class="vote-cell">4165</td>
+<td class="vote-cell">2629</td>
+<td class="vote-cell">11039</td>
+</tr>
+<tr>
+<td class="caption-number">3</td>
+<td>We’re pretty sure it was an inside inside inside inside inside job, detective.</td>
+<td class="vote-cell">3420</td>
+<td class="vote-cell">2809</td>
+<td class="vote-cell">10025</td>
+</tr>
+<tr>
+<td class="caption-number">4</td>
+<td>We gotta get the short one to open up.</td>
+<td class="vote-cell">3318</td>
+<td class="vote-cell">2650</td>
+<td class="vote-cell">8870</td>
+</tr>
+<tr>
+<td class="caption-number">5</td>
+<td>I only arrested the one on the left. But when we interrogated her she really opened up.</td>
+<td class="vote-cell">2926</td>
+<td class="vote-cell">2901</td>
+<td class="vote-cell">9898</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ai-captions">
+<h2>AI Generated Captions</h2>
+<div class="ai-model">
+<h3>ChatGPT</h3>
+<div class="ai-caption">Well, Detective, it's either number 3 or we're dealing with a serious case of identity nesting.</div>
+</div><div class="ai-model"><h3>Claude</h3><div class="ai-caption">First day on the force and she's already interrogating the chief. I smell a promotion coming!</div></div>
+</div>
+<div class="similarity-chart">
+<h2>Similarity Analysis</h2>
+<div class="chart-container">
+<img alt="Similarity Chart" class="similarity-image" src="../contest_charts_svg/contest_632.svg"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeButtons = document.querySelectorAll('.theme-button');
+            const contestCards = document.querySelectorAll('.contest-card');
+
+            themeButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    // Update active button
+                    themeButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+
+                    const selectedTheme = button.dataset.theme;
+
+                    // Show/hide cards based on theme
+                    contestCards.forEach(card => {
+                        if (selectedTheme === 'all' || card.dataset.theme === selectedTheme) {
+                            card.classList.remove('hidden');
+                        } else {
+                            card.classList.add('hidden');
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

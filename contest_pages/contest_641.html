@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Contest 641 - New Yorker Caption Contest</title>
+<link href="../detail-style.css" rel="stylesheet"/>
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        body {
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: #fff;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: #1a1a1a;
+        }
+
+        .theme-filters {
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .theme-button {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #fff;
+            color: #666;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .theme-button:hover {
+            background: #f5f5f5;
+            border-color: #999;
+        }
+
+        .theme-button.active {
+            background: #0000ff;
+            color: white;
+            border-color: #0000ff;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .contest-card {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            transition: transform 0.2s ease;
+        }
+
+        .contest-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .contest-card img {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 0.5rem;
+        }
+
+        .contest-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+        }
+
+        .contest-number {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .contest-theme {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .theme-label {
+            text-align: center;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background: #f5f5f5;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: #666;
+            display: inline-block;
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+<header>
+<a class="back-link" href="../index.html">← Back to Gallery</a>
+<h1>Contest #641</h1>
+</header>
+<div class="content">
+<div class="image-section">
+<img alt="Contest 641 Image" class="contest-image" src="../contest_images/641_Dashboard.jpg"/>
+<div class="theme-label">Theme: animals</div>
+</div>
+<div class="captions-section">
+<div class="human-captions">
+<h2>Top Human Captions</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Caption</th>
+<th>Funny</th>
+<th>Unfunny</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="caption-number">1</td>
+<td>Mr. President, I 've rounded up what's left of your base.</td>
+<td class="vote-cell">39</td>
+<td class="vote-cell">116</td>
+<td class="vote-cell">178</td>
+</tr>
+<tr>
+<td class="caption-number">2</td>
+<td>Check out channel 12. This idiot woman has a house full of cats.</td>
+<td class="vote-cell">38</td>
+<td class="vote-cell">119</td>
+<td class="vote-cell">192</td>
+</tr>
+<tr>
+<td class="caption-number">3</td>
+<td>I'm not sure how many there are. Every time I start counting I fall asleep.</td>
+<td class="vote-cell">33</td>
+<td class="vote-cell">86</td>
+<td class="vote-cell">150</td>
+</tr>
+<tr>
+<td class="caption-number">4</td>
+<td>The Trump Tower contract said they all had to be white.</td>
+<td class="vote-cell">32</td>
+<td class="vote-cell">101</td>
+<td class="vote-cell">171</td>
+</tr>
+<tr>
+<td class="caption-number">5</td>
+<td>Tell Trump the Senate Republicans are all here.</td>
+<td class="vote-cell">32</td>
+<td class="vote-cell">96</td>
+<td class="vote-cell">150</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ai-captions">
+<h2>AI Generated Captions</h2>
+<div class="ai-model">
+<h3>ChatGPT</h3>
+<div class="ai-caption">Gary realized too late that getting Netflix for the sheep wasn't his smartest move.</div>
+</div><div class="ai-model"><h3>Claude</h3><div class="ai-caption">I think it's time we addressed the elephant in the room... or rather, the herd of sheep in the living room.</div></div>
+</div>
+<div class="similarity-chart">
+<h2>Similarity Analysis</h2>
+<div class="chart-container">
+<img alt="Similarity Chart" class="similarity-image" src="../contest_charts_svg/contest_641.svg"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeButtons = document.querySelectorAll('.theme-button');
+            const contestCards = document.querySelectorAll('.contest-card');
+
+            themeButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    // Update active button
+                    themeButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+
+                    const selectedTheme = button.dataset.theme;
+
+                    // Show/hide cards based on theme
+                    contestCards.forEach(card => {
+                        if (selectedTheme === 'all' || card.dataset.theme === selectedTheme) {
+                            card.classList.remove('hidden');
+                        } else {
+                            card.classList.add('hidden');
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+723,A little more on the Woofer,4561,5352,15687,Top 5 Funny,False,False,27,Human
+723,"We should be able to finish the album today, as long as no one rings the doorbell.",4237,4685,12841,Top 5 Funny,False,True,82,Human
+723,I hate it when they hit those high notes that only they can hear.,3724,4393,12393,Top 5 Funny,False,True,65,Human
+723,Less woofer?,2936,2346,8123,Top 5 Funny,True,True,12,Human
+723,"They're all pretty good, except the fish...he just keeps playing scales.",2789,4867,11849,Top 5 Funny,False,True,72,Human
+723,A little more on the Woofer,4561,5352,15687,Top 5 Unfunny,False,False,27,Human
+723,"They're all pretty good, except the fish...he just keeps playing scales.",2789,4867,11849,Top 5 Unfunny,False,True,72,Human
+723,"We should be able to finish the album today, as long as no one rings the doorbell.",4237,4685,12841,Top 5 Unfunny,False,True,82,Human
+723,That is the only band we could get to play at Trump rally.,2674,4671,9903,Top 5 Unfunny,False,True,58,Human
+723,"PETA, Paw and Mary.",2601,4643,10388,Top 5 Unfunny,False,True,19,Human

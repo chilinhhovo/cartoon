@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+840,So it really did kill him to help with the ironing once in a while.,499,1116,2241,Top 5 Funny,False,True,67,Human
+840,You’re sleeping on the hanger tonight.,482,1442,2942,Top 5 Funny,False,True,38,Human
+840,Now might be a good time to grab that sock behind the washer.,435,989,2051,Top 5 Funny,False,True,61,Human
+840,"Honey, why don’t you just try diet and exercise?",408,1238,1973,Top 5 Funny,True,True,48,Human
+840,I'm still taking you to the cleaners.,378,757,1616,Top 5 Funny,False,True,37,Human
+840,You’re sleeping on the hanger tonight.,482,1442,2942,Top 5 Unfunny,False,True,38,Human
+840,Was that you banging inside the dryer?,331,1274,2318,Top 5 Unfunny,True,True,38,Human
+840,"Honey, why don’t you just try diet and exercise?",408,1238,1973,Top 5 Unfunny,True,True,48,Human
+840,So it really did kill him to help with the ironing once in a while.,499,1116,2241,Top 5 Unfunny,False,True,67,Human
+840,Now might be a good time to grab that sock behind the washer.,435,989,2051,Top 5 Unfunny,False,True,61,Human

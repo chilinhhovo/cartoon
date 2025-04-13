@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+823,I'm going to need to turn somebody into a pilot.,549,1229,2477,Top 5 Funny,False,True,48,Human
+823,And for my next trick I will turn a twenty dollar bill into a bag of seven almonds.,445,973,1927,Top 5 Funny,False,True,83,Human
+823,"I call this next trick '""Overbooked Flight"", and I will need three volunteers from the audience.",343,776,1551,Top 5 Funny,False,True,96,Human
+823,You heard me right ladies and gentlemen; we're arriving early and your luggage is on this plane!,274,754,1498,Top 5 Funny,False,True,96,Human
+823,Watch me pull out some hidden fees from thin air.,237,580,1181,Top 5 Funny,False,True,49,Human
+823,I'm going to need to turn somebody into a pilot.,549,1229,2477,Top 5 Unfunny,False,True,48,Human
+823,And for my next trick I will turn a twenty dollar bill into a bag of seven almonds.,445,973,1927,Top 5 Unfunny,False,True,83,Human
+823,"I call this next trick '""Overbooked Flight"", and I will need three volunteers from the audience.",343,776,1551,Top 5 Unfunny,False,True,96,Human
+823,You heard me right ladies and gentlemen; we're arriving early and your luggage is on this plane!,274,754,1498,Top 5 Unfunny,False,True,96,Human
+823,"Pick an airport, any airport.",194,613,1183,Top 5 Unfunny,False,True,29,Human

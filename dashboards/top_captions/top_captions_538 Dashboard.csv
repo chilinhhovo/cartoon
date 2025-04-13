@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+538,I'm not a big cat person.,545,600,1731,Top 5 Funny,False,True,25,Human
+538,Think it over. I'm still the only one here who can use a can opener.,488,566,1685,Top 5 Funny,False,True,68,Human
+538,"I may be a little prick, but at least I'm not a giant pussy.",233,452,910,Top 5 Funny,False,True,60,Human
+538,"In my defense, the neutering was a requirement of the condo board.",231,460,1069,Top 5 Funny,False,True,66,Human
+538,"First of all, I'd like to apologize for the whole laser light thing.",223,447,999,Top 5 Funny,False,True,68,Human
+538,I'm not a big cat person.,545,600,1731,Top 5 Unfunny,False,True,25,Human
+538,Think it over. I'm still the only one here who can use a can opener.,488,566,1685,Top 5 Unfunny,False,True,68,Human
+538,"In my defense, the neutering was a requirement of the condo board.",231,460,1069,Top 5 Unfunny,False,True,66,Human
+538,"I may be a little prick, but at least I'm not a giant pussy.",233,452,910,Top 5 Unfunny,False,True,60,Human
+538,"First of all, I'd like to apologize for the whole laser light thing.",223,447,999,Top 5 Unfunny,False,True,68,Human

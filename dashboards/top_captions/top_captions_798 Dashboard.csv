@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+798,"Don't worry, you'll be running in no time.",1363,2345,5567,Top 5 Funny,False,True,42,Human
+798,"Good news, your car troubles are over.",1345,2426,5523,Top 5 Funny,False,True,38,Human
+798,"Ooh, a pop-up restaurant.",1141,2455,5310,Top 5 Funny,False,True,25,Human
+798,You don't need a jump start. You need a head start.,988,2005,4476,Top 5 Funny,False,True,51,Human
+798,Now this is what I call meals on wheels.,951,2091,4490,Top 5 Funny,False,True,40,Human
+798,"Ooh, a pop-up restaurant.",1141,2455,5310,Top 5 Unfunny,False,True,25,Human
+798,"Good news, your car troubles are over.",1345,2426,5523,Top 5 Unfunny,False,True,38,Human
+798,"Don't worry, you'll be running in no time.",1363,2345,5567,Top 5 Unfunny,False,True,42,Human
+798,Now this is what I call meals on wheels.,951,2091,4490,Top 5 Unfunny,False,True,40,Human
+798,You don't need a jump start. You need a head start.,988,2005,4476,Top 5 Unfunny,False,True,51,Human

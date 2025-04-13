@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+555,I'll never let go.,1175,244,1468,Top 5 Funny,False,True,18,Human
+555,I had the tailor over for lunch.,479,461,1194,Top 5 Funny,False,True,32,Human
+555,You're the one who said I wasn't eating enough fiber.,260,316,695,Top 5 Funny,False,True,53,Human
+555,"So I stick the head up a few times, the lifeguard runs in, bingo!",76,161,297,Top 5 Funny,False,True,65,Human
+555,You're both dummies!,74,159,295,Top 5 Funny,False,True,20,Human
+555,I had the tailor over for lunch.,479,461,1194,Top 5 Unfunny,False,True,32,Human
+555,You're the one who said I wasn't eating enough fiber.,260,316,695,Top 5 Unfunny,False,True,53,Human
+555,I'll never let go.,1175,244,1468,Top 5 Unfunny,False,True,18,Human
+555,"So I stick the head up a few times, the lifeguard runs in, bingo!",76,161,297,Top 5 Unfunny,False,True,65,Human
+555,You're both dummies!,74,159,295,Top 5 Unfunny,False,True,20,Human

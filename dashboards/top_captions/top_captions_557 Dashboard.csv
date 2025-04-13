@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+557,"Well, I'll be damned...",143,249,541,Top 5 Funny,False,True,23,Human
+557,I'll be damned.,142,248,534,Top 5 Funny,False,True,15,Human
+557,I'll be damned.,112,219,458,Top 5 Funny,False,True,15,Human
+557,"Well, I'll be damned...",109,216,415,Top 5 Funny,False,True,23,Human
+557,You're naked AND you bake?,90,197,389,Top 5 Funny,True,True,26,Human
+557,"Well, I'll be damned...",143,249,541,Top 5 Unfunny,False,True,23,Human
+557,I'll be damned.,142,248,534,Top 5 Unfunny,False,True,15,Human
+557,I'll be damned.,112,219,458,Top 5 Unfunny,False,True,15,Human
+557,"Well, I'll be damned...",109,216,415,Top 5 Unfunny,False,True,23,Human
+557,You're naked AND you bake?,90,197,389,Top 5 Unfunny,True,True,26,Human

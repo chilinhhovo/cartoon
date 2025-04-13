@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+710,Remember when he was just a humming bird?,7745,2912,17745,Top 5 Funny,True,True,41,Human
+710,That's what happens when you make a nest with bluegrass.,5917,3896,16877,Top 5 Funny,False,True,56,Human
+710,This next song is for the two idiots with the binoculars.,5674,4311,15448,Top 5 Funny,False,True,57,Human
+710,"A Martin? No, I think it’s a Gibson.”",4614,4422,14641,Top 5 Funny,True,False,37,Human
+710,This ones’ for all you empty nesters out there”,3910,4322,14220,Top 5 Funny,False,False,47,Human
+710,He’s fixin to mate.,1612,4566,8560,Top 5 Unfunny,False,True,19,Human
+710,'Finally! A positive tweet.',2648,4432,11023,Top 5 Unfunny,False,False,28,Human
+710,I can usually identify a bird by the song but I think he's doing a cover.,3902,4427,13282,Top 5 Unfunny,False,True,73,Human
+710,"A Martin? No, I think it’s a Gibson.”",4614,4422,14641,Top 5 Unfunny,True,False,37,Human
+710,"Sometimes when they fly South, they only make it as far as Nashville.",3267,4349,13674,Top 5 Unfunny,False,True,69,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+564,"Mrs. Jenkins, you may have misunderstood me when I said. ""Reserve Hooters for the office party.""",697,1256,2804,Top 5 Funny,False,False,96,Human
+564,"I only needed one, but Costco makes you buy a whole case.",680,1133,2834,Top 5 Funny,False,True,57,Human
+564,"No, I have no idea why your computer doesn't have a mouse anymore.",672,1203,2925,Top 5 Funny,False,True,66,Human
+564,They're willing to work nights.,612,935,2665,Top 5 Funny,False,True,31,Human
+564,"Go ahead, ask what our first baseman's name is.",550,1095,2377,Top 5 Funny,False,True,47,Human
+564,"Mrs. Jenkins, you may have misunderstood me when I said. ""Reserve Hooters for the office party.""",697,1256,2804,Top 5 Unfunny,False,False,96,Human
+564,"No, I have no idea why your computer doesn't have a mouse anymore.",672,1203,2925,Top 5 Unfunny,False,True,66,Human
+564,"I only needed one, but Costco makes you buy a whole case.",680,1133,2834,Top 5 Unfunny,False,True,57,Human
+564,"I think the more appropriate question is ""why"".",516,1128,2551,Top 5 Unfunny,False,True,47,Human
+564,"Go ahead, ask what our first baseman's name is.",550,1095,2377,Top 5 Unfunny,False,True,47,Human

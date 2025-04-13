@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+776,"He hasn't proposed yet, but he did give me a written estimate.",1202,1579,4230,Top 5 Funny,False,True,62,Human
+776,You'll need a key to use the bathroom.,1171,1906,4569,Top 5 Funny,False,True,38,Human
+776,My other son is a mortician.  Wanna see the basement?,1127,1583,3767,Top 5 Funny,True,True,53,Human
+776,It was worse when he was an airline mechanic.,742,1262,2976,Top 5 Funny,False,True,45,Human
+776,We met in AAA.,738,1073,2709,Top 5 Funny,False,True,14,Human
+776,You'll need a key to use the bathroom.,1171,1906,4569,Top 5 Unfunny,False,True,38,Human
+776,My other son is a mortician.  Wanna see the basement?,1127,1583,3767,Top 5 Unfunny,True,True,53,Human
+776,"He hasn't proposed yet, but he did give me a written estimate.",1202,1579,4230,Top 5 Unfunny,False,True,62,Human
+776,It was worse when he was an airline mechanic.,742,1262,2976,Top 5 Unfunny,False,True,45,Human
+776,It was worse when he was a mortician.,698,1182,2592,Top 5 Unfunny,False,True,37,Human

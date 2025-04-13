@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+881,"Nobody cares that you're famous.  No shoes, no shirt, no service.",479,1205,2015,Top 5 Funny,False,True,65,Human
+881,"Listen you guys, I just went through this with Eenie, Meenie, Minie and Moe.”",429,864,1870,Top 5 Funny,False,False,77,Human
+881,"This place was so much nicer when you were a priest, a rabbi and an Irishman.",408,901,1819,Top 5 Funny,False,True,77,Human
+881,Looks like you guys might need a hand.,358,807,1625,Top 5 Funny,False,True,38,Human
+881,From now on you’re all getting separate checks.,321,933,1845,Top 5 Funny,False,True,47,Human
+881,"Nobody cares that you're famous.  No shoes, no shirt, no service.",479,1205,2015,Top 5 Unfunny,False,True,65,Human
+881,Does paper also cover the check?,303,953,1901,Top 5 Unfunny,True,True,32,Human
+881,From now on you’re all getting separate checks.,321,933,1845,Top 5 Unfunny,False,True,47,Human
+881,"This place was so much nicer when you were a priest, a rabbi and an Irishman.",408,901,1819,Top 5 Unfunny,False,True,77,Human
+881,"We had a priest, a rabbi and a pastor in here last week.",299,865,1703,Top 5 Unfunny,False,True,56,Human

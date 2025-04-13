@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+550,"When I asked you to line up a meeting with the Department Chairs, this is not what I meant.",258,295,779,Top 5 Funny,False,True,91,Human
+550,Where do you see yourself five chairs from now?,94,172,386,Top 5 Funny,True,True,47,Human
+550,Are you willing to relocate?,90,168,410,Top 5 Funny,True,True,28,Human
+550,Martin realized he was facing some fierce competition for the ghost writer position.,70,151,299,Top 5 Funny,False,True,84,Human
+550,"At one point I had them in a semicircle, but it gave people a sense of equality.",66,147,318,Top 5 Funny,False,True,80,Human
+550,"When I asked you to line up a meeting with the Department Chairs, this is not what I meant.",258,295,779,Top 5 Unfunny,False,True,91,Human
+550,Where do you see yourself five chairs from now?,94,172,386,Top 5 Unfunny,True,True,47,Human
+550,Are you willing to relocate?,90,168,410,Top 5 Unfunny,True,True,28,Human
+550,Martin realized he was facing some fierce competition for the ghost writer position.,70,151,299,Top 5 Unfunny,False,True,84,Human
+550,"At one point I had them in a semicircle, but it gave people a sense of equality.",66,147,318,Top 5 Unfunny,False,True,80,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+676,"You know we could've had eggs for life, right?",3789,3755,12956,Top 5 Funny,True,True,46,Human
+676,Cook time is 15 minutes per pound - Go ahead and plant the potatoes!,3414,4412,12038,Top 5 Funny,False,True,68,Human
+676,"Like I said yesterday, it's almost done.",3404,3630,12329,Top 5 Funny,False,True,40,Human
+676,I don't tell you how to gather.,3385,4278,11991,Top 5 Funny,False,True,31,Human
+676,A simple 'Thank you for inventing fire' would be nice.,3180,4153,11534,Top 5 Funny,False,True,54,Human
+676,It's the last time I let your father shop at Costco.,3060,4510,10909,Top 5 Unfunny,False,True,52,Human
+676,Cook time is 15 minutes per pound - Go ahead and plant the potatoes!,3414,4412,12038,Top 5 Unfunny,False,True,68,Human
+676,I don't tell you how to gather.,3385,4278,11991,Top 5 Unfunny,False,True,31,Human
+676,A simple 'Thank you for inventing fire' would be nice.,3180,4153,11534,Top 5 Unfunny,False,True,54,Human
+676,"I’d invite the neighbors for dinner, but our dinner ate the neighbors.",2769,4037,10389,Top 5 Unfunny,False,True,70,Human

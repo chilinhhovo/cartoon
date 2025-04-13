@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+650,I wish you’d come in when it was just a chip on your shoulder.,41,64,141,Top 5 Funny,False,True,62,Human
+650,I see you've gained weight but it's good that you've got a handle on it.,31,96,152,Top 5 Funny,False,True,72,Human
+650,"I treat depression and obsession, but not compression.",30,79,148,Top 5 Funny,False,True,54,Human
+650,The good news? You’re not delusional.,29,74,139,Top 5 Funny,True,True,37,Human
+650,No wonder you're unable to have an erection.,29,90,151,Top 5 Funny,False,True,44,Human
+650,Do you regret cementing the relationship?,10,152,184,Top 5 Unfunny,True,True,41,Human
+650,"Yes, I did say that I didn't want you to put me on a pedestal.",1,151,175,Top 5 Unfunny,False,True,62,Human
+650,"Yes Dear, this is a partnership and I’ve just lifted the weight of the world off my chest!",2,149,163,Top 5 Unfunny,False,True,90,Human
+650,C'mon will you get up ...this session has been lasting for days.,3,148,169,Top 5 Unfunny,False,True,64,Human
+650,I think we can rule out old hag syndrome.,1,148,161,Top 5 Unfunny,False,True,41,Human

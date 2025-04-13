@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+603,"I have a one o'clock reservation, last name is Miller but I'm no longer a party of four.",2763,3545,9450,Top 5 Funny,False,True,88,Human
+603,We don't have menus here. Everybody just gets what they deserve.,2755,3307,9660,Top 5 Funny,False,True,64,Human
+603,Welcome to the Deli Lama.,2746,3669,9754,Top 5 Funny,False,True,25,Human
+603,We used to offer enlightenment. Then we discovered people really preferred brunch.,2727,2930,9165,Top 5 Funny,False,True,82,Human
+603,The path to true enlightenment is long and arduous. But you may wait at the bar.,2587,2882,9200,Top 5 Funny,False,True,80,Human
+603,Welcome to the Deli Lama.,2746,3669,9754,Top 5 Unfunny,False,True,25,Human
+603,Welcome to the Deli Lama.,2086,3575,8493,Top 5 Unfunny,False,True,25,Human
+603,"I have a one o'clock reservation, last name is Miller but I'm no longer a party of four.",2763,3545,9450,Top 5 Unfunny,False,True,88,Human
+603,Enlightenment is on Thursdays. Today is Taco Tuesday.,2040,3358,8370,Top 5 Unfunny,False,True,53,Human
+603,I can't seat you until you are fully present.,2389,3330,8877,Top 5 Unfunny,False,True,45,Human

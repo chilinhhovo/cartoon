@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+703,You can tell whether it's an alligator or a crocodile by whether you see it later or after a while.,5364,4339,14194,Top 5 Funny,False,True,99,Human
+703,He’s acting up because your purse was somebody he knew,5281,3665,15242,Top 5 Funny,False,False,54,Human
+703,"We have them between all tables, it encourages social distancing.",5250,3535,15928,Top 5 Funny,False,True,65,Human
+703,"No, you can't have another customer. You haven't finished the last one.",4220,3876,13105,Top 5 Funny,False,True,71,Human
+703,"We asked the flooring company for red tiles, but it autocorrected to rep-tiles.",4083,3796,12620,Top 5 Funny,False,True,79,Human
+703,You can tell whether it's an alligator or a crocodile by whether you see it later or after a while.,5364,4339,14194,Top 5 Unfunny,False,True,99,Human
+703,"No, you can't have another customer. You haven't finished the last one.",4220,3876,13105,Top 5 Unfunny,False,True,71,Human
+703,"We asked the flooring company for red tiles, but it autocorrected to rep-tiles.",4083,3796,12620,Top 5 Unfunny,False,True,79,Human
+703,He’s acting up because your purse was somebody he knew,5281,3665,15242,Top 5 Unfunny,False,False,54,Human
+703,Your odds of dying from the coronavirus just went down.,2699,3561,10014,Top 5 Unfunny,False,True,55,Human

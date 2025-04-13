@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+510,I'm a congressman--obstruction is my job.,18,24,69,Top 5 Funny,False,True,41,Human
+510,Does this suit make me look flat?,8,21,45,Top 5 Funny,True,True,33,Human
+510,"I used to lie in the gutter, but then I quit drinking.",6,19,34,Top 5 Funny,False,True,54,Human
+510,"I'm what they mean when they say, 'The middle class is getting stepped on.'",5,8,19,Top 5 Funny,False,False,75,Human
+510,"If you can meditate here, you can meditate anywhere.",5,18,34,Top 5 Funny,False,True,52,Human
+510,I'm a congressman--obstruction is my job.,18,24,69,Top 5 Unfunny,False,True,41,Human
+510,Does this suit make me look flat?,8,21,45,Top 5 Unfunny,True,True,33,Human
+510,"I used to lie in the gutter, but then I quit drinking.",6,19,34,Top 5 Unfunny,False,True,54,Human
+510,"If you can meditate here, you can meditate anywhere.",5,18,34,Top 5 Unfunny,False,True,52,Human
+510,I've decided to take it lying down.,5,18,32,Top 5 Unfunny,False,True,35,Human

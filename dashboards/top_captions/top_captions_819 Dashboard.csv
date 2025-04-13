@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+819,Can’t believe I was caught dead in these pants.,1091,2108,4609,Top 5 Funny,False,True,47,Human
+819,"My wife said, ""Try them on, it won't kill you. """,937,1384,3377,Top 5 Funny,False,False,48,Human
+819,I could repant.,917,1898,3970,Top 5 Funny,False,True,15,Human
+819,I certainly have one regret.,859,1989,4260,Top 5 Funny,False,True,28,Human
+819,"I swore I would never be caught dead in these pants, yet here we are.",833,1406,3276,Top 5 Funny,False,True,69,Human
+819,Can’t believe I was caught dead in these pants.,1091,2108,4609,Top 5 Unfunny,False,True,47,Human
+819,I certainly have one regret.,859,1989,4260,Top 5 Unfunny,False,True,28,Human
+819,I can change.,804,1971,4216,Top 5 Unfunny,False,True,13,Human
+819,I could repant.,917,1898,3970,Top 5 Unfunny,False,True,15,Human
+819,I can't believe I died on laundry day.,623,1610,3259,Top 5 Unfunny,False,True,38,Human

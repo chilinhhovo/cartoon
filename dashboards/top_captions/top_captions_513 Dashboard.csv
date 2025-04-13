@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+513,They only allow one carry-on.,3,0,4,Top 5 Funny,False,True,29,Human
+513,I want you off the case.,3,0,5,Top 5 Funny,False,True,24,Human
+513,I started off where you are. And look at me now!,3,1,4,Top 5 Funny,False,True,48,Human
+513,This looks like it's going to be a long drawn-out case.,3,1,4,Top 5 Funny,False,True,55,Human
+513,Big case today.,3,1,4,Top 5 Funny,False,True,15,Human
+513,"Is it too late now to say sorry? 'Cause I'm missing more than just your body, oh.",0,5,5,Top 5 Unfunny,True,True,81,Human
+513,These tandem briefcases sure make being an accountant fun!,0,5,5,Top 5 Unfunny,False,True,58,Human
+513,It's not as if it's really heavy. It just makes management look like we work!,0,5,5,Top 5 Unfunny,False,True,77,Human
+513,I thought he was a no good snake.,0,5,5,Top 5 Unfunny,False,True,33,Human
+513,This is my first triple-murder-case.,0,5,5,Top 5 Unfunny,False,True,36,Human

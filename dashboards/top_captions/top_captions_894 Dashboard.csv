@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+894,It’s like a New Yorker cartoon. You have to pretend to get it.,619,1605,2911,Top 5 Funny,False,True,62,Human
+894,"You throw a pie, it’s a joke. You throw paint, it’s art.",598,1810,3257,Top 5 Funny,False,True,56,Human
+894,I think it could use more balloons.,490,1742,2794,Top 5 Funny,False,True,35,Human
+894,I don't know whether to laugh or cry.,488,1728,2767,Top 5 Funny,False,True,37,Human
+894,That’s how you paint a face.,471,1956,3385,Top 5 Funny,False,True,28,Human
+894,That’s how you paint a face.,471,1956,3385,Top 5 Unfunny,False,True,28,Human
+894,"You throw a pie, it’s a joke. You throw paint, it’s art.",598,1810,3257,Top 5 Unfunny,False,True,56,Human
+894,I think it could use more balloons.,490,1742,2794,Top 5 Unfunny,False,True,35,Human
+894,I don't know whether to laugh or cry.,488,1728,2767,Top 5 Unfunny,False,True,37,Human
+894,It’s like a New Yorker cartoon. You have to pretend to get it.,619,1605,2911,Top 5 Unfunny,False,True,62,Human

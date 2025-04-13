@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+595,"Surprise, surprise. The new manager is a fat white guy with no pants.",1275,1292,3509,Top 5 Funny,False,True,69,Human
+595,He's not as bad as the last manager. That one was abominable.,1137,1261,3504,Top 5 Funny,False,True,61,Human
+595,They didn't say who...they just said one of us won't be here in the spring...,792,944,2719,Top 5 Funny,False,True,77,Human
+595,"If he asks you if you want to see his other carrot, just say no.",733,1101,2507,Top 5 Funny,False,True,64,Human
+595,So he calls me into his office and when I get there he's wearing nothing but a scarf and a top hat,568,1051,2312,Top 5 Funny,False,False,98,Human
+595,"Surprise, surprise. The new manager is a fat white guy with no pants.",1275,1292,3509,Top 5 Unfunny,False,True,69,Human
+595,He's not as bad as the last manager. That one was abominable.,1137,1261,3504,Top 5 Unfunny,False,True,61,Human
+595,"If he asks you if you want to see his other carrot, just say no.",733,1101,2507,Top 5 Unfunny,False,True,64,Human
+595,So he calls me into his office and when I get there he's wearing nothing but a scarf and a top hat,568,1051,2312,Top 5 Unfunny,False,False,98,Human
+595,"If I wanted a boss with no pants, I'd have stayed in Hollywood.",498,1011,2156,Top 5 Unfunny,False,True,63,Human

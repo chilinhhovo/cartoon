@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+610,They're asking if you prefer gas or electric...,1876,2284,6045,Top 5 Funny,False,True,47,Human
+610,Beat until stiff meant the eggs.,1841,2290,6328,Top 5 Funny,False,True,32,Human
+610,"You can keep calling it ""flambé,"" but out here it's felony arson.",1783,2107,6026,Top 5 Funny,False,True,65,Human
+610,"As White House chef, you must have been expecting this.",1731,2546,6148,Top 5 Funny,False,True,55,Human
+610,"As the White House Chef, half the world is hailing you as a hero for at least attempting it.",1720,2632,6042,Top 5 Funny,False,True,92,Human
+610,"As the White House Chef, half the world is hailing you as a hero for at least attempting it.",1720,2632,6042,Top 5 Unfunny,False,True,92,Human
+610,"As White House chef, you must have been expecting this.",1731,2546,6148,Top 5 Unfunny,False,True,55,Human
+610,So who's the chef at Mar-a-lago now?,1401,2434,5468,Top 5 Unfunny,True,True,36,Human
+610,No one cares that the knife came out clean.,1474,2412,5904,Top 5 Unfunny,False,True,43,Human
+610,When you said you were going to grill the witness I had no idea.,1604,2374,5988,Top 5 Unfunny,False,True,64,Human

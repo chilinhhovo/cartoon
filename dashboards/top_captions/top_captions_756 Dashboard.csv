@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+756,I’m referring you to another therapist. I’m afraid I can’t see you any longer.,1048,1430,3745,Top 5 Funny,False,True,78,Human
+756,"And just when I finally got comfortable in my own skin, she repainted the bedroom.",936,1124,3068,Top 5 Funny,False,True,82,Human
+756,"If you’re still here, your time is up.",836,1183,2944,Top 5 Funny,False,True,38,Human
+756,"Yes, that’s impressive, but I’m talking about changing who you are on the inside.",746,1156,2780,Top 5 Funny,False,True,81,Human
+756,"No, wait! I can change!",713,1133,2761,Top 5 Funny,False,True,23,Human
+756,I’m referring you to another therapist. I’m afraid I can’t see you any longer.,1048,1430,3745,Top 5 Unfunny,False,True,78,Human
+756,"If you’re still here, your time is up.",836,1183,2944,Top 5 Unfunny,False,True,38,Human
+756,"Yes, that’s impressive, but I’m talking about changing who you are on the inside.",746,1156,2780,Top 5 Unfunny,False,True,81,Human
+756,"No, wait! I can change!",713,1133,2761,Top 5 Unfunny,False,True,23,Human
+756,"And just when I finally got comfortable in my own skin, she repainted the bedroom.",936,1124,3068,Top 5 Unfunny,False,True,82,Human

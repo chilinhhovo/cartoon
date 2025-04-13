@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+614,The Zen Way is on the next mountain. This is the Steinway.,1316,1933,4769,Top 5 Funny,False,True,58,Human
+614,Your lesson was yesterday.,1265,1836,4712,Top 5 Funny,False,True,26,Human
+614,The public is saying your latest work is inaccessible.,1192,1920,4971,Top 5 Funny,False,True,54,Human
+614,I know you didn't send for a tuner. The people down in the valley did.,1191,1796,4415,Top 5 Funny,False,True,70,Human
+614,The Craigslist ad said it's free if I pick it up myself...?,1119,1853,4671,Top 5 Funny,True,True,59,Human
+614,The Zen Way is on the next mountain. This is the Steinway.,1316,1933,4769,Top 5 Unfunny,False,True,58,Human
+614,The public is saying your latest work is inaccessible.,1192,1920,4971,Top 5 Unfunny,False,True,54,Human
+614,I'm moving all of my music to the cloud.,1082,1866,4490,Top 5 Unfunny,False,True,40,Human
+614,"To be honest with you, we regret both the promise of free delivery and the promise of lifetime tunings.",995,1863,4340,Top 5 Unfunny,False,True,103,Human
+614,The Craigslist ad said it's free if I pick it up myself...?,1119,1853,4671,Top 5 Unfunny,True,True,59,Human

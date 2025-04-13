@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+743,I’ve changed my mind. I love it.,721,773,2079,Top 5 Funny,False,True,32,Human
+743,Still not level.,587,851,1949,Top 5 Funny,False,True,16,Human
+743,“So this is how you lionize yourself?”,530,1196,2067,Top 5 Funny,True,False,38,Human
+743,"All right, now out like a lamb!",495,966,2027,Top 5 Funny,False,True,31,Human
+743,Does this make me the trophy's wife?,391,986,2050,Top 5 Funny,True,True,36,Human
+743,“So this is how you lionize yourself?”,530,1196,2067,Top 5 Unfunny,True,False,38,Human
+743,Does this make me the trophy's wife?,391,986,2050,Top 5 Unfunny,True,True,36,Human
+743,"All right, now out like a lamb!",495,966,2027,Top 5 Unfunny,False,True,31,Human
+743,Still not level.,587,851,1949,Top 5 Unfunny,False,True,16,Human
+743,Getting warmer.,307,820,1447,Top 5 Unfunny,False,True,15,Human

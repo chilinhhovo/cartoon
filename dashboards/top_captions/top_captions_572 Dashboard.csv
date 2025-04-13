@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+572,"Well, where do you think these little balls come from?",350,794,1400,Top 5 Funny,True,True,54,Human
+572,"He has a bigger house, a bigger car, and now a bigger ball - need I go on?",208,548,930,Top 5 Funny,True,True,74,Human
+572,"They've appeared out of nowhere , in pools all over the world.",157,477,817,Top 5 Funny,False,True,62,Human
+572,"The car, the house--it's always a competition with him.",152,448,803,Top 5 Funny,False,True,55,Human
+572,"""I'll catch it"", was the last I heard.",141,254,553,Top 5 Funny,False,True,38,Human
+572,"Well, where do you think these little balls come from?",350,794,1400,Top 5 Unfunny,True,True,54,Human
+572,"He has a bigger house, a bigger car, and now a bigger ball - need I go on?",208,548,930,Top 5 Unfunny,True,True,74,Human
+572,"They've appeared out of nowhere , in pools all over the world.",157,477,817,Top 5 Unfunny,False,True,62,Human
+572,"The car, the house--it's always a competition with him.",152,448,803,Top 5 Unfunny,False,True,55,Human
+572,"THEIR BEACHBALL IS OUT OF ORDER. Ours goes pink, yellow, green, blue.",135,398,633,Top 5 Unfunny,False,True,69,Human

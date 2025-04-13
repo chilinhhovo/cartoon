@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+716,Could we have outstayed our welcome?,103,111,335,Top 5 Funny,True,True,36,Human
+716,The listing did say kitchen to die for.,63,69,208,Top 5 Funny,False,True,39,Human
+716,"I don't know about you, but I'm thinking takeout",61,83,225,Top 5 Funny,False,False,48,Human
+716,"I've lost six pounds and a toe since starting this diet...""",57,68,216,Top 5 Funny,False,False,59,Human
+716,I said to put lox in the fridge.,54,84,220,Top 5 Funny,False,True,32,Human
+716,Could we have outstayed our welcome?,103,111,335,Top 5 Unfunny,True,True,36,Human
+716,I said to put lox in the fridge.,54,84,220,Top 5 Unfunny,False,True,32,Human
+716,"I don't know about you, but I'm thinking takeout",61,83,225,Top 5 Unfunny,False,False,48,Human
+716,Maybe dad wants us to move out.,43,73,187,Top 5 Unfunny,False,True,31,Human
+716,Still want to see my bedroom?,43,73,152,Top 5 Unfunny,True,True,29,Human

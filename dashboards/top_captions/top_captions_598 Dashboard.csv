@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+598,It's for my back. You have two more questions.,743,1109,2936,Top 5 Funny,False,True,46,Human
+598,I'm the fitness guru. The wisdom guru is one mountain over.,715,1059,2915,Top 5 Funny,False,True,59,Human
+598,When I retired from Google they let me keep my chair.,707,1054,2802,Top 5 Funny,False,True,53,Human
+598,"You only get one question and you ask, ""What's that?""!",656,1248,2848,Top 5 Funny,True,True,54,Human
+598,Enlightenment? I'm just trying to achieve alignment.,647,1187,2986,Top 5 Funny,True,True,52,Human
+598,"You only get one question and you ask, ""What's that?""!",656,1248,2848,Top 5 Unfunny,True,True,54,Human
+598,"Forgot your question, didn’t you?",531,1245,2649,Top 5 Unfunny,True,True,33,Human
+598,Enlightenment? I'm just trying to achieve alignment.,647,1187,2986,Top 5 Unfunny,True,True,52,Human
+598,Do you seek alignment?,419,1147,2332,Top 5 Unfunny,True,True,22,Human
+598,"Honestly, I stopped caring about the meaning of life after I got one of these.",448,1146,2494,Top 5 Unfunny,False,True,78,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+814,"It has unlimited, data, unlimited minutes, with one string attached.",1186,1579,4037,Top 5 Funny,False,True,68,Human
+814,"Before I send someone out there, please unplug the string from the back of your can then plug it firmly back in.",1095,1546,3767,Top 5 Funny,False,True,112,Human
+814,I'm on my landline.,629,1398,3078,Top 5 Funny,False,True,19,Human
+814,"I'll call you back, I'm on the can.",623,1080,2441,Top 5 Funny,False,True,35,Human
+814,"Hold on, I'm getting a call from another can -- but I think it's spam.""",591,936,2198,Top 5 Funny,False,False,71,Human
+814,"It has unlimited, data, unlimited minutes, with one string attached.",1186,1579,4037,Top 5 Unfunny,False,True,68,Human
+814,"Before I send someone out there, please unplug the string from the back of your can then plug it firmly back in.",1095,1546,3767,Top 5 Unfunny,False,True,112,Human
+814,I'm on my landline.,629,1398,3078,Top 5 Unfunny,False,True,19,Human
+814,There's no cell service out here but fortunately I have a land line.,528,1126,2609,Top 5 Unfunny,False,True,68,Human
+814,Freddy?  From the fifth grade?,549,1099,2477,Top 5 Unfunny,True,True,30,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+556,Making fission chips?,859,1145,2619,Top 5 Funny,True,True,21,Human
+556,I think I like the French maid outfit better.,840,1171,3209,Top 5 Funny,False,True,45,Human
+556,"Making fission chips again, I see.",252,512,1002,Top 5 Funny,False,True,34,Human
+556,So...how did your first husband die?,236,509,1163,Top 5 Funny,True,True,36,Human
+556,Next time I'll bring the protection.,219,463,839,Top 5 Funny,False,True,36,Human
+556,I think I like the French maid outfit better.,840,1171,3209,Top 5 Unfunny,False,True,45,Human
+556,Making fission chips?,859,1145,2619,Top 5 Unfunny,True,True,21,Human
+556,"Making fission chips again, I see.",252,512,1002,Top 5 Unfunny,False,True,34,Human
+556,So...how did your first husband die?,236,509,1163,Top 5 Unfunny,True,True,36,Human
+556,"So, not tonight?",211,473,1027,Top 5 Unfunny,True,True,16,Human

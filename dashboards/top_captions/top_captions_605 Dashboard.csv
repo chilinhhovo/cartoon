@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+605,"Whatever you do, don’t take the stairs near the Escher painting!",1460,2231,5341,Top 5 Funny,False,True,64,Human
+605,"Son, your Mom and I want you back in the picture.",1350,2128,5431,Top 5 Funny,False,True,49,Human
+605,The Demoiselles d’Avignon are out to lunch. We’re the McMurrays of Hackensack.,1301,2036,4982,Top 5 Funny,False,True,78,Human
+605,"Due to NEA budget cuts, the painting you would have seen here will be described by my wife, Ethel, her sister, Irene, and myself.",1166,2452,5229,Top 5 Funny,False,True,129,Human
+605,"It says ""Man Looking Stupid"". What does yours say?",1133,2241,4995,Top 5 Funny,True,True,50,Human
+605,"Due to NEA budget cuts, the painting you would have seen here will be described by my wife, Ethel, her sister, Irene, and myself.",1166,2452,5229,Top 5 Unfunny,False,True,129,Human
+605,We're in the lower floor of IKEA....where are you?,993,2444,4929,Top 5 Unfunny,True,True,50,Human
+605,"We're life, imitating art.",1036,2365,5242,Top 5 Unfunny,False,True,26,Human
+605,"Well, you're no masterpiece yourself.",988,2363,4947,Top 5 Unfunny,False,True,37,Human
+605,"You’re better off over there, in this reality Trump is president.",1003,2332,4634,Top 5 Unfunny,False,True,65,Human

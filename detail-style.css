@@ -1,0 +1,435 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+    background: #fff;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+header {
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+}
+
+.back-button {
+    text-decoration: none;
+    color: #666;
+    font-size: 1rem;
+    transition: color 0.2s;
+}
+
+.back-button:hover {
+    color: #000;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #1a1a1a;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 480px 1fr;
+    gap: 3rem;
+    padding: 0;
+    position: relative;
+}
+
+.image-section {
+    position: relative;
+    width: 100%;
+    max-width: 480px;
+    z-index: 1;
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    max-height: 480px;
+    object-fit: contain;
+    border-radius: 4px;
+    display: block;
+}
+
+.theme-tag {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: rgba(255,255,255,0.9);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.analysis-section {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.section-block {
+    margin-bottom: 4rem;
+}
+
+/* Add more space after the table section */
+.section-block table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 3rem;
+}
+
+.analysis-description {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 3rem;
+}
+
+.similarity-description {
+    margin-top: 2rem;
+    padding: 1rem 0;
+}
+
+.similarity-description p {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.6;
+    margin: 0;
+}
+
+.caption-comparison {
+    background: #fff;
+    padding: 0;
+    border-radius: 6px;
+    margin-bottom: 4rem;
+}
+
+.ai-captions {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+.ai-model {
+    margin-bottom: 1.5rem;
+}
+
+.ai-model-name {
+    font-weight: 600;
+    color: #1a1a1a;
+    margin-bottom: 0.5rem;
+}
+
+.ai-caption {
+    color: #333;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+/* New AI caption table styles */
+.ai-captions table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.ai-captions th {
+    background: #f1f3f5;
+    font-weight: 500;
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.ai-captions td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+    color: #333;
+    line-height: 1.5;
+}
+
+.ai-captions .model-name {
+    font-weight: 500;
+    color: #1a1a1a;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
+    color: #1a1a1a;
+}
+
+h3 {
+    font-size: 1.4rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+th, td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+}
+
+th {
+    background: #f1f3f5;
+    font-weight: 500;
+}
+
+.charts-section {
+    background: #fff;
+    padding: 0;
+    margin-bottom: 4rem;
+}
+
+#similarity-chart {
+    width: 100%;
+    height: auto;
+    margin-top: 1rem;
+}
+
+.metrics-section {
+    background: #fff;
+    padding: 0;
+}
+
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.metric-card {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.metric-card h4 {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.metric-card p {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #1a1a1a;
+}
+
+footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee;
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.6;
+}
+
+footer p {
+    margin-bottom: 1rem;
+}
+
+footer a {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+
+    .content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .image-section {
+        max-width: 100%;
+    }
+    
+    .image-section img {
+        max-height: none;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    h2 {
+        font-size: 1.4rem;
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    .theme-tag {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+    }
+
+    /* Make table scrollable on mobile */
+    .section-block {
+        margin-bottom: 2rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    table {
+        min-width: 600px; /* Ensure table can be scrolled on mobile */
+    }
+
+    th, td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+
+    .metrics-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .metric-card {
+        padding: 0.8rem;
+    }
+
+    .metric-card h4 {
+        font-size: 0.8rem;
+    }
+
+    .metric-card p {
+        font-size: 1.1rem;
+    }
+
+    .similarity-description p {
+        font-size: 0.85rem;
+    }
+
+    footer {
+        margin-top: 2rem;
+        padding: 1.5rem 0;
+    }
+
+    footer p {
+        font-size: 0.85rem;
+    }
+
+    /* AI captions table */
+    .ai-captions table {
+        min-width: 600px;
+    }
+
+    .ai-captions th,
+    .ai-captions td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+
+    /* Similarity chart */
+    #similarity-chart {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    #similarity-chart svg {
+        min-width: 600px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 0.8rem;
+    }
+
+    header {
+        margin-bottom: 1.5rem;
+    }
+
+    .back-button, .portfolio-link {
+        font-size: 0.9rem;
+    }
+
+    .theme-tag {
+        position: static;
+        margin-top: 0.5rem;
+        display: inline-block;
+    }
+
+    .section-block {
+        margin-bottom: 1.5rem;
+    }
+
+    .ai-captions {
+        margin-top: 1.5rem;
+        margin-bottom: 2rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .ai-model {
+        margin-bottom: 1rem;
+    }
+
+    .metrics-section {
+        margin-top: 1.5rem;
+    }
+
+    /* Adjust table styles for very small screens */
+    table {
+        min-width: 500px;
+    }
+
+    th, td {
+        padding: 0.4rem;
+        font-size: 0.85rem;
+    }
+
+    /* Adjust chart for very small screens */
+    #similarity-chart svg {
+        min-width: 500px;
+    }
+
+    /* Adjust metrics for very small screens */
+    .metric-card {
+        padding: 0.6rem;
+    }
+
+    .metric-card h4 {
+        font-size: 0.75rem;
+    }
+
+    .metric-card p {
+        font-size: 1rem;
+    }
+} 

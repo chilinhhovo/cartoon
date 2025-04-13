@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+706,"Well,I know what Duke Ellington would do.",6964,4828,18078,Top 5 Funny,False,True,41,Human
+706,"And to think, this was Times Square a month ago.",4775,4769,15559,Top 5 Funny,False,True,48,Human
+706,"Of course... we wait forever, then two come at the same time.",4391,4376,15767,Top 5 Funny,False,True,61,Human
+706,"Approach quietly, if they know you are five steps away, they'll depart.",4024,4517,14551,Top 5 Funny,False,True,71,Human
+706,I always wondered what happened if you stayed on past 116th street.,3360,3883,12860,Top 5 Funny,False,True,67,Human
+706,"Well,I know what Duke Ellington would do.",6964,4828,18078,Top 5 Unfunny,False,True,41,Human
+706,"And to think, this was Times Square a month ago.",4775,4769,15559,Top 5 Unfunny,False,True,48,Human
+706,They live above ground in the wild.,2465,4629,10591,Top 5 Unfunny,False,True,35,Human
+706,"Approach quietly, if they know you are five steps away, they'll depart.",4024,4517,14551,Top 5 Unfunny,False,True,71,Human
+706,"Of course... we wait forever, then two come at the same time.",4391,4376,15767,Top 5 Unfunny,False,True,61,Human

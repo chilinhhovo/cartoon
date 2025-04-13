@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+668,"Sorry Puff, but the magic is gone.",4625,3540,13577,Top 5 Funny,False,True,34,Human
+668,Give me a minute while I slip into something a little less flammable.,4189,3264,12710,Top 5 Funny,False,True,69,Human
+668,I’m sorry. I’ve been burned too many times.,4091,2968,11468,Top 5 Funny,False,True,43,Human
+668,"Well, if you must know, I'm in the middle of a one knight stand""",4066,3411,11608,Top 5 Funny,False,False,64,Human
+668,"...look, I know that cough was an accident, but they were my parents..",3851,3558,11281,Top 5 Funny,False,True,70,Human
+668,Honey! Your mother's here!,2436,3672,8624,Top 5 Unfunny,False,True,26,Human
+668,"...look, I know that cough was an accident, but they were my parents..",3851,3558,11281,Top 5 Unfunny,False,True,70,Human
+668,"Sorry Puff, but the magic is gone.",4625,3540,13577,Top 5 Unfunny,False,True,34,Human
+668,"I told you, Puff, the magic's gone.",2347,3492,9351,Top 5 Unfunny,False,True,35,Human
+668,"Well, if you must know, I'm in the middle of a one knight stand""",4066,3411,11608,Top 5 Unfunny,False,False,64,Human

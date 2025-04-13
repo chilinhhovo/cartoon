@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+875,"See, honey, it is possible . . . one bag for six months.",697,1184,2480,Top 5 Funny,False,True,56,Human
+875,They were hired to defend a murder of crows.,438,1023,1974,Top 5 Funny,False,True,44,Human
+875,Only one carries the actual nuclear codes.,403,965,1895,Top 5 Funny,False,True,42,Human
+875,"Well, he did say that searching his home for classified documents would be a wild goose chase.",391,1186,2188,Top 5 Funny,False,True,94,Human
+875,So that’s how it all gets to the cloud…,381,937,1815,Top 5 Funny,False,False,39,Human
+875,"Well, he did say that searching his home for classified documents would be a wild goose chase.",391,1186,2188,Top 5 Unfunny,False,True,94,Human
+875,"See, honey, it is possible . . . one bag for six months.",697,1184,2480,Top 5 Unfunny,False,True,56,Human
+875,"At first glance, I thought they were pelican briefs",381,1136,2121,Top 5 Unfunny,False,False,51,Human
+875,The rest of them are migrating remotely.,342,1111,2037,Top 5 Unfunny,False,True,40,Human
+875,Another layoff at Twitter.,346,1088,1995,Top 5 Unfunny,False,True,26,Human

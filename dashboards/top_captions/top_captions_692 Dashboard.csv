@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+692,"Why yes, I always do dress to kill.",3274,4688,12673,Top 5 Funny,False,True,35,Human
+692,Now that’s what I call a dinner jacket.,3272,4515,11704,Top 5 Funny,False,True,39,Human
+692,"First day on Wall Street, sir?",2968,3891,10800,Top 5 Funny,True,True,30,Human
+692,It's from our new White House collection.,2559,4581,9986,Top 5 Funny,False,True,41,Human
+692,This should get me through the primaries.,2466,4614,10680,Top 5 Funny,False,True,41,Human
+692,"Why yes, I always do dress to kill.",3274,4688,12673,Top 5 Unfunny,False,True,35,Human
+692,This should get me through the primaries.,2466,4614,10680,Top 5 Unfunny,False,True,41,Human
+692,It's from our new White House collection.,2559,4581,9986,Top 5 Unfunny,False,True,41,Human
+692,Now that’s what I call a dinner jacket.,3272,4515,11704,Top 5 Unfunny,False,True,39,Human
+692,It’s so ewe!,2190,4028,9147,Top 5 Unfunny,False,True,12,Human

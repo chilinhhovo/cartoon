@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+547,You're right. No underwear.,255,395,762,Top 5 Funny,False,True,27,Human
+547,Like the pomp. Not crazy about the circumstances.,186,326,747,Top 5 Funny,False,True,49,Human
+547,We're not the only ones that could use a shave.,177,317,604,Top 5 Funny,False,True,47,Human
+547,"Okay, our pomp is good. Now let's work on our circumstance.",152,279,630,Top 5 Funny,False,True,59,Human
+547,Trump said he knows more than the majorettes.,137,271,469,Top 5 Funny,False,True,45,Human
+547,You're right. No underwear.,255,395,762,Top 5 Unfunny,False,True,27,Human
+547,Like the pomp. Not crazy about the circumstances.,186,326,747,Top 5 Unfunny,False,True,49,Human
+547,We're not the only ones that could use a shave.,177,317,604,Top 5 Unfunny,False,True,47,Human
+547,"Okay, our pomp is good. Now let's work on our circumstance.",152,279,630,Top 5 Unfunny,False,True,59,Human
+547,Trump said he knows more than the majorettes.,137,271,469,Top 5 Unfunny,False,True,45,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+870,"Pretty soon, it’ll be Gucci, Gucci, goo.",906,2373,3954,Top 5 Funny,False,True,40,Human
+870,"This way, we'll all be crying about the same thing.”",663,2146,3247,Top 5 Funny,False,False,52,Human
+870,Hush money.,597,1485,2714,Top 5 Funny,False,True,11,Human
+870,This set is from the Trump collection. Behind bars and money just out of reach.,426,1106,1897,Top 5 Funny,False,True,79,Human
+870,"Of course, we'll place it higher if it's a girl.",407,1001,1816,Top 5 Funny,False,True,48,Human
+870,"Pretty soon, it’ll be Gucci, Gucci, goo.",906,2373,3954,Top 5 Unfunny,False,True,40,Human
+870,"This way, we'll all be crying about the same thing.”",663,2146,3247,Top 5 Unfunny,False,False,52,Human
+870,Hush money.,597,1485,2714,Top 5 Unfunny,False,True,11,Human
+870,"I look forward to bonding, especially over series EE.",385,1364,1967,Top 5 Unfunny,False,True,53,Human
+870,This set is from the Trump collection. Behind bars and money just out of reach.,426,1106,1897,Top 5 Unfunny,False,True,79,Human

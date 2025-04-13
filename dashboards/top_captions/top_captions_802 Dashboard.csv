@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+802,Why aren't you guys getting the large anymore?  And where's Frank?,1204,2269,4888,Top 5 Funny,True,True,66,Human
+802,Try not to drop this one.,1127,2433,5232,Top 5 Funny,False,True,25,Human
+802,We usually don’t deliver above 82nd Street.,1108,1878,4351,Top 5 Funny,False,True,43,Human
+802,"When you guys called saying you were high and craving pizza, I was picturing something else.",997,1860,4088,Top 5 Funny,False,True,92,Human
+802,This is from the ladies over there on the 40th floor balcony,929,1538,3634,Top 5 Funny,False,False,60,Human
+802,Try not to drop this one.,1127,2433,5232,Top 5 Unfunny,False,True,25,Human
+802,Why aren't you guys getting the large anymore?  And where's Frank?,1204,2269,4888,Top 5 Unfunny,True,True,66,Human
+802,We usually don’t deliver above 82nd Street.,1108,1878,4351,Top 5 Unfunny,False,True,43,Human
+802,"When you guys called saying you were high and craving pizza, I was picturing something else.",997,1860,4088,Top 5 Unfunny,False,True,92,Human
+802,Funny how we never get the same delivery guy.,872,1602,3645,Top 5 Unfunny,False,True,45,Human

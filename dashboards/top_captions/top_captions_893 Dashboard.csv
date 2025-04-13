@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+893,The current owner is very motivated to sell before his parents get home.,2031,4523,9235,Top 5 Funny,False,True,72,Human
+893,The other prospective buyer fell through.,1652,3485,7326,Top 5 Funny,False,True,41,Human
+893,"According to the Trump organization, it's 30,000 square feet.",1566,2827,5668,Top 5 Funny,False,True,61,Human
+893,The seller isn't willing to come down.,1391,2624,5970,Top 5 Funny,False,True,38,Human
+893,The owner moved back in with his parents.,1323,3045,6511,Top 5 Funny,False,True,41,Human
+893,The current owner is very motivated to sell before his parents get home.,2031,4523,9235,Top 5 Unfunny,False,True,72,Human
+893,The other prospective buyer fell through.,1652,3485,7326,Top 5 Unfunny,False,True,41,Human
+893,"In your price range, it's either this or the bouncy house.",1215,3295,6494,Top 5 Unfunny,False,True,58,Human
+893,The owner moved back in with his parents.,1323,3045,6511,Top 5 Unfunny,False,True,41,Human
+893,I've found you a high rise in your price range.,1034,3034,5916,Top 5 Unfunny,False,True,47,Human

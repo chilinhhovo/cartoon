@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+552,Long time no sea.,447,492,1410,Top 5 Funny,False,True,17,Human
+552,Long time no sea.,280,360,913,Top 5 Funny,False,True,17,Human
+552,"Noah, trust me. Its over.",70,166,305,Top 5 Funny,False,True,25,Human
+552,Do I LOOK like I have any Grey Poupon?,63,170,313,Top 5 Funny,True,True,38,Human
+552,Have you seen two guys and a drum majorette?,59,164,278,Top 5 Funny,True,True,44,Human
+552,Long time no sea.,447,492,1410,Top 5 Unfunny,False,True,17,Human
+552,Long time no sea.,280,360,913,Top 5 Unfunny,False,True,17,Human
+552,Do I LOOK like I have any Grey Poupon?,63,170,313,Top 5 Unfunny,True,True,38,Human
+552,"Noah, trust me. Its over.",70,166,305,Top 5 Unfunny,False,True,25,Human
+552,Have you seen two guys and a drum majorette?,59,164,278,Top 5 Unfunny,True,True,44,Human

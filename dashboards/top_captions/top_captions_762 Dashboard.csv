@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+762,It's not actually enough that you identify as a hamster.,1601,3023,6467,Top 5 Funny,False,True,56,Human
+762,You're cold blooded.  You belong in upper management.,1537,2616,5860,Top 5 Funny,False,True,53,Human
+762,"Well for starters, you were 4 days late to the interview.",1491,2731,6364,Top 5 Funny,False,True,57,Human
+762,You'll be powering Texas.,1438,2684,5661,Top 5 Funny,False,True,25,Human
+762,"I understand you beat a hare, but this is a rat race",1434,2775,6020,Top 5 Funny,False,False,52,Human
+762,It's not actually enough that you identify as a hamster.,1601,3023,6467,Top 5 Unfunny,False,True,56,Human
+762,"I understand you beat a hare, but this is a rat race",1434,2775,6020,Top 5 Unfunny,False,False,52,Human
+762,"Well for starters, you were 4 days late to the interview.",1491,2731,6364,Top 5 Unfunny,False,True,57,Human
+762,You'll be powering Texas.,1438,2684,5661,Top 5 Unfunny,False,True,25,Human
+762,You're cold blooded.  You belong in upper management.,1537,2616,5860,Top 5 Unfunny,False,True,53,Human

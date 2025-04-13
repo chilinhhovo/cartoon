@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+715,"The recipe said 'One egg, beaten.' I was lucky to get out alive.",9935,6231,25891,Top 5 Funny,False,True,64,Human
+715,"No, you're thinking of my brother Humpty. I fell off the wagon.",9023,6971,24670,Top 5 Funny,False,True,63,Human
+715,Getting laid is harder than it looks.,8159,6904,21069,Top 5 Funny,False,True,37,Human
+715,"In hindsight , I should have let the chicken go first.",8042,6620,22393,Top 5 Funny,False,True,54,Human
+715,"I had a great fall, the greatest. No one fall has ever been greater""",6312,5901,19003,Top 5 Funny,False,False,68,Human
+715,"No, you're thinking of my brother Humpty. I fell off the wagon.",9023,6971,24670,Top 5 Unfunny,False,True,63,Human
+715,Getting laid is harder than it looks.,8159,6904,21069,Top 5 Unfunny,False,True,37,Human
+715,And then I find out all the king's horses and all the king's men are out-of-network.,4584,6660,16880,Top 5 Unfunny,False,True,84,Human
+715,"I mean, who sends horses?",4894,6653,17770,Top 5 Unfunny,True,True,25,Human
+715,"In hindsight , I should have let the chicken go first.",8042,6620,22393,Top 5 Unfunny,False,True,54,Human

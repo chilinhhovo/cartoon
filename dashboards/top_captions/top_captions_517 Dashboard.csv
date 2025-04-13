@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+517,Jury of your peers? Ah... I don't think so.,3,0,4,Top 5 Funny,True,True,43,Human
+517,Good news: you may get life.,3,0,4,Top 5 Funny,False,True,28,Human
+517,We're unable to find a jury of your peers.,3,0,4,Top 5 Funny,False,True,42,Human
+517,"Yes, I'm all for the death penalty, but this is traffic court.",3,0,4,Top 5 Funny,False,True,62,Human
+517,"It looks grim, no doubt about it.",3,1,4,Top 5 Funny,False,True,33,Human
+517,"Don't worry. If they don't dismiss the class-action after these hearings, we're simply going to ask for some class members to appear in person.",0,4,4,Top 5 Unfunny,False,True,143,Human
+517,They got you on intent.,0,4,4,Top 5 Unfunny,False,True,23,Human
+517,There's a reason that this is a hoodie-free zone Tyrone.,0,4,4,Top 5 Unfunny,False,True,56,Human
+517,You should probably consider actually letting this jury live.,0,4,4,Top 5 Unfunny,False,True,61,Human
+517,We will maintain that this is a case of mistaken identity.,0,4,4,Top 5 Unfunny,False,True,58,Human

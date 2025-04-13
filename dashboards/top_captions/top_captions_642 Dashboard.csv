@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+642,Linda suddenly realized she had entered the hallucinatory phase of her low-carb diet.,61,153,271,Top 5 Funny,False,True,85,Human
+642,"Oh god, Jerry, enough, the divorce is final.",49,156,260,Top 5 Funny,False,True,44,Human
+642,"Carol’s Dieting Log, Week 3: The hallucinations are getting worse.",49,162,263,Top 5 Funny,False,True,66,Human
+642,It's a desserted alley.,45,149,259,Top 5 Funny,False,True,23,Human
+642,"Louise tried to avoid carbs, but they aggressively pursued her.",45,178,290,Top 5 Funny,False,True,63,Human
+642,"Gordon Ramsey is shaming me!""",5,276,303,Top 5 Unfunny,False,False,29,Human
+642,Psssst... Hot cakes for sale?,3,268,293,Top 5 Unfunny,True,True,29,Human
+642,"“Happy Birthday to me ... tee hee, hee, HE, HEE .... here?”",6,267,288,Top 5 Unfunny,True,False,59,Human
+642,GIDDY UP    THIS FOODS NOT GOING TO DELIVER ITSELF,4,265,291,Top 5 Unfunny,False,False,50,Human
+642,"Who’s a good stack of seeing-eye-crepes? Yes, you are!",3,265,285,Top 5 Unfunny,True,True,54,Human

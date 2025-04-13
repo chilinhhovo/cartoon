@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+580,"When he starts acting like a king, I'll start acting like a guard.",1725,2037,6176,Top 5 Funny,False,True,66,Human
+580,I'm swinging in the reign.,1395,1875,5071,Top 5 Funny,False,True,26,Human
+580,"Technically, I'm guarding two posts.",1284,1959,5150,Top 5 Funny,False,True,36,Human
+580,It's a gift from King Hammacher of Schlemmer.,1183,1956,4757,Top 5 Funny,False,True,45,Human
+580,Wake me when things are great again.,1110,1715,4447,Top 5 Funny,False,True,36,Human
+580,"When he starts acting like a king, I'll start acting like a guard.",1725,2037,6176,Top 5 Unfunny,False,True,66,Human
+580,"Technically, I'm guarding two posts.",1284,1959,5150,Top 5 Unfunny,False,True,36,Human
+580,It's a gift from King Hammacher of Schlemmer.,1183,1956,4757,Top 5 Unfunny,False,True,45,Human
+580,"He said one knight stand, didn’t he?",999,1943,4164,Top 5 Unfunny,True,True,36,Human
+580,I'm swinging in the reign.,1395,1875,5071,Top 5 Unfunny,False,True,26,Human

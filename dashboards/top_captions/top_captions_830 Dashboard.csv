@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+830,Is he still there?,881,1992,3835,Top 5 Funny,True,True,18,Human
+830,My biggest fear is sudden death.,651,1516,3198,Top 5 Funny,False,True,32,Human
+830,Well of course I’m being defensive!,630,1237,2802,Top 5 Funny,False,True,35,Human
+830,"And then, it hit me.",514,1347,2712,Top 5 Funny,False,True,20,Human
+830,The loudest boos are coming from my mother.  Let’s start there.,436,1136,2172,Top 5 Funny,False,True,63,Human
+830,Is he still there?,881,1992,3835,Top 5 Unfunny,True,True,18,Human
+830,My biggest fear is sudden death.,651,1516,3198,Top 5 Unfunny,False,True,32,Human
+830,"And then, it hit me.",514,1347,2712,Top 5 Unfunny,False,True,20,Human
+830,Well of course I’m being defensive!,630,1237,2802,Top 5 Unfunny,False,True,35,Human
+830,The loudest boos are coming from my mother.  Let’s start there.,436,1136,2172,Top 5 Unfunny,False,True,63,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+754,"Whoa, the new recruit went down the laundry chute.",1001,1687,3970,Top 5 Funny,False,True,50,Human
+754,"Wait, is the call for Times Square or Columbus Circle?",975,2000,4416,Top 5 Funny,True,True,54,Human
+754,I’m not sure the department knows what diversity in the workplace really means.,838,1747,3894,Top 5 Funny,False,True,79,Human
+754,What if I don't identify with either?,804,1757,3941,Top 5 Funny,True,True,37,Human
+754,After you - I’m out of shape.,761,1531,3354,Top 5 Funny,False,True,29,Human
+754,"Wait, is the call for Times Square or Columbus Circle?",975,2000,4416,Top 5 Unfunny,True,True,54,Human
+754,What if I don't identify with either?,804,1757,3941,Top 5 Unfunny,True,True,37,Human
+754,I’m not sure the department knows what diversity in the workplace really means.,838,1747,3894,Top 5 Unfunny,False,True,79,Human
+754,"Whoa, the new recruit went down the laundry chute.",1001,1687,3970,Top 5 Unfunny,False,True,50,Human
+754,After you - I’m out of shape.,761,1531,3354,Top 5 Unfunny,False,True,29,Human

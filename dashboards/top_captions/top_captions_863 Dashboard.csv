@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+863,"It's not ""my friend"", it's a desk lamp.",1172,2735,4836,Top 5 Funny,False,True,39,Human
+863,And what drew you here today?,864,1846,3842,Top 5 Funny,True,True,29,Human
+863,Yours is the worst case of identity theft we've seen.,756,1620,3166,Top 5 Funny,False,True,53,Human
+863,I've been asked to fill you in.,729,1813,3704,Top 5 Funny,False,True,31,Human
+863,"Of course, you're Mr. Jones! I recognized you from your son's drawings.",714,1608,3175,Top 5 Funny,False,True,71,Human
+863,"It's not ""my friend"", it's a desk lamp.",1172,2735,4836,Top 5 Unfunny,False,True,39,Human
+863,And what drew you here today?,864,1846,3842,Top 5 Unfunny,True,True,29,Human
+863,I've been asked to fill you in.,729,1813,3704,Top 5 Unfunny,False,True,31,Human
+863,Where do you barely see yourself in ten years?,607,1680,3028,Top 5 Unfunny,True,True,46,Human
+863,Tell me about a time you were bent out of shape.,538,1674,2718,Top 5 Unfunny,False,True,48,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+524,"Take the picture, dammit, take the picture!",83,174,360,Top 5 Funny,False,True,43,Human
+524,Are you licensed to carry small arms?,49,147,288,Top 5 Funny,True,True,37,Human
+524,Harry has his usual dream before his mother-in-law's visit.,49,152,282,Top 5 Funny,False,True,59,Human
+524,This seems to be a case of reptile dysfunction.,44,121,227,Top 5 Funny,False,True,47,Human
+524,Don't give me that endangered species crap!,41,119,223,Top 5 Funny,False,True,43,Human
+524,"Take the picture, dammit, take the picture!",83,174,360,Top 5 Unfunny,False,True,43,Human
+524,Harry has his usual dream before his mother-in-law's visit.,49,152,282,Top 5 Unfunny,False,True,59,Human
+524,Are you licensed to carry small arms?,49,147,288,Top 5 Unfunny,True,True,37,Human
+524,Did your momma tell you there would be knights like this?,37,124,230,Top 5 Unfunny,True,True,57,Human
+524,This seems to be a case of reptile dysfunction.,44,121,227,Top 5 Unfunny,False,True,47,Human

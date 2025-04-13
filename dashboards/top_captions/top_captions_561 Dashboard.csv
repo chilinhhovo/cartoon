@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+561,Can you hear me now?,1379,2081,5254,Top 5 Funny,True,True,20,Human
+561,"And lastly Father, I bit the mailman",1134,1550,3814,Top 5 Funny,False,False,36,Human
+561,And you thought the cat couldn't open the superglue.,981,1862,4199,Top 5 Funny,False,True,52,Human
+561,Tell me about it. It's been a week since I licked mine.,962,1394,3517,Top 5 Funny,False,True,55,Human
+561,"No offense, but I prefer your other end.",762,1786,3829,Top 5 Funny,False,True,40,Human
+561,Can you hear me now?,1379,2081,5254,Top 5 Unfunny,True,True,20,Human
+561,And you thought the cat couldn't open the superglue.,981,1862,4199,Top 5 Unfunny,False,True,52,Human
+561,"No, YOU need a mint.",721,1817,3969,Top 5 Unfunny,False,True,20,Human
+561,"No offense, but I prefer your other end.",762,1786,3829,Top 5 Unfunny,False,True,40,Human
+561,"Squirrel outside, freshly waxed floor, plate glass window. You?",743,1750,3691,Top 5 Unfunny,True,True,63,Human

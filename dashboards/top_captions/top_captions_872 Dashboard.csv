@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+872,I saw the way you looked at that giraffe.,632,1533,3108,Top 5 Funny,False,True,41,Human
+872,You haven't noticed my new necklace.,613,1186,2678,Top 5 Funny,False,True,36,Human
+872,It's so nice to meet someone who doesn't stare at my chest.,521,1277,2549,Top 5 Funny,False,True,59,Human
+872,We have plenty of time to catch the ark.,511,1311,2458,Top 5 Funny,False,True,40,Human
+872,Did it go down the wrong way?”,510,1284,2072,Top 5 Funny,True,False,30,Human
+872,I saw the way you looked at that giraffe.,632,1533,3108,Top 5 Unfunny,False,True,41,Human
+872,Does the dress make my neck look too long?,468,1363,2556,Top 5 Unfunny,True,True,42,Human
+872,That eventually hit the spot.,489,1355,2682,Top 5 Unfunny,False,True,29,Human
+872,We have plenty of time to catch the ark.,511,1311,2458,Top 5 Unfunny,False,True,40,Human
+872,Did it go down the wrong way?”,510,1284,2072,Top 5 Unfunny,True,False,30,Human

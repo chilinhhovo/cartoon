@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+753,Hit me again with your cart and I'll hunt you down until the day I die.,1402,2457,5621,Top 5 Funny,False,True,71,Human
+753,"If anyone asks, you’re my support animal.",1123,2052,4868,Top 5 Funny,False,True,41,Human
+753,I chased you down for 700 pages and now I run into you in the cereal aisle?,1030,2145,4826,Top 5 Funny,True,True,75,Human
+753,It was Melville who called you a dick.,1021,1897,4145,Top 5 Funny,False,True,38,Human
+753,My therapist says you’re a metaphor.,975,1988,4699,Top 5 Funny,False,True,36,Human
+753,Hit me again with your cart and I'll hunt you down until the day I die.,1402,2457,5621,Top 5 Unfunny,False,True,71,Human
+753,I chased you down for 700 pages and now I run into you in the cereal aisle?,1030,2145,4826,Top 5 Unfunny,True,True,75,Human
+753,"If anyone asks, you’re my support animal.",1123,2052,4868,Top 5 Unfunny,False,True,41,Human
+753,My therapist says you’re a metaphor.,975,1988,4699,Top 5 Unfunny,False,True,36,Human
+753,Catch you later.,915,1979,4377,Top 5 Unfunny,False,True,16,Human

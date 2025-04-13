@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+562,What am I doing here? I missed my flight.,214,459,772,Top 5 Funny,True,True,41,Human
+562,Where are the statues? I can't hold it in anymore.,181,460,940,Top 5 Funny,True,True,50,Human
+562,Will we raise the kids as birds or fish?,170,400,759,Top 5 Funny,True,True,40,Human
+562,You and me birdbrain.,121,301,499,Top 5 Funny,False,True,21,Human
+562,Disingenuous? ME ??? YOU described yourself as 'wingy ' !!!,107,300,551,Top 5 Funny,True,True,59,Human
+562,Where are the statues? I can't hold it in anymore.,181,460,940,Top 5 Unfunny,True,True,50,Human
+562,What am I doing here? I missed my flight.,214,459,772,Top 5 Unfunny,True,True,41,Human
+562,Will we raise the kids as birds or fish?,170,400,759,Top 5 Unfunny,True,True,40,Human
+562,You and me birdbrain.,121,301,499,Top 5 Unfunny,False,True,21,Human
+562,Disingenuous? ME ??? YOU described yourself as 'wingy ' !!!,107,300,551,Top 5 Unfunny,True,True,59,Human

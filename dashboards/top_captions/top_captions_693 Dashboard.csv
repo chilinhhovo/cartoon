@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+693,"Should I check, “exceeded expectations?”",4431,2787,13163,Top 5 Funny,True,False,40,Human
+693,"Oddly, this one got the placebo.",3669,3395,11299,Top 5 Funny,False,True,32,Human
+693,Let’s just give him the damn cheese.,3656,3128,11553,Top 5 Funny,False,True,36,Human
+693,"Hmmmmm, we didn’t count on his thinking above the box.",3641,3209,11359,Top 5 Funny,False,True,54,Human
+693,'What's more impressive is he's already filed the patent.',3524,3163,10879,Top 5 Funny,False,False,58,Human
+693,"Oddly, this one got the placebo.",3669,3395,11299,Top 5 Unfunny,False,True,32,Human
+693,"He doesn't just find the cheese, he offers same-day delivery.",3263,3376,10541,Top 5 Unfunny,False,True,61,Human
+693,It appears that his 'fight or flight' response has evolved.,2910,3263,9952,Top 5 Unfunny,False,True,59,Human
+693,"Hmmmmm, we didn’t count on his thinking above the box.",3641,3209,11359,Top 5 Unfunny,False,True,54,Human
+693,'What's more impressive is he's already filed the patent.',3524,3163,10879,Top 5 Unfunny,False,False,58,Human

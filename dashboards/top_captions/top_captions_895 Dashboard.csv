@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+895,"What do they mean ""Space for Rent""?",701,2132,3736,Top 5 Funny,True,True,35,Human
+895,Do you think death rays would be considered electronics or sporting goods?,694,2170,4014,Top 5 Funny,True,True,74,Human
+895,"If they know where we are, then they’re more advanced than we thought.",523,1935,3303,Top 5 Funny,False,True,70,Human
+895,"To Bed, Bath, and Beyond!",511,1640,2975,Top 5 Funny,False,True,25,Human
+895,What happened to Radio Shack? Now we'll never get home.,460,1569,2648,Top 5 Funny,True,True,55,Human
+895,Do you think death rays would be considered electronics or sporting goods?,694,2170,4014,Top 5 Unfunny,True,True,74,Human
+895,"What do they mean ""Space for Rent""?",701,2132,3736,Top 5 Unfunny,True,True,35,Human
+895,"If they know where we are, then they’re more advanced than we thought.",523,1935,3303,Top 5 Unfunny,False,True,70,Human
+895,"To Bed, Bath, and Beyond!",511,1640,2975,Top 5 Unfunny,False,True,25,Human
+895,What happened to Radio Shack? Now we'll never get home.,460,1569,2648,Top 5 Unfunny,True,True,55,Human

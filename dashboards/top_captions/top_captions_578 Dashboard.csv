@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+578,"Just for fun, let's send it back.",3815,2792,10248,Top 5 Funny,False,True,33,Human
+578,And only last week he was the press secretary.,3279,3271,9934,Top 5 Funny,False,True,46,Human
+578,"Don't worry, your wife'll never find out. Nobody ever comes here.",3069,3370,10370,Top 5 Funny,False,True,65,Human
+578,This is the last time we dine at Scaramucci's.,3024,3343,9387,Top 5 Funny,False,True,46,Human
+578,"The food is ok, but the media coverage is excellent.",2741,2715,9858,Top 5 Funny,False,True,52,Human
+578,"Don't worry, your wife'll never find out. Nobody ever comes here.",3069,3370,10370,Top 5 Unfunny,False,True,65,Human
+578,This is the last time we dine at Scaramucci's.,3024,3343,9387,Top 5 Unfunny,False,True,46,Human
+578,And only last week he was the press secretary.,3279,3271,9934,Top 5 Unfunny,False,True,46,Human
+578,"Apparently ""pepperoni pizza"" autocorrects to ""paparazzi posse"".",2271,2984,8274,Top 5 Unfunny,False,True,63,Human
+578,It's his last shift before he becomes White House Chief of Staff.,1691,2883,6693,Top 5 Unfunny,False,True,65,Human

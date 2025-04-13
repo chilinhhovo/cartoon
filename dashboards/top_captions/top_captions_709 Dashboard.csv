@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+709,You might want to try the stairs. This one only goes down and takes an eternity.,5119,2144,12590,Top 5 Funny,False,True,80,Human
+709,Kellyanne! We’ve been waiting for you.,4923,4297,13065,Top 5 Funny,False,True,38,Human
+709,"No, the worst part is still the music.",4828,4428,14369,Top 5 Funny,False,True,38,Human
+709,This is Hell.  For High Water take the elevator to the right.,4425,3878,14346,Top 5 Funny,False,True,61,Human
+709,We’re going down in flames. Going up in smoke is the next car over.,4406,4451,14587,Top 5 Funny,False,True,67,Human
+709,So now we know what the 'FIRE' button does.,4172,4538,13732,Top 5 Unfunny,False,True,43,Human
+709,"Telling us to 'take the stairs' during a fire is an infringement on our rights! USA! USA! USA!""",3307,4463,10744,Top 5 Unfunny,False,False,95,Human
+709,We’re going down in flames. Going up in smoke is the next car over.,4406,4451,14587,Top 5 Unfunny,False,True,67,Human
+709,"No, the worst part is still the music.",4828,4428,14369,Top 5 Unfunny,False,True,38,Human
+709,"No, this is the second circle 'Lust.'  You want 'Greed,' two circles down.  Nice body, by the way.",2595,4303,10471,Top 5 Unfunny,False,True,98,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+573,I have a hunch I'm in the placebo group.,1149,999,3656,Top 5 Funny,False,True,40,Human
+573,It's the Heineken maneuver.,1115,937,3212,Top 5 Funny,False,True,27,Human
+573,My blood alcohol was dangerously low.,1024,918,3340,Top 5 Funny,False,True,37,Human
+573,You have to leave now. Visiting hours are over and happy hours are starting.,964,1022,3608,Top 5 Funny,False,True,76,Human
+573,"I have no idea, but it was the only thing TrumpCare would pay for.",888,866,2770,Top 5 Funny,False,True,66,Human
+573,It's the only treatment covered by my insurance.,678,1391,2914,Top 5 Unfunny,False,True,48,Human
+573,"Medical license? No, but he has a liquor license.",640,1239,2769,Top 5 Unfunny,True,True,49,Human
+573,"I said, ""Give it to me straight, Doc""",825,1092,3140,Top 5 Unfunny,False,False,37,Human
+573,You have to leave now. Visiting hours are over and happy hours are starting.,964,1022,3608,Top 5 Unfunny,False,True,76,Human
+573,It's suprisingly good for hospital beer.,723,1015,2934,Top 5 Unfunny,False,True,40,Human

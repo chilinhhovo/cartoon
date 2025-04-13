@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+892,"And the comet missed the earth, and all the dinosaurs lived happily ever after.",811,1604,3462,Top 5 Funny,False,True,79,Human
+892,"Yes, it's called Thesaurus, but you're not related.",775,1417,3050,Top 5 Funny,False,True,51,Human
+892,Go back to sleep. There's no little boy hiding under your bed.,570,1447,2889,Top 5 Funny,False,True,62,Human
+892,You don't scare me.  It's a presidential election year.,563,1535,2834,Top 5 Funny,False,True,55,Human
+892,"Helen? Did you feed Cuddles, yet.? . . . Helen?",552,1607,3052,Top 5 Funny,True,True,47,Human
+892,"Helen? Did you feed Cuddles, yet.? . . . Helen?",552,1607,3052,Top 5 Unfunny,True,True,47,Human
+892,"And the comet missed the earth, and all the dinosaurs lived happily ever after.",811,1604,3462,Top 5 Unfunny,False,True,79,Human
+892,You don't scare me.  It's a presidential election year.,563,1535,2834,Top 5 Unfunny,False,True,55,Human
+892,"Nope, still not as scary as Trump.",490,1529,2679,Top 5 Unfunny,False,True,34,Human
+892,We can stop here if it’s getting too scary.,424,1518,2896,Top 5 Unfunny,False,True,43,Human

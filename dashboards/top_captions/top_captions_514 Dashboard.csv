@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+514,"No, you grow up",53,64,186,Top 5 Funny,False,False,15,Human
+514,We're losing them! They're gaining on us! We're losing them! They're gaining on us!,40,53,140,Top 5 Funny,False,True,83,Human
+514,"Sheriff, I feel like we're just going through the motions here.",36,50,172,Top 5 Funny,False,True,63,Human
+514,Head for the carousel! It's our only chance!,36,55,132,Top 5 Funny,False,True,44,Human
+514,"I'm never going back to timeout, ya hear!?",33,56,124,Top 5 Funny,True,True,42,Human
+514,"No, you grow up",53,64,186,Top 5 Unfunny,False,False,15,Human
+514,"I'm never going back to timeout, ya hear!?",33,56,124,Top 5 Unfunny,True,True,42,Human
+514,Head for the carousel! It's our only chance!,36,55,132,Top 5 Unfunny,False,True,44,Human
+514,We're losing them! They're gaining on us! We're losing them! They're gaining on us!,40,53,140,Top 5 Unfunny,False,True,83,Human
+514,"Sheriff, I feel like we're just going through the motions here.",36,50,172,Top 5 Unfunny,False,True,63,Human

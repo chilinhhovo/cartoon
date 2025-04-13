@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+838,Is there someone in my teeth?,452,1522,2479,Top 5 Funny,True,True,29,Human
+838,And then he saw something that made his blood run warm.,412,1486,3171,Top 5 Funny,False,True,55,Human
+838,And all that was left was a giant carbon footprint,365,1343,2959,Top 5 Funny,False,False,50,Human
+838,And his caption was lost forever.,359,1483,2622,Top 5 Funny,False,True,33,Human
+838,I always get the damn merit badges stuck in my teeth.,328,1411,2645,Top 5 Funny,False,True,53,Human
+838,Is there someone in my teeth?,452,1522,2479,Top 5 Unfunny,True,True,29,Human
+838,And then he saw something that made his blood run warm.,412,1486,3171,Top 5 Unfunny,False,True,55,Human
+838,And his caption was lost forever.,359,1483,2622,Top 5 Unfunny,False,True,33,Human
+838,I always get the damn merit badges stuck in my teeth.,328,1411,2645,Top 5 Unfunny,False,True,53,Human
+838,And all that was left was a giant carbon footprint,365,1343,2959,Top 5 Unfunny,False,False,50,Human

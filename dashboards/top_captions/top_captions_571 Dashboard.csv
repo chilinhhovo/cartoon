@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+571,Now let's see 'em walk off with the bathroom key!,1346,1457,4527,Top 5 Funny,False,True,49,Human
+571,"Arrgh, we'll see if the bathroom key goes missing now!",1181,1558,4421,Top 5 Funny,False,True,54,Human
+571,"It was free, but the shipping cost me an arm and a leg.",966,1088,3137,Top 5 Funny,False,True,55,Human
+571,I know. I know. I have anchor management issues.,957,1536,3754,Top 5 Funny,False,True,48,Human
+571,"So I tell Pete, I'd give my right hand for an anchor like that.",930,1528,3744,Top 5 Funny,False,True,63,Human
+571,Why? Because every mall needs an anchor store.,602,1891,3328,Top 5 Unfunny,True,True,46,Human
+571,Or you could just move the damn coffee maker.,837,1645,3966,Top 5 Unfunny,False,True,45,Human
+571,It's no wonder this place has struggled to stay afloat,698,1596,3671,Top 5 Unfunny,False,False,54,Human
+571,"Arrgh, we'll see if the bathroom key goes missing now!",1181,1558,4421,Top 5 Unfunny,False,True,54,Human
+571,I know. I know. I have anchor management issues.,957,1536,3754,Top 5 Unfunny,False,True,48,Human

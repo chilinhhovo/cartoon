@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+824,What's gotten into you?,1154,2874,5795,Top 5 Funny,True,True,23,Human
+824,You do realize that was a lawn ornament.,996,2306,4480,Top 5 Funny,False,True,40,Human
+824,Your stomach is still growling.,847,2352,4499,Top 5 Funny,False,True,31,Human
+824,Your stomach is growling.,828,2207,4346,Top 5 Funny,False,True,25,Human
+824,The horns were painful going in?  Just wait.,738,1718,3379,Top 5 Funny,True,True,44,Human
+824,What's gotten into you?,1154,2874,5795,Top 5 Unfunny,True,True,23,Human
+824,Your stomach is still growling.,847,2352,4499,Top 5 Unfunny,False,True,31,Human
+824,You do realize that was a lawn ornament.,996,2306,4480,Top 5 Unfunny,False,True,40,Human
+824,Your stomach is growling.,828,2207,4346,Top 5 Unfunny,False,True,25,Human
+824,And this is why we don't get invited to dinner parties.,647,1878,3662,Top 5 Unfunny,False,True,55,Human

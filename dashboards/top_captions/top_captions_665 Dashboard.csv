@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+665,Lunch is on me.,15232,2183,25200,Top 5 Funny,False,True,15,Human
+665,Dinner's on ME.,8565,3538,19463,Top 5 Funny,False,True,15,Human
+665,He’s telling his friends it’s not deep. So be patient.,7735,4575,19271,Top 5 Funny,False,True,54,Human
+665,"I didn't know what you were serving, so I brought white.",6028,4490,15916,Top 5 Funny,False,True,56,Human
+665,A back massage and then dinner. What's not to like?,5701,5019,17205,Top 5 Funny,True,True,51,Human
+665,A back massage and then dinner. What's not to like?,5701,5019,17205,Top 5 Unfunny,True,True,51,Human
+665,Eat a guy and you'll be full. Use him as bait and we'll all be full.,3896,4583,13229,Top 5 Unfunny,False,True,68,Human
+665,He’s telling his friends it’s not deep. So be patient.,7735,4575,19271,Top 5 Unfunny,False,True,54,Human
+665,"I didn't know what you were serving, so I brought white.",6028,4490,15916,Top 5 Unfunny,False,True,56,Human
+665,I brought dinner.,4670,4484,15752,Top 5 Unfunny,False,True,17,Human

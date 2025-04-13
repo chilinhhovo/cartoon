@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+521,Go and check if it's still raining. I'll wait here.,540,514,1936,Top 5 Funny,False,True,51,Human
+521,"Well, I thought your mother was joining us...",171,259,654,Top 5 Funny,False,True,45,Human
+521,I thought your mother was joining us.,134,209,486,Top 5 Funny,False,True,37,Human
+521,I'm in the Wetness Protection Program.,89,156,370,Top 5 Funny,False,True,38,Human
+521,I doubled my contribution to PBS.,67,134,309,Top 5 Funny,False,True,33,Human
+521,Go and check if it's still raining. I'll wait here.,540,514,1936,Top 5 Unfunny,False,True,51,Human
+521,"Well, I thought your mother was joining us...",171,259,654,Top 5 Unfunny,False,True,45,Human
+521,I thought your mother was joining us.,134,209,486,Top 5 Unfunny,False,True,37,Human
+521,I'm in the Wetness Protection Program.,89,156,370,Top 5 Unfunny,False,True,38,Human
+521,I doubled my contribution to PBS.,67,134,309,Top 5 Unfunny,False,True,33,Human

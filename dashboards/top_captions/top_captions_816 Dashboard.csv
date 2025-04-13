@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+816,You were more fun when you were plastered.,1516,2497,5788,Top 5 Funny,False,True,42,Human
+816,You're an improvement over my last date. He was plastered.,1497,2812,6410,Top 5 Funny,False,True,58,Human
+816,I 'm just thankful it's not shingles,1285,2430,5204,Top 5 Funny,False,False,36,Human
+816,My ex-wife got most of the house.,1201,1817,4474,Top 5 Funny,False,True,33,Human
+816,I think I like you better stoned.,1123,2387,5233,Top 5 Funny,False,True,33,Human
+816,You're an improvement over my last date. He was plastered.,1497,2812,6410,Top 5 Unfunny,False,True,58,Human
+816,You were more fun when you were plastered.,1516,2497,5788,Top 5 Unfunny,False,True,42,Human
+816,I 'm just thankful it's not shingles,1285,2430,5204,Top 5 Unfunny,False,False,36,Human
+816,I think I like you better stoned.,1123,2387,5233,Top 5 Unfunny,False,True,33,Human
+816,Do you mind if I bounce something off you?,907,2106,4641,Top 5 Unfunny,True,True,42,Human

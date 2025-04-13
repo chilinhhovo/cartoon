@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+865,The whole universe has fleas and ringworm.,507,1887,2592,Top 5 Funny,False,True,42,Human
+865,Not all holes are sniffable.,469,1909,2740,Top 5 Funny,False,True,28,Human
+865,"Don't howl, son. That’s the bark side.",415,1645,2292,Top 5 Funny,False,True,38,Human
+865,It makes the holes we chewed in the couch seem so small.,413,1731,2880,Top 5 Funny,False,True,56,Human
+865,It's probably just a phase.,373,913,1856,Top 5 Funny,False,True,27,Human
+865,Not all holes are sniffable.,469,1909,2740,Top 5 Unfunny,False,True,28,Human
+865,The whole universe has fleas and ringworm.,507,1887,2592,Top 5 Unfunny,False,True,42,Human
+865,It makes the holes we chewed in the couch seem so small.,413,1731,2880,Top 5 Unfunny,False,True,56,Human
+865,"Don't howl, son. That’s the bark side.",415,1645,2292,Top 5 Unfunny,False,True,38,Human
+865,It makes all our problems seem so small — except for that mailman.,352,1545,2215,Top 5 Unfunny,False,True,66,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+772,This isn't what I meant when I said to go towards the light.,911,1623,3728,Top 5 Funny,False,True,60,Human
+772,You might want to throw on some clean underwear.,901,1809,3790,Top 5 Funny,False,True,48,Human
+772,Eat whatever you want. It’s a bus that kills you.,892,1663,3694,Top 5 Funny,False,True,49,Human
+772,At least you died doing what you loved.,885,1832,4065,Top 5 Funny,False,True,39,Human
+772,You wouldn’t do that if you could see yourself from behind.,744,1740,3648,Top 5 Funny,False,True,59,Human
+772,At least you died doing what you loved.,885,1832,4065,Top 5 Unfunny,False,True,39,Human
+772,You might want to throw on some clean underwear.,901,1809,3790,Top 5 Unfunny,False,True,48,Human
+772,You wouldn’t do that if you could see yourself from behind.,744,1740,3648,Top 5 Unfunny,False,True,59,Human
+772,Eat whatever you want. It’s a bus that kills you.,892,1663,3694,Top 5 Unfunny,False,True,49,Human
+772,This isn't what I meant when I said to go towards the light.,911,1623,3728,Top 5 Unfunny,False,True,60,Human

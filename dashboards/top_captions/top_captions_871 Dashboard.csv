@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+871,All pairs well with a side of tots.,622,1906,2871,Top 5 Funny,False,True,35,Human
+871,"By the clicking of my thumbs, something wicked this way comes.",507,1940,3273,Top 5 Funny,False,True,62,Human
+871,Toys-R-Us has the freshest takeout.,493,1509,2204,Top 5 Funny,False,True,35,Human
+871,A lot of you have been asking what happens if you unfollow me...,474,1397,2570,Top 5 Funny,False,True,64,Human
+871,"""Eye of newt is traditional but any Republican Speaker will do.",468,1251,2225,Top 5 Funny,False,True,63,Human
+871,"By the clicking of my thumbs, something wicked this way comes.",507,1940,3273,Top 5 Unfunny,False,True,62,Human
+871,All pairs well with a side of tots.,622,1906,2871,Top 5 Unfunny,False,True,35,Human
+871,Toys-R-Us has the freshest takeout.,493,1509,2204,Top 5 Unfunny,False,True,35,Human
+871,"Eye of Newt, toe of  Goetz, tongue of Kevin...",466,1457,2482,Top 5 Unfunny,False,True,46,Human
+871,A lot of you have been asking what happens if you unfollow me...,474,1397,2570,Top 5 Unfunny,False,True,64,Human

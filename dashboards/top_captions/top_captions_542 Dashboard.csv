@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+542,Should we tell her she's wearing two different shoes?,202,327,789,Top 5 Funny,True,True,53,Human
+542,She is Henry's only surviving wife.,101,227,466,Top 5 Funny,False,True,35,Human
+542,Should we tell her it's on backwards?,85,208,405,Top 5 Funny,True,True,37,Human
+542,So that's where all of the coffee filters went.,77,198,375,Top 5 Funny,False,True,47,Human
+542,"Nah, count the rings. She's definitely pushing 30.",67,186,337,Top 5 Funny,False,True,50,Human
+542,Should we tell her she's wearing two different shoes?,202,327,789,Top 5 Unfunny,True,True,53,Human
+542,She is Henry's only surviving wife.,101,227,466,Top 5 Unfunny,False,True,35,Human
+542,Should we tell her it's on backwards?,85,208,405,Top 5 Unfunny,True,True,37,Human
+542,So that's where all of the coffee filters went.,77,198,375,Top 5 Unfunny,False,True,47,Human
+542,"Nah, count the rings. She's definitely pushing 30.",67,186,337,Top 5 Unfunny,False,True,50,Human

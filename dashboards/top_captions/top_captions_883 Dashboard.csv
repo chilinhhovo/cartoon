@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+883,"Maul a man and you eat for a day, teach a man to pamper you…",992,1772,3465,Top 5 Funny,False,False,60,Human
+883,"You knew I was domesticated when you married me, Margaret.”",723,1434,3025,Top 5 Funny,False,False,59,Human
+883,We never pounce anymore.,721,1776,3500,Top 5 Funny,False,True,24,Human
+883,That reminds me—your mother called this morning.,704,1214,2631,Top 5 Funny,False,True,48,Human
+883,I bet they wouldn't tell him to stay off the furniture.,680,1370,2843,Top 5 Funny,False,True,55,Human
+883,We never pounce anymore.,721,1776,3500,Top 5 Unfunny,False,True,24,Human
+883,"Maul a man and you eat for a day, teach a man to pamper you…",992,1772,3465,Top 5 Unfunny,False,False,60,Human
+883,"Sure, he's big. But can he manipulate humans like we do?",623,1477,2908,Top 5 Unfunny,True,True,56,Human
+883,"You knew I was domesticated when you married me, Margaret.”",723,1434,3025,Top 5 Unfunny,False,False,59,Human
+883,I'll bet no one ever called him pussy.,563,1382,2612,Top 5 Unfunny,False,True,38,Human

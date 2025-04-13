@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+530,Your overhead is going to kill you.,66,114,273,Top 5 Funny,False,True,35,Human
+530,The consensus of your wise men is: move the chair.,46,99,228,Top 5 Funny,False,True,50,Human
+530,And the king lived happily severed after.,37,90,191,Top 5 Funny,False,True,41,Human
+530,While I have your undivided attention...,37,95,180,Top 5 Funny,False,True,40,Human
+530,"According to the doctor, your longevity would improve dramatically if you'd get off the throne and walk more.",36,88,220,Top 5 Funny,False,True,109,Human
+530,Your overhead is going to kill you.,66,114,273,Top 5 Unfunny,False,True,35,Human
+530,The consensus of your wise men is: move the chair.,46,99,228,Top 5 Unfunny,False,True,50,Human
+530,May I suggest that we dispense with today's reading of the royal horoscope?,24,99,172,Top 5 Unfunny,True,True,75,Human
+530,While I have your undivided attention...,37,95,180,Top 5 Unfunny,False,True,40,Human
+530,"Yes, your majesty. So far we have 'Live by the sword'. Is there any more to it?",36,94,191,Top 5 Unfunny,True,True,79,Human

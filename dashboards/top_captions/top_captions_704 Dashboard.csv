@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+704,Forget everything you've ever thought about elevator music.,6521,3095,16951,Top 5 Funny,False,True,59,Human
+704,"You're in 702? Awesome, we're in 704""",6124,4064,16172,Top 5 Funny,True,False,37,Human
+704,"Neither one of us plays, but we find they keep people at least six feet away.",5341,3545,14911,Top 5 Funny,False,True,77,Human
+704,We've been asked to work from home.,4496,3601,13322,Top 5 Funny,False,True,35,Human
+704,This is orchestra. You want mezzanine.,4198,4309,14211,Top 5 Funny,False,True,38,Human
+704,A man purse? You know how ridiculous you look?,3807,4488,12314,Top 5 Unfunny,True,True,46,Human
+704,"Sorry, this elevator is for top brass only.",4066,4317,13378,Top 5 Unfunny,False,True,43,Human
+704,This is orchestra. You want mezzanine.,4198,4309,14211,Top 5 Unfunny,False,True,38,Human
+704,What do you mean you hate elevator music?,1727,4092,9611,Top 5 Unfunny,True,True,41,Human
+704,"Sorry, pal. Tubas accompany, three's a crowd.",3296,4083,11084,Top 5 Unfunny,False,True,45,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+592,The answer to number seven? I can’t even turn this thing on.,2,0,273,Top 5 Funny,True,True,60,Human
+592,"Back to work birds, and enough with the wisequacks!",2,0,280,Top 5 Funny,False,True,51,Human
+592,"Him? He's a pwoblem duck, stwessed out and weady to quack.",2,0,289,Top 5 Funny,True,True,58,Human
+592,Do you ever want to wring your own neck?,1,0,92,Top 5 Funny,True,True,40,Human
+592,I'm only in it for the bread.,1,0,201,Top 5 Funny,False,True,29,Human
+592,"We're not getting Shakespeare, but about every three minutes we get a presidential tweet.",0,6467,6467,Top 5 Unfunny,False,True,89,Human
+592,"Ever so subtly, Ed began to push his right wing agenda.",0,6377,6377,Top 5 Unfunny,False,True,55,Human
+592,I'm pretty sure I said 'hackers'.,0,6366,6366,Top 5 Unfunny,False,True,33,Human
+592,I am concerned that this project could go south really fast.,0,6359,6359,Top 5 Unfunny,False,True,60,Human
+592,They want to know if they can work remotely during the winter,0,6313,6313,Top 5 Unfunny,False,False,61,Human

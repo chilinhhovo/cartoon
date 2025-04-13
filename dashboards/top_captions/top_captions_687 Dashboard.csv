@@ -1,0 +1,12 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+687,You think this is awkward? Try living a few floors down.,5060,3825,12272,Top 5 Funny,True,True,56,Human
+687,I love a parade.,3468,5789,12113,Top 5 Funny,False,True,16,Human
+687,I etched the glass. IT’S YOU  !!,3118,5711,10815,Top 5 Funny,False,True,32,Human
+687,"Well after 40 years at Macy’s, I think it’s a lovely retirement gift, Fred.",2477,3638,9236,Top 5 Funny,False,True,75,Human
+687,"Oh honey look, it’s your inflated ego",2390,3467,8427,Top 5 Funny,False,False,37,Human
+687,I love a parade.,3468,5789,12113,Top 5 Unfunny,False,True,16,Human
+687,I etched the glass. IT’S YOU  !!,3118,5711,10815,Top 5 Unfunny,False,True,32,Human
+687,"You think this is awkward?
+Imagine the view from the 5th floor.",2112,4022,9313,Top 5 Unfunny,True,True,63,Human
+687,"It's a perfect likeness, George. Right down to the hot air.",2381,3918,9450,Top 5 Unfunny,False,True,59,Human
+687,You think this is awkward? Try living a few floors down.,5060,3825,12272,Top 5 Unfunny,True,True,56,Human

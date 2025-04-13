@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Contest 544 - New Yorker Caption Contest</title>
+<link href="../detail-style.css" rel="stylesheet"/>
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        body {
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: #fff;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: #1a1a1a;
+        }
+
+        .theme-filters {
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .theme-button {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #fff;
+            color: #666;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .theme-button:hover {
+            background: #f5f5f5;
+            border-color: #999;
+        }
+
+        .theme-button.active {
+            background: #0000ff;
+            color: white;
+            border-color: #0000ff;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .contest-card {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            transition: transform 0.2s ease;
+        }
+
+        .contest-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .contest-card img {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 0.5rem;
+        }
+
+        .contest-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+        }
+
+        .contest-number {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .contest-theme {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .theme-label {
+            text-align: center;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background: #f5f5f5;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: #666;
+            display: inline-block;
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+<header>
+<a class="back-link" href="../index.html">← Back to Gallery</a>
+<h1>Contest #544</h1>
+</header>
+<div class="content">
+<div class="image-section">
+<img alt="Contest 544 Image" class="contest-image" src="../contest_images/544_Dashboard.jpg"/>
+<div class="theme-label">Theme: work</div>
+</div>
+<div class="captions-section">
+<div class="human-captions">
+<h2>Top Human Captions</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Caption</th>
+<th>Funny</th>
+<th>Unfunny</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="caption-number">1</td>
+<td>I liked it better when they were just little voices inside our heads.</td>
+<td class="vote-cell">74</td>
+<td class="vote-cell">98</td>
+<td class="vote-cell">253</td>
+</tr>
+<tr>
+<td class="caption-number">2</td>
+<td>Given Mr Tell's declining accuracy with his bow and arrow, we're lucky the guys don't use Apples.</td>
+<td class="vote-cell">69</td>
+<td class="vote-cell">82</td>
+<td class="vote-cell">302</td>
+</tr>
+<tr>
+<td class="caption-number">3</td>
+<td>Where exactly is Bethlehem, NY? Hmmm. Off the top of my head … 42°36'N 73°50'W in Albany County.</td>
+<td class="vote-cell">60</td>
+<td class="vote-cell">80</td>
+<td class="vote-cell">282</td>
+</tr>
+<tr>
+<td class="caption-number">4</td>
+<td>Are you thinking what I'm thinking?</td>
+<td class="vote-cell">47</td>
+<td class="vote-cell">89</td>
+<td class="vote-cell">148</td>
+</tr>
+<tr>
+<td class="caption-number">5</td>
+<td>Have your person contact my person.</td>
+<td class="vote-cell">44</td>
+<td class="vote-cell">87</td>
+<td class="vote-cell">138</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ai-captions">
+<h2>AI Generated Captions</h2>
+<div class="ai-model">
+<h3>ChatGPT</h3>
+<div class="ai-caption">Ever since the merger, our ideas constantly seem to be sitting in meetings.</div>
+</div><div class="ai-model"><h3>Claude</h3><div class="ai-caption">We've streamlined the interview process so we can make quicker rejections.</div></div>
+</div>
+<div class="similarity-chart">
+<h2>Similarity Analysis</h2>
+<div class="chart-container">
+<img alt="Similarity Chart" class="similarity-image" src="../contest_charts_svg/contest_544.svg"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeButtons = document.querySelectorAll('.theme-button');
+            const contestCards = document.querySelectorAll('.contest-card');
+
+            themeButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    // Update active button
+                    themeButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+
+                    const selectedTheme = button.dataset.theme;
+
+                    // Show/hide cards based on theme
+                    contestCards.forEach(card => {
+                        if (selectedTheme === 'all' || card.dataset.theme === selectedTheme) {
+                            card.classList.remove('hidden');
+                        } else {
+                            card.classList.add('hidden');
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

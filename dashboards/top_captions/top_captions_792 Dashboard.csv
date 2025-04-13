@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+792,Please rate your cruise on a scale of 1-10.,1110,2314,4853,Top 5 Funny,False,True,43,Human
+792,"If you no longer wish to receive these messages, check unsubscribe and  place in the bottle labeled return.",1101,2196,4887,Top 5 Funny,False,True,107,Human
+792,"These reviews are all terrible, but 'washed up' really hurts.",1068,2026,4378,Top 5 Funny,False,True,61,Human
+792,"‘Good news, you got into Juilliard’",917,1638,3763,Top 5 Funny,False,False,35,Human
+792,"So far, it looks like no one is coming to the recital.",915,2101,4523,Top 5 Funny,False,True,54,Human
+792,Please rate your cruise on a scale of 1-10.,1110,2314,4853,Top 5 Unfunny,False,True,43,Human
+792,"If you no longer wish to receive these messages, check unsubscribe and  place in the bottle labeled return.",1101,2196,4887,Top 5 Unfunny,False,True,107,Human
+792,It's bad news.  Elvis is dead.,834,2153,3895,Top 5 Unfunny,False,True,30,Human
+792,"So far, it looks like no one is coming to the recital.",915,2101,4523,Top 5 Unfunny,False,True,54,Human
+792,"These reviews are all terrible, but 'washed up' really hurts.",1068,2026,4378,Top 5 Unfunny,False,True,61,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+729,"We can’t be overthrown, but we can be swayed.",5259,3619,14418,Top 5 Funny,False,True,45,Human
+729,Now is the winter of our discount tent.,4344,4766,13233,Top 5 Funny,False,True,39,Human
+729,We’ll show those Ottomans.,3418,4426,11998,Top 5 Funny,False,True,26,Human
+729,"I'm swingin' in the reign, just swinging in the reign....",3235,4569,11890,Top 5 Funny,False,True,57,Human
+729,"Gotta be honest, I’m relieved this is what you meant by ‘hanging.’",3211,3973,11553,Top 5 Funny,False,False,66,Human
+729,Now is the winter of our discount tent.,4344,4766,13233,Top 5 Unfunny,False,True,39,Human
+729,"I'm swingin' in the reign, just swinging in the reign....",3235,4569,11890,Top 5 Unfunny,False,True,57,Human
+729,We’ll show those Ottomans.,3418,4426,11998,Top 5 Unfunny,False,True,26,Human
+729,"Gotta be honest, I’m relieved this is what you meant by ‘hanging.’",3211,3973,11553,Top 5 Unfunny,False,False,66,Human
+729,She got the throne in the divorce.,3125,3927,11116,Top 5 Unfunny,False,True,34,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+779,I don't ask you how you squeezed into that sweater.,1725,2006,5564,Top 5 Funny,False,True,51,Human
+779,You sure this'll fool the landlord?,1317,2053,5000,Top 5 Funny,True,True,35,Human
+779,"Technically, the goldfish is still in this bowl.",1185,1923,4666,Top 5 Funny,False,True,48,Human
+779,"Well, as it turns out, he didn't taste like chicken.",1166,2460,5216,Top 5 Funny,False,True,52,Human
+779,"Technically, the fish is still in the bowl.",1100,1752,4336,Top 5 Funny,False,True,43,Human
+779,"Well, as it turns out, he didn't taste like chicken.",1166,2460,5216,Top 5 Unfunny,False,True,52,Human
+779,I identify as goldfish.,1019,2160,4584,Top 5 Unfunny,False,True,23,Human
+779,I identify as a fish.,915,2069,4353,Top 5 Unfunny,False,True,21,Human
+779,You sure this'll fool the landlord?,1317,2053,5000,Top 5 Unfunny,True,True,35,Human
+779,"I am a talking dog, for crying out loud, and you're fixated on how I got into this glass globe?",1053,2008,4458,Top 5 Unfunny,True,True,95,Human

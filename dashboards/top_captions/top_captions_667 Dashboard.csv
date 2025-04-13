@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+667,Maybe we should try thinking inside the box.,5950,3403,16444,Top 5 Funny,False,True,44,Human
+667,"Look, it's right here - ""cheese sold separately""",5235,4528,15860,Top 5 Funny,False,False,48,Human
+667,This is the last time I sign up for a research experiment sponsored by Ikea.,4564,4091,13032,Top 5 Funny,False,True,76,Human
+667,They’re not testing our intelligence. They’re testing our marriage.,4205,4498,13374,Top 5 Funny,False,True,67,Human
+667,Let's just go with the open floor plan.,3969,4069,13680,Top 5 Funny,False,True,39,Human
+667,"Look, it's right here - ""cheese sold separately""",5235,4528,15860,Top 5 Unfunny,False,False,48,Human
+667,They’re not testing our intelligence. They’re testing our marriage.,4205,4498,13374,Top 5 Unfunny,False,True,67,Human
+667,I think we can build a better one.,3727,4357,12751,Top 5 Unfunny,False,True,34,Human
+667,Well this is just great honey.  The directions are written in gerbil.,2650,4332,10445,Top 5 Unfunny,False,True,69,Human
+667,This is the last time I sign up for a research experiment sponsored by Ikea.,4564,4091,13032,Top 5 Unfunny,False,True,76,Human

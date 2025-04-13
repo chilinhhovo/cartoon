@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+834,They recommend the beef.,835,2007,3932,Top 5 Funny,False,True,24,Human
+834,We'll have those crumbs on your table cleaned up in no time.,690,2128,4020,Top 5 Funny,False,True,60,Human
+834,Who had the wings?”,666,2379,4403,Top 5 Funny,True,False,19,Human
+834,Your eggs will be right out,637,2130,4007,Top 5 Funny,False,False,27,Human
+834,Are you going to finish those croissant crumbs?,636,2372,4187,Top 5 Funny,True,True,47,Human
+834,It's arm to table.,482,2443,4160,Top 5 Unfunny,False,True,18,Human
+834,Who had the wings?”,666,2379,4403,Top 5 Unfunny,True,False,19,Human
+834,Are you going to finish those croissant crumbs?,636,2372,4187,Top 5 Unfunny,True,True,47,Human
+834,"Yes, sir, all of our poultry is free-range.""",635,2355,4171,Top 5 Unfunny,False,False,44,Human
+834,I understand you have a complaint about the way the eggs were made.,592,2271,3884,Top 5 Unfunny,False,True,67,Human

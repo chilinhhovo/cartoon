@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+739,Of course we wanted a son. But we also wanted unconditional love.,5108,3146,13477,Top 5 Funny,False,True,65,Human
+739,Let's think of a better word to call his mommy.,4684,4521,13318,Top 5 Funny,False,True,47,Human
+739,"He may be my best friend, but you will always be the reason mom and I got married.",3932,3919,11803,Top 5 Funny,False,True,82,Human
+739,"Once tax season is over, you can go back to being the only child.",3017,3806,10597,Top 5 Funny,False,True,65,Human
+739,Of course you're not a rescue...who would say that to you?,2996,3578,10246,Top 5 Funny,True,True,58,Human
+739,Let's think of a better word to call his mommy.,4684,4521,13318,Top 5 Unfunny,False,True,47,Human
+739,"He may be my best friend, but you will always be the reason mom and I got married.",3932,3919,11803,Top 5 Unfunny,False,True,82,Human
+739,"Once tax season is over, you can go back to being the only child.",3017,3806,10597,Top 5 Unfunny,False,True,65,Human
+739,He said you ate his homework.,2909,3751,10170,Top 5 Unfunny,False,True,29,Human
+739,Of course you're not a rescue...who would say that to you?,2996,3578,10246,Top 5 Unfunny,True,True,58,Human

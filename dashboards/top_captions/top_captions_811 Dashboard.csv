@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+811,I told the aquarium we''ll be working remotely from now on.,918,1450,3444,Top 5 Funny,False,True,59,Human
+811,Everything I drink turns to blubber.,906,1801,3831,Top 5 Funny,False,True,36,Human
+811,That had better be a paper straw.,741,1596,3655,Top 5 Funny,False,True,33,Human
+811,"If Greenpeace shows up, act distressed.",668,1451,3376,Top 5 Funny,False,True,39,Human
+811,Of course I turned off echolocation. I'm on vacation!,550,1010,2365,Top 5 Funny,False,True,53,Human
+811,Everything I drink turns to blubber.,906,1801,3831,Top 5 Unfunny,False,True,36,Human
+811,That had better be a paper straw.,741,1596,3655,Top 5 Unfunny,False,True,33,Human
+811,"If Greenpeace shows up, act distressed.",668,1451,3376,Top 5 Unfunny,False,True,39,Human
+811,I told the aquarium we''ll be working remotely from now on.,918,1450,3444,Top 5 Unfunny,False,True,59,Human
+811,Ditch the drink.  The whale watchers are in sight.,471,1219,2298,Top 5 Unfunny,False,True,50,Human

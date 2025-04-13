@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+800,It was even weirder when he was on the swim team.,778,1127,2770,Top 5 Funny,False,True,49,Human
+800,We're hoping to see more of him as the season goes on!,650,876,2495,Top 5 Funny,False,True,54,Human
+800,How did they find this guy?,646,1106,2683,Top 5 Funny,True,True,27,Human
+800,He’s the kind of talent you rarely see.,607,941,2493,Top 5 Funny,False,True,39,Human
+800,He's got no skin in the game.,589,1067,2507,Top 5 Funny,False,True,29,Human
+800,It was even weirder when he was on the swim team.,778,1127,2770,Top 5 Unfunny,False,True,49,Human
+800,How did they find this guy?,646,1106,2683,Top 5 Unfunny,True,True,27,Human
+800,He's got no skin in the game.,589,1067,2507,Top 5 Unfunny,False,True,29,Human
+800,"He says his folks come to every game, but I haven’t seen ‘em yet.",559,1061,2489,Top 5 Unfunny,False,True,65,Human
+800,"We DID draft him sight unseen""",524,1037,2472,Top 5 Unfunny,False,False,30,Human

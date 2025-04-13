@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+602,"I'm afraid, sir, since you were on the floor for more than five seconds, there's nothing we can do for you.",1655,1786,5171,Top 5 Funny,False,True,107,Human
+602,We ran a few tests and all the toothpicks came back clean,1617,1570,4982,Top 5 Funny,False,False,57,Human
+602,He's only known to us as John Dough.,1583,1730,5196,Top 5 Funny,False,True,36,Human
+602,I'm not going to sugarcoat this.,1566,1653,5399,Top 5 Funny,False,True,32,Human
+602,Time to meet your baker.,1501,1806,5065,Top 5 Funny,False,True,24,Human
+602,Time to meet your baker.,1501,1806,5065,Top 5 Unfunny,False,True,24,Human
+602,"I'm afraid, sir, since you were on the floor for more than five seconds, there's nothing we can do for you.",1655,1786,5171,Top 5 Unfunny,False,True,107,Human
+602,He's only known to us as John Dough.,1583,1730,5196,Top 5 Unfunny,False,True,36,Human
+602,We'd like to keep you here for further tasting.,1245,1698,4796,Top 5 Unfunny,False,True,47,Human
+602,I'm not going to sugarcoat this.,1566,1653,5399,Top 5 Unfunny,False,True,32,Human

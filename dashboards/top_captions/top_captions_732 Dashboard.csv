@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+732,"It's true, your honor. I slept with the witness.",7863,2991,15673,Top 5 Funny,False,True,48,Human
+732,The witness admits having slept with the defendant.,4294,3716,13324,Top 5 Funny,False,True,51,Human
+732,The defense can't rest without this witness.,4149,3508,11509,Top 5 Funny,False,True,44,Human
+732,"Isn't it true, Mr. Bear, that you were in bed with my client on the night in question?",3268,2540,9579,Top 5 Funny,True,True,86,Human
+732,Where were you between the hours of beddy-bye and nighty-night?,3154,3635,9993,Top 5 Funny,True,True,63,Human
+732,"I must recuse myself, your Honor. I sleep with the defendant.",3029,3911,10980,Top 5 Unfunny,False,True,61,Human
+732,He’s been in and out of thrift stores since age 10.,2921,3908,10021,Top 5 Unfunny,False,True,51,Human
+732,The witness admits having slept with the defendant.,4294,3716,13324,Top 5 Unfunny,False,True,51,Human
+732,Where were you between the hours of beddy-bye and nighty-night?,3154,3635,9993,Top 5 Unfunny,True,True,63,Human
+732,Wasn’t your left eye sewn back on AFTER you identified my client?!,3057,3592,9975,Top 5 Unfunny,True,True,66,Human

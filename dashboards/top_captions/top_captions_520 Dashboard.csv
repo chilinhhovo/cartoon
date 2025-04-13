@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+520,"Now that you've opened up, let's talk about what's eating you.",738,631,2227,Top 5 Funny,False,True,62,Human
+520,"I have to ask, do you feel that you could be a danger to others?",235,190,744,Top 5 Funny,True,True,64,Human
+520,It's normal to feel empty after a split.,228,272,785,Top 5 Funny,False,True,40,Human
+520,Would you feel more comfortable on the floor ?,137,173,491,Top 5 Funny,True,True,46,Human
+520,You say you've been feeling empty since the split?,83,140,320,Top 5 Funny,True,True,50,Human
+520,"Now that you've opened up, let's talk about what's eating you.",738,631,2227,Top 5 Unfunny,False,True,62,Human
+520,It's normal to feel empty after a split.,228,272,785,Top 5 Unfunny,False,True,40,Human
+520,"I have to ask, do you feel that you could be a danger to others?",235,190,744,Top 5 Unfunny,True,True,64,Human
+520,Would you feel more comfortable on the floor ?,137,173,491,Top 5 Unfunny,True,True,46,Human
+520,You say you've been feeling empty since the split?,83,140,320,Top 5 Unfunny,True,True,50,Human

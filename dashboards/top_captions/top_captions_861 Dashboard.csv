@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+861,This is what happens when both the writers and the actors go on strike.,591,1625,2835,Top 5 Funny,False,True,71,Human
+861,They don't keep score. They settle them.,514,1759,2590,Top 5 Funny,False,True,40,Human
+861,I'm tempted to shoot them both.,434,1240,2238,Top 5 Funny,False,True,31,Human
+861,I'll bet on anything.,434,1574,2359,Top 5 Funny,False,True,21,Human
+861,"I'm gonna go get a cafe au lait and a croisssant, want anything?",423,1456,2476,Top 5 Funny,True,True,64,Human
+861,They don't keep score. They settle them.,514,1759,2590,Top 5 Unfunny,False,True,40,Human
+861,This is what happens when both the writers and the actors go on strike.,591,1625,2835,Top 5 Unfunny,False,True,71,Human
+861,I'll bet on anything.,434,1574,2359,Top 5 Unfunny,False,True,21,Human
+861,"I'm gonna go get a cafe au lait and a croisssant, want anything?",423,1456,2476,Top 5 Unfunny,True,True,64,Human
+861,Things get more interesting at noon.,335,1291,1942,Top 5 Unfunny,False,True,36,Human

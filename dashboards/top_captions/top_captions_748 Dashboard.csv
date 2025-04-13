@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+748,Study for six years in Paris and you're stuck in some rib joint.,1172,1975,4932,Top 5 Funny,False,True,64,Human
+748,I thought you said the job was in Wales!,1162,1875,4515,Top 5 Funny,False,True,40,Human
+748,Talk about being consumed by your work.,1086,1715,4549,Top 5 Funny,False,True,39,Human
+748,"It's slow now, but we'll be pooped by the end of the night.",1078,1682,3935,Top 5 Funny,False,True,59,Human
+748,Not the return to inside dining I was expecting,1077,1730,4400,Top 5 Funny,False,False,47,Human
+748,Study for six years in Paris and you're stuck in some rib joint.,1172,1975,4932,Top 5 Unfunny,False,True,64,Human
+748,I thought you said the job was in Wales!,1162,1875,4515,Top 5 Unfunny,False,True,40,Human
+748,I can't stand working on an empty stomach.,995,1846,4397,Top 5 Unfunny,False,True,42,Human
+748,This isn't what I thought a return to inside dining would look like.,1038,1836,4399,Top 5 Unfunny,False,True,68,Human
+748,Not the return to inside dining I was expecting,1077,1730,4400,Top 5 Unfunny,False,False,47,Human

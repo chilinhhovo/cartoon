@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+588,"Siri, how far can a hunchback jump?",539,668,1799,Top 5 Funny,True,True,35,Human
+588,I don't have the heart to tell him I'm dating the Hunchback of Temple Beth Shalom.,539,795,1904,Top 5 Funny,False,True,82,Human
+588,"Is he religious? Mom, he’s practically a fixture at the church next door.",479,639,1828,Top 5 Funny,True,True,73,Human
+588,Did I tell you I found someone to watch the place while we're away?,463,640,1820,Top 5 Funny,True,True,67,Human
+588,"Well, you know, it beats living next to Trump Tower.",460,667,1675,Top 5 Funny,False,True,52,Human
+588,I don't have the heart to tell him I'm dating the Hunchback of Temple Beth Shalom.,539,795,1904,Top 5 Unfunny,False,True,82,Human
+588,Like I would date a guy from Notre Dame.,295,774,1514,Top 5 Unfunny,False,True,40,Human
+588,"My new neighbor? Someone pretty high up in the church, I think",334,754,1695,Top 5 Unfunny,True,False,62,Human
+588,"He's single, enjoys climbing and lives right next door.",294,743,1636,Top 5 Unfunny,False,True,55,Human
+588,"Gotta go, Mom. The guy's here with the cathedral.",280,706,1407,Top 5 Unfunny,False,True,49,Human

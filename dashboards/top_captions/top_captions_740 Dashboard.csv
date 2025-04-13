@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+740,"The policy was “You break it you bought it”, and he ended up owning the place.",3801,2602,9715,Top 5 Funny,False,True,78,Human
+740,"We never, ever say ""charge it"".",2540,2794,8293,Top 5 Funny,False,True,31,Human
+740,I tend to complicate simple things.,2154,3795,7497,Top 5 Funny,False,True,35,Human
+740,He was very excited to get the job. His wife is over the moon.,1761,1752,5337,Top 5 Funny,False,True,62,Human
+740,"You think this is impressive, I've got a fox tending my henhouse",1705,2017,5795,Top 5 Funny,False,False,64,Human
+740,I tend to complicate simple things.,2154,3795,7497,Top 5 Unfunny,False,True,35,Human
+740,"We never, ever say ""charge it"".",2540,2794,8293,Top 5 Unfunny,False,True,31,Human
+740,"The policy was “You break it you bought it”, and he ended up owning the place.",3801,2602,9715,Top 5 Unfunny,False,True,78,Human
+740,"Slowly...very slowly, take your red scarf off.",1559,2579,6594,Top 5 Unfunny,False,True,46,Human
+740,"Yes, ma'am, he's the owner. We think of it as china in a bull's shop.",973,2098,4744,Top 5 Unfunny,False,True,69,Human

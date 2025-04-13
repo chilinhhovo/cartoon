@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+535,You and your surfaris.,573,552,1171,Top 5 Funny,False,True,22,Human
+535,I just couldn't 'catch and release because who would've believed such a whale of a tale?,191,261,539,Top 5 Funny,True,True,88,Human
+535,Of course I knew I was marrying a mermaid. I just didn't expect to live with my mother-in-law too.,156,228,512,Top 5 Funny,False,True,98,Human
+535,"I'll bet that last restaurant will never have ""All You Can Eat Shrimp"" on their lunch menu again.",151,228,448,Top 5 Funny,False,True,97,Human
+535,"Yes, I love him. I'll always love him. I'm just saying I still think the hospital switched him at birth.",129,207,437,Top 5 Funny,False,True,104,Human
+535,You and your surfaris.,573,552,1171,Top 5 Unfunny,False,True,22,Human
+535,I just couldn't 'catch and release because who would've believed such a whale of a tale?,191,261,539,Top 5 Unfunny,True,True,88,Human
+535,Of course I knew I was marrying a mermaid. I just didn't expect to live with my mother-in-law too.,156,228,512,Top 5 Unfunny,False,True,98,Human
+535,"I'll bet that last restaurant will never have ""All You Can Eat Shrimp"" on their lunch menu again.",151,228,448,Top 5 Unfunny,False,True,97,Human
+535,"Yes, I love him. I'll always love him. I'm just saying I still think the hospital switched him at birth.",129,207,437,Top 5 Unfunny,False,True,104,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+888,Gesundheit!,600,1775,3154,Top 5 Funny,False,True,11,Human
+888,I don't think you are in the placebo group.,409,1442,2420,Top 5 Funny,False,True,43,Human
+888,"Now that you're spineless,you can run as a Republican for the US Senate.",369,1279,1929,Top 5 Funny,False,True,72,Human
+888,It’s called cactile dysfunction. It can happen to any of us,348,1105,1876,Top 5 Funny,False,False,59,Human
+888,This prickly heat is a killer.,348,1213,1820,Top 5 Funny,False,True,30,Human
+888,Gesundheit!,600,1775,3154,Top 5 Unfunny,False,True,11,Human
+888,I don't think you are in the placebo group.,409,1442,2420,Top 5 Unfunny,False,True,43,Human
+888,"Now that you're spineless,you can run as a Republican for the US Senate.",369,1279,1929,Top 5 Unfunny,False,True,72,Human
+888,This prickly heat is a killer.,348,1213,1820,Top 5 Unfunny,False,True,30,Human
+888,"Now that you're spineless, you should consider running for public office.",308,1173,1830,Top 5 Unfunny,False,True,73,Human

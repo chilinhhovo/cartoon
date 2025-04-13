@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+628,I heard today I'm getting canned.,6166,2337,14093,Top 5 Funny,False,True,33,Human
+628,Whaddya mean you only serve fish on Friday,4337,2572,10773,Top 5 Funny,False,False,42,Human
+628,Yeah? Well I'm also a fish out of Scotch.,4136,3352,10805,Top 5 Funny,True,True,41,Human
+628,Maybe one day she’ll realize I’m the one that got away.,4072,3325,12548,Top 5 Funny,False,True,55,Human
+628,It’s just so hard not to get wrapped up in the news.,3556,3062,10234,Top 5 Funny,False,True,52,Human
+628,Yeah? Well I'm also a fish out of Scotch.,4136,3352,10805,Top 5 Unfunny,True,True,41,Human
+628,Maybe one day she’ll realize I’m the one that got away.,4072,3325,12548,Top 5 Unfunny,False,True,55,Human
+628,And that fisherman had to be 7 or 8 feet tall,2737,3288,9485,Top 5 Unfunny,False,False,45,Human
+628,Make it a double. I just got out of the tank.,2393,3198,9135,Top 5 Unfunny,False,True,45,Human
+628,I still like to think of myself as a good catch.,1584,3190,8073,Top 5 Unfunny,False,True,48,Human

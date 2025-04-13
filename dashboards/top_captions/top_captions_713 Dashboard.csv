@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+713,...there's yer problem!  ya gotta short circus!,3963,2239,9813,Top 5 Funny,False,True,47,Human
+713,"On your way to the Republican National Convention, I see.",3757,3476,10540,Top 5 Funny,False,True,57,Human
+713,Is it wise for the entire presidential administration to ride in one car?,3397,2497,8541,Top 5 Funny,True,True,73,Human
+713,"Well, there’s your problem, we’ll need to change attire.",2668,3116,9258,Top 5 Funny,False,True,56,Human
+713,No wonder it pulls to the right.,2660,2693,8073,Top 5 Funny,False,True,32,Human
+713,"On your way to the Republican National Convention, I see.",3757,3476,10540,Top 5 Unfunny,False,True,57,Human
+713,"Well, there’s your problem, we’ll need to change attire.",2668,3116,9258,Top 5 Unfunny,False,True,56,Human
+713,You say it's been sounding funny?,2119,3101,8919,Top 5 Unfunny,True,True,33,Human
+713,That's what you get for driving a shtick.,1969,3036,7566,Top 5 Unfunny,False,True,41,Human
+713,"TOWN car, Bill. I suggested you buy a TOWN car.",1806,2982,7523,Top 5 Unfunny,False,True,47,Human

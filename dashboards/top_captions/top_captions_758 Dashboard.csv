@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+758,I’m secretary of the exterior.,1358,2179,5033,Top 5 Funny,False,True,30,Human
+758,Honey can you close the door? I’m in a meeting.,1186,1778,4448,Top 5 Funny,True,True,47,Human
+758,"Yes, Helen, I'll be home for lunch.",1060,2124,4621,Top 5 Funny,False,True,35,Human
+758,My company rehired me as an outside consultant.,880,1621,3788,Top 5 Funny,False,True,47,Human
+758,I told you nobody would notice my missing pants.,762,1610,3137,Top 5 Funny,False,True,48,Human
+758,I’m secretary of the exterior.,1358,2179,5033,Top 5 Unfunny,False,True,30,Human
+758,"Yes, Helen, I'll be home for lunch.",1060,2124,4621,Top 5 Unfunny,False,True,35,Human
+758,Honey can you close the door? I’m in a meeting.,1186,1778,4448,Top 5 Unfunny,True,True,47,Human
+758,My company rehired me as an outside consultant.,880,1621,3788,Top 5 Unfunny,False,True,47,Human
+758,I told you nobody would notice my missing pants.,762,1610,3137,Top 5 Unfunny,False,True,48,Human

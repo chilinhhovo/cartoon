@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+565,"No, I recommended exorcism, not exercise.",186,285,604,Top 5 Funny,False,True,41,Human
+565,""" I can only make out : ' ... is required IMMEDIATELY ' .",186,293,648,Top 5 Funny,False,True,57,Human
+565,"From the ashes, your bill will magically appear.",149,226,460,Top 5 Funny,False,True,48,Human
+565,"Wow, you are literally a hot mess.",137,201,403,Top 5 Funny,False,True,34,Human
+565,The good news is this disease will be named after you.,60,158,302,Top 5 Funny,False,True,54,Human
+565,""" I can only make out : ' ... is required IMMEDIATELY ' .",186,293,648,Top 5 Unfunny,False,True,57,Human
+565,"No, I recommended exorcism, not exercise.",186,285,604,Top 5 Unfunny,False,True,41,Human
+565,"From the ashes, your bill will magically appear.",149,226,460,Top 5 Unfunny,False,True,48,Human
+565,"Wow, you are literally a hot mess.",137,201,403,Top 5 Unfunny,False,True,34,Human
+565,The good news is this disease will be named after you.,60,158,302,Top 5 Unfunny,False,True,54,Human

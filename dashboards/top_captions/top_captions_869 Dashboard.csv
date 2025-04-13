@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+869,Twenty years ago I came to this company in a baggie.,539,1285,2629,Top 5 Funny,False,True,52,Human
+869,My deep sea diver is working remotely today.”,509,1330,2083,Top 5 Funny,False,False,45,Human
+869,"No, no, go ahead!  Open a can of worms!",444,1098,2182,Top 5 Funny,False,True,39,Human
+869,I prefer 'bankrupt' to 'belly up.',369,981,1935,Top 5 Funny,False,False,34,Human
+869,When you own the company you can work from home.,323,1061,1880,Top 5 Funny,False,True,48,Human
+869,My deep sea diver is working remotely today.”,509,1330,2083,Top 5 Unfunny,False,False,45,Human
+869,Twenty years ago I came to this company in a baggie.,539,1285,2629,Top 5 Unfunny,False,True,52,Human
+869,"No, no, go ahead!  Open a can of worms!",444,1098,2182,Top 5 Unfunny,False,True,39,Human
+869,When you own the company you can work from home.,323,1061,1880,Top 5 Unfunny,False,True,48,Human
+869,I prefer 'bankrupt' to 'belly up.',369,981,1935,Top 5 Unfunny,False,False,34,Human

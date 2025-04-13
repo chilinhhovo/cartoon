@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+591,Some of my patients find the loofah less threatening.,2,0,562,Top 5 Funny,False,True,53,Human
+591,"My methods are Jungian. Sometimes a bar of soap *is* just a bar of soap, you know...",1,0,273,Top 5 Funny,False,True,84,Human
+591,I hope you don't mind. My couch is brand new.,1,1,563,Top 5 Funny,False,True,45,Human
+591,It'll keep you Jung.,0,0,645,Top 5 Funny,False,True,20,Human
+591,Immersion therapy washes away the guilt ... and exfoliates as it cleans.,0,1,629,Top 5 Funny,False,True,72,Human
+591,"Now, here is where the treatment becomes a bit... controversial.",0,5020,5020,Top 5 Unfunny,False,True,64,Human
+591,The last person I treated stayed clean for 4 years.,0,5011,5011,Top 5 Unfunny,False,True,51,Human
+591,I’m a marine psychologist.,0,4950,4950,Top 5 Unfunny,False,True,26,Human
+591,"I prefer to call it hydrotherapy, not ""soaking my patients"".",0,4939,4939,Top 5 Unfunny,False,True,60,Human
+591,Of course it's cold - you're my 4th patient today!,0,4915,4915,Top 5 Unfunny,False,True,50,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+750,It’s good to be back in the field. It just wasn’t the same working from home.,1486,1947,5363,Top 5 Funny,False,True,77,Human
+750,"Remember Dave, Rule #1: Never Count Them. Dave? Dave?",1235,1771,4547,Top 5 Funny,True,True,53,Human
+750,Remember to check for faces—I once barked at a cotton bale for hours.,1178,1608,4334,Top 5 Funny,False,True,69,Human
+750,Do you remember what the missing one looked like?,1159,1875,4676,Top 5 Funny,True,True,49,Human
+750,"Ewe, ewe. ewe. That's all we ever talk about.",1150,1739,4377,Top 5 Funny,False,True,45,Human
+750,It’s good to be back in the field. It just wasn’t the same working from home.,1486,1947,5363,Top 5 Unfunny,False,True,77,Human
+750,Do you remember what the missing one looked like?,1159,1875,4676,Top 5 Unfunny,True,True,49,Human
+750,"Every night when I try to sleep, I can't stop thinking about work.",1107,1843,4655,Top 5 Unfunny,False,True,66,Human
+750,"Remember Dave, Rule #1: Never Count Them. Dave? Dave?",1235,1771,4547,Top 5 Unfunny,True,True,53,Human
+750,This job is much ado about mutton.,1028,1769,4217,Top 5 Unfunny,False,True,34,Human

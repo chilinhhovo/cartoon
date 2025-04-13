@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+833,"There was a little mix-up here. Dr. Mason is an osteopath. I’m Dr. Manson, a psychopath.",995,1723,3700,Top 5 Funny,False,True,88,Human
+833,It’s going to work a lot faster than the prune juice.,714,1181,2670,Top 5 Funny,False,True,53,Human
+833,It’s usually non-invasive.,683,1472,3439,Top 5 Funny,False,True,26,Human
+833,This is the option covered by your insurance,629,1005,2393,Top 5 Funny,False,False,44,Human
+833,"Of course if you’d like to give the blood, urine and stool samples the usual way, that’s totally up to you.",579,1144,2497,Top 5 Funny,False,True,107,Human
+833,"There was a little mix-up here. Dr. Mason is an osteopath. I’m Dr. Manson, a psychopath.",995,1723,3700,Top 5 Unfunny,False,True,88,Human
+833,It’s usually non-invasive.,683,1472,3439,Top 5 Unfunny,False,True,26,Human
+833,"It could be inpatient, it could be outpatient.",560,1321,2750,Top 5 Unfunny,False,True,46,Human
+833,Just let me know if you feel a sharp pain.,504,1253,2736,Top 5 Unfunny,False,True,42,Human
+833,Your hiccups are gone.,517,1239,2619,Top 5 Unfunny,False,True,22,Human

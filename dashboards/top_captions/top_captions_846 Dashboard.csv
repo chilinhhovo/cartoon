@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+846,Now I’m starting to believe the mailman’s side of the story.,1581,2808,6243,Top 5 Funny,False,True,60,Human
+846,And yet he's still afraid of the vacuum.,1507,3315,7360,Top 5 Funny,False,True,40,Human
+846,The vet referred us to a priest.,1235,2892,5667,Top 5 Funny,False,True,32,Human
+846,It’s your turn to walk him.,1184,3018,5577,Top 5 Funny,False,True,27,Human
+846,I can see why he's scared of his own shadow.,982,3044,5546,Top 5 Funny,False,True,44,Human
+846,And yet he's still afraid of the vacuum.,1507,3315,7360,Top 5 Unfunny,False,True,40,Human
+846,The cat warned us.,923,3077,5703,Top 5 Unfunny,False,True,18,Human
+846,"It’s not you, it’s your dog.",930,3057,5624,Top 5 Unfunny,False,True,28,Human
+846,I can see why he's scared of his own shadow.,982,3044,5546,Top 5 Unfunny,False,True,44,Human
+846,It’s your turn to walk him.,1184,3018,5577,Top 5 Unfunny,False,True,27,Human

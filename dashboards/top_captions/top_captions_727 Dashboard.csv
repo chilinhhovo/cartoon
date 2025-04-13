@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+727,It's the closest you'll get to Manhattan in your price range.,4178,3216,10936,Top 5 Funny,False,True,61,Human
+727,"Now I gotta tell you, it's not technically IN Brooklyn",2871,2724,8501,Top 5 Funny,False,False,54,Human
+727,"No cable, but satellite works great up here!",2446,2435,7858,Top 5 Funny,False,True,44,Human
+727,Ambiance it has in abundance: Atmosphere? Not so much.,2104,2102,6414,Top 5 Funny,True,True,54,Human
+727,And the best part? It all runs on solar.,1752,2176,6259,Top 5 Funny,True,True,40,Human
+727,It's the closest you'll get to Manhattan in your price range.,4178,3216,10936,Top 5 Unfunny,False,True,61,Human
+727,"Now I gotta tell you, it's not technically IN Brooklyn",2871,2724,8501,Top 5 Unfunny,False,False,54,Human
+727,The place has great views but not much atmosphere.,1707,2591,6657,Top 5 Unfunny,False,True,50,Human
+727,"No cable, but satellite works great up here!",2446,2435,7858,Top 5 Unfunny,False,True,44,Human
+727,This unit comes with a vacuum.,1610,2257,5743,Top 5 Unfunny,False,True,30,Human

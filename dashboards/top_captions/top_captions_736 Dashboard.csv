@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+736,No one will ever wear that.  Not in 100 million years.,3111,2926,9566,Top 5 Funny,False,True,54,Human
+736,Your meal came with a toy?,2524,3075,8683,Top 5 Funny,True,True,26,Human
+736,"If that’s a courtship display, I think I know how we go extinct.",2135,2380,7256,Top 5 Funny,False,True,64,Human
+736,"You can advocate for wind power all you want, Randy, but you’re not going to escape your fossil fuel destiny.",1880,1620,5798,Top 5 Funny,False,True,109,Human
+736,"Well, it's an improvement over your MAGA hat.",1798,2560,6052,Top 5 Funny,False,True,45,Human
+736,Your meal came with a toy?,2524,3075,8683,Top 5 Unfunny,True,True,26,Human
+736,No one will ever wear that.  Not in 100 million years.,3111,2926,9566,Top 5 Unfunny,False,True,54,Human
+736,"Well, it's an improvement over your MAGA hat.",1798,2560,6052,Top 5 Unfunny,False,True,45,Human
+736,It would be a cruel irony if we go extinct but those hats endure.,1688,2481,6325,Top 5 Unfunny,False,True,65,Human
+736,The hat is kinda dorky but the kid was delicious.,1093,2410,5155,Top 5 Unfunny,False,True,49,Human

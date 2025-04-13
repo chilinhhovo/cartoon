@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+526,Hey! My eyes are down here.,45,81,173,Top 5 Funny,False,True,27,Human
+526,"It autocorrected to ""hula"".",39,73,143,Top 5 Funny,False,True,27,Human
+526,It was autocorrected to 'hula.',39,82,141,Top 5 Funny,False,False,31,Human
+526,My eyes are down here.,38,77,148,Top 5 Funny,False,True,22,Human
+526,"Excuse me, Miss, my eyes are down here.",34,69,147,Top 5 Funny,False,True,39,Human
+526,"I don't mean to sing my praises, but ...",11,141,169,Top 5 Unfunny,False,True,40,Human
+526,It was autocorrected to 'hula.',39,82,141,Top 5 Unfunny,False,False,31,Human
+526,Hey! My eyes are down here.,45,81,173,Top 5 Unfunny,False,True,27,Human
+526,My eyes are down here.,38,77,148,Top 5 Unfunny,False,True,22,Human
+526,Remember all those times you said I was wrong?,26,75,128,Top 5 Unfunny,True,True,46,Human

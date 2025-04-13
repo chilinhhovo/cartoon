@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+576,Ignore me and I'll go away.,712,1019,2006,Top 5 Funny,False,True,27,Human
+576,Our parents won't approve; you're Jewish and I'm a Wasp.,239,431,1004,Top 5 Funny,False,True,56,Human
+576,Don't blow my cover. I'm in the middle of a sting operation.,204,318,830,Top 5 Funny,False,True,60,Human
+576,I can't go. I've been elected queen.,203,407,925,Top 5 Funny,False,True,36,Human
+576,Could be worse...I could be back at the White House doing press briefings.,202,367,820,Top 5 Funny,False,True,74,Human
+576,Ignore me and I'll go away.,712,1019,2006,Top 5 Unfunny,False,True,27,Human
+576,I’m the head beekeeper!!!,196,449,773,Top 5 Unfunny,False,True,25,Human
+576,Our parents won't approve; you're Jewish and I'm a Wasp.,239,431,1004,Top 5 Unfunny,False,True,56,Human
+576,"You still have two wishes left, right?",199,414,875,Top 5 Unfunny,True,True,38,Human
+576,I can't go. I've been elected queen.,203,407,925,Top 5 Unfunny,False,True,36,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+678,My left or your left?,2488,1772,7742,Top 5 Funny,True,True,21,Human
+678,I always knew we'd wind up together.,1885,1895,6362,Top 5 Funny,False,True,36,Human
+678,"Oh dear, that's my wife!  Act casual.",1825,1858,5940,Top 5 Funny,False,True,37,Human
+678,"If this shows up in National Geographic, we'll never hear the end of it.",1742,2051,6132,Top 5 Funny,False,True,72,Human
+678,"Please wag your tail, so I know which one is me.",1737,2085,6194,Top 5 Funny,False,True,48,Human
+678,"Now remember: righty-tighty, lefty-loosey.",1016,2377,5235,Top 5 Unfunny,False,True,42,Human
+678,5 o’clock...time to unwind!,1205,2294,5591,Top 5 Unfunny,False,True,27,Human
+678,"Please wag your tail, so I know which one is me.",1737,2085,6194,Top 5 Unfunny,False,True,48,Human
+678,"If this shows up in National Geographic, we'll never hear the end of it.",1742,2051,6132,Top 5 Unfunny,False,True,72,Human
+678,"Well, we're screwed.",1455,2000,5398,Top 5 Unfunny,False,True,20,Human

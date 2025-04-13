@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+820,You've got it upside down.,602,1006,2293,Top 5 Funny,False,True,26,Human
+820,I haven't an inkling.,599,1158,2518,Top 5 Funny,False,True,21,Human
+820,Looks like the day I got released from the pen.,588,1163,2449,Top 5 Funny,False,True,47,Human
+820,You told me not to keep things bottled up.,514,1053,2412,Top 5 Funny,False,True,42,Human
+820,You are holding it upside down.,478,847,1925,Top 5 Funny,False,True,31,Human
+820,Looks like the day I got released from the pen.,588,1163,2449,Top 5 Unfunny,False,True,47,Human
+820,I haven't an inkling.,599,1158,2518,Top 5 Unfunny,False,True,21,Human
+820,You told me not to keep things bottled up.,514,1053,2412,Top 5 Unfunny,False,True,42,Human
+820,You've got it upside down.,602,1006,2293,Top 5 Unfunny,False,True,26,Human
+820,You are holding it upside down.,478,847,1925,Top 5 Unfunny,False,True,31,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+860,And I'm the dirty one?,645,1046,2081,Top 5 Funny,True,True,22,Human
+860,That’s where the locals eat.,558,1580,3056,Top 5 Funny,False,True,28,Human
+860,That’s where I met my wife.,549,1935,3211,Top 5 Funny,False,True,27,Human
+860,Should we scrap our dinner plans or plan our dinner scraps?”,545,1706,2537,Top 5 Funny,True,False,60,Human
+860,"No, Happy Hour is later.  They’re just here for the Early Bird.",412,1306,2551,Top 5 Funny,False,True,63,Human
+860,That’s where I met my wife.,549,1935,3211,Top 5 Unfunny,False,True,27,Human
+860,Should we scrap our dinner plans or plan our dinner scraps?”,545,1706,2537,Top 5 Unfunny,True,False,60,Human
+860,That’s where the locals eat.,558,1580,3056,Top 5 Unfunny,False,True,28,Human
+860,They wouldn’t last a day in Times Square.,356,1324,2057,Top 5 Unfunny,False,True,41,Human
+860,"No, Happy Hour is later.  They’re just here for the Early Bird.",412,1306,2551,Top 5 Unfunny,False,True,63,Human

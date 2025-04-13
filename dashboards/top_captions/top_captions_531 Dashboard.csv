@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+531,Sorry I'm late. I hit every traffic light coming home.,2192,1285,5246,Top 5 Funny,False,True,54,Human
+531,Let's stay in tonight. It's a zoo out there.,862,564,1721,Top 5 Funny,False,True,44,Human
+531,"If he's elected, we're going to have a tough time proving we weren't born in Africa.",309,461,1077,Top 5 Funny,False,True,84,Human
+531,"I wasn't impressed with the ark on the outside, but this is nice.",278,430,1050,Top 5 Funny,False,True,65,Human
+531,"Yes, it's hot. But a ceiling fan will only make things worse.",277,429,1054,Top 5 Funny,False,True,61,Human
+531,Sorry I'm late. I hit every traffic light coming home.,2192,1285,5246,Top 5 Unfunny,False,True,54,Human
+531,Let's stay in tonight. It's a zoo out there.,862,564,1721,Top 5 Unfunny,False,True,44,Human
+531,"If he's elected, we're going to have a tough time proving we weren't born in Africa.",309,461,1077,Top 5 Unfunny,False,True,84,Human
+531,"I wasn't impressed with the ark on the outside, but this is nice.",278,430,1050,Top 5 Unfunny,False,True,65,Human
+531,"Yes, it's hot. But a ceiling fan will only make things worse.",277,429,1054,Top 5 Unfunny,False,True,61,Human

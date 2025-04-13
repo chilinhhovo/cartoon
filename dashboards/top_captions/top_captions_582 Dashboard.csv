@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+582,"Yes, I see the train but I think we can beat it.",1029,805,2747,Top 5 Funny,False,True,48,Human
+582,"You can knock off the heavy breathing back there, Gwendolyn. I know you're not pedaling.",629,649,2205,Top 5 Funny,False,True,88,Human
+582,"Well technically, you ran the red light.",603,494,1907,Top 5 Funny,False,True,40,Human
+582,This would be a lot easier if you dropped the restraining order.,570,666,1900,Top 5 Funny,False,True,64,Human
+582,I'll order. You pick up.,542,457,1744,Top 5 Funny,False,True,24,Human
+582,"Yes, I see the train but I think we can beat it.",1029,805,2747,Top 5 Unfunny,False,True,48,Human
+582,This would be a lot easier if you dropped the restraining order.,570,666,1900,Top 5 Unfunny,False,True,64,Human
+582,"You can knock off the heavy breathing back there, Gwendolyn. I know you're not pedaling.",629,649,2205,Top 5 Unfunny,False,True,88,Human
+582,Got any ideas for the upcoming traffic circle?,417,635,1806,Top 5 Unfunny,True,True,46,Human
+582,Your profile said you enjoy long bike rides.,451,603,1688,Top 5 Unfunny,False,True,44,Human

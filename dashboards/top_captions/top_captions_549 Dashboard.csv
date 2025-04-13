@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+549,I admire your restraint.,151,205,551,Top 5 Funny,False,True,24,Human
+549,"Above all, we value restraint.",121,184,461,Top 5 Funny,False,True,30,Human
+549,I admire your restraint.,81,154,352,Top 5 Funny,False,True,24,Human
+549,"On casual Fridays, it's just handcuffs.",77,151,321,Top 5 Funny,False,True,39,Human
+549,OK. NOW we can discuss the election.,76,150,325,Top 5 Funny,False,True,36,Human
+549,I admire your restraint.,151,205,551,Top 5 Unfunny,False,True,24,Human
+549,"Above all, we value restraint.",121,184,461,Top 5 Unfunny,False,True,30,Human
+549,I admire your restraint.,81,154,352,Top 5 Unfunny,False,True,24,Human
+549,"On casual Fridays, it's just handcuffs.",77,151,321,Top 5 Unfunny,False,True,39,Human
+549,OK. NOW we can discuss the election.,76,150,325,Top 5 Unfunny,False,True,36,Human

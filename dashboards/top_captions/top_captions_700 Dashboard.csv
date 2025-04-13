@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+700,Looks like you're already familiar with the side effects.,7574,1941,14726,Top 5 Funny,False,True,57,Human
+700,You're going to need some help with these suppositories.,5184,2790,11577,Top 5 Funny,False,True,56,Human
+700,"Look, sir, I can tell you to take it with water, but I can't make you drink.",4527,2882,11559,Top 5 Funny,False,True,76,Human
+700,"This will make you drowsy, so you’ll need someone to ride you home.",3694,2323,9951,Top 5 Funny,False,True,67,Human
+700,I see your insurance policy comes with a rider.,3557,2649,9977,Top 5 Funny,False,True,47,Human
+700,"Look, sir, I can tell you to take it with water, but I can't make you drink.",4527,2882,11559,Top 5 Unfunny,False,True,76,Human
+700,You're going to need some help with these suppositories.,5184,2790,11577,Top 5 Unfunny,False,True,56,Human
+700,"Thanks for telling us, sir... ATTENTION, CLEAN UP IN AISLE SIX!",2803,2747,8318,Top 5 Unfunny,False,True,63,Human
+700,I see your insurance policy comes with a rider.,3557,2649,9977,Top 5 Unfunny,False,True,47,Human
+700,"Sir, Trojan Magnum is the largest size we carry.",2516,2607,7650,Top 5 Unfunny,False,True,48,Human

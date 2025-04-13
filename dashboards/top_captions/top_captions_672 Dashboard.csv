@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+672,These should help with the hallucinations.,3531,3399,10597,Top 5 Funny,False,True,42,Human
+672,I'm sure it works. I was involved in the original research.,3520,3381,10949,Top 5 Funny,False,True,59,Human
+672,"No, I said I was a rodent scholar.",2886,3744,9540,Top 5 Funny,False,True,34,Human
+672,I started in the lab and then went to medical school.,2473,3287,8937,Top 5 Funny,False,True,53,Human
+672,Don't worry. I wouldn't prescribe anything I haven't tested on myself.,2303,2881,8357,Top 5 Funny,False,True,70,Human
+672,"No, I said I was a rodent scholar.",2886,3744,9540,Top 5 Unfunny,False,True,34,Human
+672,"Of course there are no side effects, I take it myself.",1685,3525,8073,Top 5 Unfunny,False,True,54,Human
+672,These should help with the hallucinations.,3531,3399,10597,Top 5 Unfunny,False,True,42,Human
+672,I'm sure it works. I was involved in the original research.,3520,3381,10949,Top 5 Unfunny,False,True,59,Human
+672,We take Blue Cross or Blue Cheese.,2170,3348,7927,Top 5 Unfunny,False,True,34,Human

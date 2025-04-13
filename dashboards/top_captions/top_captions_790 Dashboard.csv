@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+790,"Sir, I am not going to tell you again, your ride is over.",1740,3430,7244,Top 5 Funny,False,True,57,Human
+790,How far to the nearest metal ceiling?,1454,4088,7769,Top 5 Funny,True,True,37,Human
+790,I see your divorce went well.,1452,3066,6462,Top 5 Funny,False,True,29,Human
+790,Walter soon realized that he was not prepared for life in the fast lane.,1438,2937,6447,Top 5 Funny,False,True,72,Human
+790,Told you I had the better divorce lawyer!,1342,2936,6016,Top 5 Funny,False,True,41,Human
+790,How far to the nearest metal ceiling?,1454,4088,7769,Top 5 Unfunny,True,True,37,Human
+790,"Sir, I am not going to tell you again, your ride is over.",1740,3430,7244,Top 5 Unfunny,False,True,57,Human
+790,I see your divorce went well.,1452,3066,6462,Top 5 Unfunny,False,True,29,Human
+790,Does it look like I would know where the nearest gas station is?,1050,3056,6134,Top 5 Unfunny,True,True,64,Human
+790,Walter soon realized that he was not prepared for life in the fast lane.,1438,2937,6447,Top 5 Unfunny,False,True,72,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+826,"For patient comfort, we try to keep the room in the mid-seventies.",823,1706,3542,Top 5 Funny,False,True,66,Human
+826,I'm detecting a beat.,822,2017,4431,Top 5 Funny,False,True,21,Human
+826,"If this doesn't correct his rhythm, we'll try the paddles.",604,1600,3142,Top 5 Funny,False,True,58,Human
+826,He’s going to need more drugs.,521,1662,3003,Top 5 Funny,False,True,30,Human
+826,"Alexa, play Smooth Operator",459,1134,2271,Top 5 Funny,False,False,27,Human
+826,I'm detecting a beat.,822,2017,4431,Top 5 Unfunny,False,True,21,Human
+826,"For patient comfort, we try to keep the room in the mid-seventies.",823,1706,3542,Top 5 Unfunny,False,True,66,Human
+826,He’s going to need more drugs.,521,1662,3003,Top 5 Unfunny,False,True,30,Human
+826,"If this doesn't correct his rhythm, we'll try the paddles.",604,1600,3142,Top 5 Unfunny,False,True,58,Human
+826,Looks to be a herniated disco.,403,1304,2466,Top 5 Unfunny,False,True,30,Human

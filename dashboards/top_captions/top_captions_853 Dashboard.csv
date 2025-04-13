@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+853,All we need now is to find a port,769,2151,3837,Top 5 Funny,False,False,33,Human
+853,"Careful, men. It could be sharp!",564,2280,3961,Top 5 Funny,False,True,32,Human
+853,That would pair well with a great white.,496,1773,3136,Top 5 Funny,False,True,40,Human
+853,Bland ho!,478,1889,2650,Top 5 Funny,False,True,9,Human
+853,"She's aged, but that's her alright.",452,1377,2547,Top 5 Funny,False,True,35,Human
+853,"Careful, men. It could be sharp!",564,2280,3961,Top 5 Unfunny,False,True,32,Human
+853,All we need now is to find a port,769,2151,3837,Top 5 Unfunny,False,False,33,Human
+853,Bland ho!,478,1889,2650,Top 5 Unfunny,False,True,9,Human
+853,That would pair well with a great white.,496,1773,3136,Top 5 Unfunny,False,True,40,Human
+853,I never said this would be a picnic.,355,1660,2800,Top 5 Unfunny,False,True,36,Human

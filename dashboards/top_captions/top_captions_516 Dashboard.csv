@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+516,How many lumps did you say you wanted again?,4,1,5,Top 5 Funny,True,True,44,Human
+516,"Joe, do you understand the gravity of the situation?",3,0,4,Top 5 Funny,True,True,52,Human
+516,If I am lying then let God strike me dead!,3,0,4,Top 5 Funny,False,True,42,Human
+516,I'm told the coffee here is to die for.,3,0,4,Top 5 Funny,False,True,39,Human
+516,You know that artificial sweetener will kill ya.,3,0,4,Top 5 Funny,False,True,48,Human
+516,Do you think I need to post a new Tinder photo?,0,5,5,Top 5 Unfunny,True,True,47,Human
+516,"On second thought, don't buy. Sell.",0,5,5,Top 5 Unfunny,False,True,35,Human
+516,What I especially like about this place is how chockablock it is with surprises.,0,5,5,Top 5 Unfunny,False,True,80,Human
+516,"Well, we meet for coffee to discuss my career path.",0,5,5,Top 5 Unfunny,False,True,51,Human
+516,Looks like you picked the wrong day to quit drinking coffee!,0,5,5,Top 5 Unfunny,False,True,60,Human

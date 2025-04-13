@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+523,You ordered from the wrong Amazon.,602,848,2260,Top 5 Funny,False,True,34,Human
+523,Then maybe you should just tell me what you want for your birthday instead of saying you don't care.,216,374,871,Top 5 Funny,False,True,100,Human
+523,I think I ordered from the wrong Amazon.,157,273,610,Top 5 Funny,False,True,40,Human
+523,I don't mind the monkey see as much as the monkey doo.,124,263,594,Top 5 Funny,False,True,54,Human
+523,Can we have one argument without you bringing up the monkeys?,112,234,487,Top 5 Funny,True,True,61,Human
+523,You ordered from the wrong Amazon.,602,848,2260,Top 5 Unfunny,False,True,34,Human
+523,Then maybe you should just tell me what you want for your birthday instead of saying you don't care.,216,374,871,Top 5 Unfunny,False,True,100,Human
+523,I think I ordered from the wrong Amazon.,157,273,610,Top 5 Unfunny,False,True,40,Human
+523,I don't mind the monkey see as much as the monkey doo.,124,263,594,Top 5 Unfunny,False,True,54,Human
+523,I'll tell you what could be more fun--a barrel of wine.,111,238,521,Top 5 Unfunny,False,True,55,Human

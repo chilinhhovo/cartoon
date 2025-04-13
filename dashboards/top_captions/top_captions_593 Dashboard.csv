@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+593,It's not so much what she said as how she said it.,1077,873,3135,Top 5 Funny,False,True,50,Human
+593,"...oh, and there's a note from your mother.",1031,993,3025,Top 5 Funny,False,True,43,Human
+593,"Actually, I would like to shoot the messenger.",1025,1080,3220,Top 5 Funny,False,True,46,Human
+593,I'm pretty sure it's a final notice,980,877,3027,Top 5 Funny,False,False,35,Human
+593,‘Sharply worded’ would describe it.,957,942,3117,Top 5 Funny,False,True,35,Human
+593,She knows.,784,1171,2855,Top 5 Unfunny,False,True,10,Human
+593,"Actually, I would like to shoot the messenger.",1025,1080,3220,Top 5 Unfunny,False,True,46,Human
+593,I'd like to switch to paperless statements.,781,1056,2711,Top 5 Unfunny,False,True,43,Human
+593,"I'm sorry, but Emma and I won't be able to make it to your murder mystery party. Clever invitation, by the way.",712,1049,2758,Top 5 Unfunny,False,True,111,Human
+593,"What I had actually said was ""Take a stab at it and get back to me""",906,1040,3000,Top 5 Unfunny,False,False,67,Human

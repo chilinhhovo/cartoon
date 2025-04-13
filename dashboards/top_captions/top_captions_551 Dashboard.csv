@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+551,Row v. Wave,810,855,2398,Top 5 Funny,False,False,11,Human
+551,We shall overcomb.,637,787,2097,Top 5 Funny,False,True,18,Human
+551,Row v. Wave,590,742,1854,Top 5 Funny,False,False,11,Human
+551,"Ladies and gentlemen, if you look to your right, you’ll see a gift of friendship from the people of France; straight ahead, a gift of friendship from the people of Russia",406,559,1459,Top 5 Funny,False,False,170,Human
+551,"I don't know what's worse, the undertow or the combover",404,551,1548,Top 5 Funny,False,False,55,Human
+551,Row v. Wave,810,855,2398,Top 5 Unfunny,False,False,11,Human
+551,We shall overcomb.,637,787,2097,Top 5 Unfunny,False,True,18,Human
+551,Row v. Wave,590,742,1854,Top 5 Unfunny,False,False,11,Human
+551,"Ladies and gentlemen, if you look to your right, you’ll see a gift of friendship from the people of France; straight ahead, a gift of friendship from the people of Russia",406,559,1459,Top 5 Unfunny,False,False,170,Human
+551,"I don't know what's worse, the undertow or the combover",404,551,1548,Top 5 Unfunny,False,False,55,Human

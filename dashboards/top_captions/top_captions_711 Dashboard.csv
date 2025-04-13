@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+711,"Yes, it's a home game. Of course it's a home game. Everything's a fricking home game.",7003,2262,15014,Top 5 Funny,False,True,85,Human
+711,Well the catcher is wearing a mask but everyone else is just staying six feet apart,4452,3345,13701,Top 5 Funny,False,False,83,Human
+711,I hope to God they find a cure before football season.,4262,3355,12324,Top 5 Funny,False,True,54,Human
+711,They’re all high and inside.,4216,3701,11632,Top 5 Funny,False,True,28,Human
+711,"The bases are loaded and, frankly, so am I",4176,3506,12070,Top 5 Funny,False,False,42,Human
+711,They’re all high and inside.,4216,3701,11632,Top 5 Unfunny,False,True,28,Human
+711,I’m safe at home. How are you?,2612,3518,10447,Top 5 Unfunny,True,True,30,Human
+711,"The bases are loaded and, frankly, so am I",4176,3506,12070,Top 5 Unfunny,False,False,42,Human
+711,I hope to God they find a cure before football season.,4262,3355,12324,Top 5 Unfunny,False,True,54,Human
+711,Well the catcher is wearing a mask but everyone else is just staying six feet apart,4452,3345,13701,Top 5 Unfunny,False,False,83,Human

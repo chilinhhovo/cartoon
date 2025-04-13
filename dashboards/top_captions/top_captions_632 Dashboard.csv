@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+632,What makes you think the Russians were involved?,4575,2658,11637,Top 5 Funny,True,True,48,Human
+632,They were all in it together.,4165,2629,11039,Top 5 Funny,False,True,29,Human
+632,"We’re pretty sure it was an inside inside inside inside inside job, detective.",3420,2809,10025,Top 5 Funny,False,True,78,Human
+632,We gotta get the short one to open up.,3318,2650,8870,Top 5 Funny,False,True,38,Human
+632,I only arrested the one on the left. But when we interrogated her she really opened up.,2926,2901,9898,Top 5 Funny,False,True,87,Human
+632,I think the small one is hiding something but I can't get her to open up,2757,3074,9973,Top 5 Unfunny,False,False,72,Human
+632,"I suspect it's an inside, inside, inside, inside, inside job.",1800,2939,7629,Top 5 Unfunny,False,True,61,Human
+632,I only arrested the one on the left. But when we interrogated her she really opened up.,2926,2901,9898,Top 5 Unfunny,False,True,87,Human
+632,"We’re pretty sure it was an inside inside inside inside inside job, detective.",3420,2809,10025,Top 5 Unfunny,False,True,78,Human
+632,What makes you think the Russians were involved?,4575,2658,11637,Top 5 Unfunny,True,True,48,Human

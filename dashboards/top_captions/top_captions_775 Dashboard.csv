@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+775,I wish we had done the sex and drugs first.,1329,1875,4704,Top 5 Funny,False,True,43,Human
+775,Can’t believe we’re opening for Genesis.,1069,1490,3680,Top 5 Funny,False,True,40,Human
+775,They'll never know what we used our tiny arms for.,1025,1496,3717,Top 5 Funny,False,True,50,Human
+775,Is this the day the music died?,954,1456,3700,Top 5 Funny,True,True,31,Human
+775,"Let's skip ""Time Is On My Side"" and close with ""Great Balls of Fire.""",911,1443,3569,Top 5 Funny,False,False,69,Human
+775,I wish we had done the sex and drugs first.,1329,1875,4704,Top 5 Unfunny,False,True,43,Human
+775,They'll never know what we used our tiny arms for.,1025,1496,3717,Top 5 Unfunny,False,True,50,Human
+775,Can’t believe we’re opening for Genesis.,1069,1490,3680,Top 5 Unfunny,False,True,40,Human
+775,Any last requests?,828,1474,3557,Top 5 Unfunny,True,True,18,Human
+775,Is this the day the music died?,954,1456,3700,Top 5 Unfunny,True,True,31,Human

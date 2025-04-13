@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+725,"You know, pumpkins are in season, too.",4339,4077,13037,Top 5 Funny,False,True,38,Human
+725,I want to change my answer.  My favorite food is watermelon.,4068,4397,12873,Top 5 Funny,False,True,60,Human
+725,I now see why you only get me every other weekend.,3193,3902,10261,Top 5 Funny,False,True,50,Human
+725,Couldn't you be like all the other dads and  mark my height on the tree with a pencil?,3183,3916,10824,Top 5 Funny,True,True,86,Human
+725,"Like you always say, Dad, 'Aim high.'",3158,3895,10914,Top 5 Funny,False,False,37,Human
+725,I want to change my answer.  My favorite food is watermelon.,4068,4397,12873,Top 5 Unfunny,False,True,60,Human
+725,"You know, pumpkins are in season, too.",4339,4077,13037,Top 5 Unfunny,False,True,38,Human
+725,You said you and Mom played this game earlier? Where is Mom?,2873,3941,9992,Top 5 Unfunny,True,True,60,Human
+725,Couldn't you be like all the other dads and  mark my height on the tree with a pencil?,3183,3916,10824,Top 5 Unfunny,True,True,86,Human
+725,I now see why you only get me every other weekend.,3193,3902,10261,Top 5 Unfunny,False,True,50,Human

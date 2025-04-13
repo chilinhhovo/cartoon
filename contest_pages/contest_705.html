@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Contest 705 - New Yorker Caption Contest</title>
+<link href="../detail-style.css" rel="stylesheet"/>
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+
+        body {
+            padding: 2rem;
+            max-width: 1400px;
+            margin: 0 auto;
+            background: #fff;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: #1a1a1a;
+        }
+
+        .theme-filters {
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .theme-button {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #fff;
+            color: #666;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.2s ease;
+        }
+
+        .theme-button:hover {
+            background: #f5f5f5;
+            border-color: #999;
+        }
+
+        .theme-button.active {
+            background: #0000ff;
+            color: white;
+            border-color: #0000ff;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .contest-card {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            transition: transform 0.2s ease;
+        }
+
+        .contest-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .contest-card img {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 4px;
+            margin-bottom: 0.5rem;
+        }
+
+        .contest-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+        }
+
+        .contest-number {
+            font-weight: 500;
+            color: #1a1a1a;
+        }
+
+        .contest-theme {
+            font-size: 0.9rem;
+            color: #666;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .theme-label {
+            text-align: center;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background: #f5f5f5;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: #666;
+            display: inline-block;
+            position: relative;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+<header>
+<a class="back-link" href="../index.html">← Back to Gallery</a>
+<h1>Contest #705</h1>
+</header>
+<div class="content">
+<div class="image-section">
+<img alt="Contest 705 Image" class="contest-image" src="../contest_images/705_Dashboard.jpg"/>
+<div class="theme-label">Theme: work</div>
+</div>
+<div class="captions-section">
+<div class="human-captions">
+<h2>Top Human Captions</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Caption</th>
+<th>Funny</th>
+<th>Unfunny</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="caption-number">1</td>
+<td>Tall salted caramel macchiato with low-fat organic almond milk, no sugar… It’s him alright.</td>
+<td class="vote-cell">7531</td>
+<td class="vote-cell">3767</td>
+<td class="vote-cell">19229</td>
+</tr>
+<tr>
+<td class="caption-number">2</td>
+<td>I knew I heard espresso shots.</td>
+<td class="vote-cell">6051</td>
+<td class="vote-cell">3992</td>
+<td class="vote-cell">16481</td>
+</tr>
+<tr>
+<td class="caption-number">3</td>
+<td>Smells like decaf. They can’t have gone far.</td>
+<td class="vote-cell">6044</td>
+<td class="vote-cell">3594</td>
+<td class="vote-cell">16740</td>
+</tr>
+<tr>
+<td class="caption-number">4</td>
+<td>Unfiltered water and styrofoam cups. These are some bad hombres.</td>
+<td class="vote-cell">4953</td>
+<td class="vote-cell">4587</td>
+<td class="vote-cell">16183</td>
+</tr>
+<tr>
+<td class="caption-number">5</td>
+<td>Well, that explains the avocado toast we found a mile back.</td>
+<td class="vote-cell">4864</td>
+<td class="vote-cell">4489</td>
+<td class="vote-cell">15844</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="ai-captions">
+<h2>AI Generated Captions</h2>
+<div class="ai-model">
+<h3>ChatGPT</h3>
+<div class="ai-caption">Looks like we're being haunted by the ghost of Starbucks' past.</div>
+</div><div class="ai-model"><h3>Claude</h3><div class="ai-caption">I told you the espresso machine was a bad idea. Now they'll never leave!</div></div>
+</div>
+<div class="similarity-chart">
+<h2>Similarity Analysis</h2>
+<div class="chart-container">
+<img alt="Similarity Chart" class="similarity-image" src="../contest_charts_svg/contest_705.svg"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const themeButtons = document.querySelectorAll('.theme-button');
+            const contestCards = document.querySelectorAll('.contest-card');
+
+            themeButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    // Update active button
+                    themeButtons.forEach(btn => btn.classList.remove('active'));
+                    button.classList.add('active');
+
+                    const selectedTheme = button.dataset.theme;
+
+                    // Show/hide cards based on theme
+                    contestCards.forEach(card => {
+                        if (selectedTheme === 'all' || card.dataset.theme === selectedTheme) {
+                            card.classList.remove('hidden');
+                        } else {
+                            card.classList.add('hidden');
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+</body>
+</html> 

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+801,What do you mean I don’t have time for another game?,750,1569,3270,Top 5 Funny,True,True,52,Human
+801,Grim loser is more like it.,397,989,2010,Top 5 Funny,False,True,27,Human
+801,"Winners keepers, losers reapers.""",387,1037,1968,Top 5 Funny,False,False,33,Human
+801,Hold up! You can’t take my pieces by just claiming their time has come.,387,1096,2091,Top 5 Funny,False,True,71,Human
+801,Hah. Now it’s only taxes.,372,833,1691,Top 5 Funny,False,True,25,Human
+801,What do you mean I don’t have time for another game?,750,1569,3270,Top 5 Unfunny,True,True,52,Human
+801,Hold up! You can’t take my pieces by just claiming their time has come.,387,1096,2091,Top 5 Unfunny,False,True,71,Human
+801,"Winners keepers, losers reapers.""",387,1037,1968,Top 5 Unfunny,False,False,33,Human
+801,Grim loser is more like it.,397,989,2010,Top 5 Unfunny,False,True,27,Human
+801,"Whadda ya mean, “it’s my last move?!”",360,964,1945,Top 5 Unfunny,True,False,37,Human

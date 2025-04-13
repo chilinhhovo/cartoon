@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+596,"C’mon, live a little.",796,755,2060,Top 5 Funny,False,True,21,Human
+596,"C’mon, live a little.",716,767,1994,Top 5 Funny,False,True,21,Human
+596,"After flirting with Death all afternoon, Bob finally makes his move.",398,894,1554,Top 5 Funny,False,True,68,Human
+596,"Thanks, but I prefer spirits.",204,515,1033,Top 5 Funny,False,True,29,Human
+596,Last call.,201,557,1024,Top 5 Funny,False,True,10,Human
+596,"After flirting with Death all afternoon, Bob finally makes his move.",398,894,1554,Top 5 Unfunny,False,True,68,Human
+596,"C’mon, live a little.",716,767,1994,Top 5 Unfunny,False,True,21,Human
+596,"C’mon, live a little.",796,755,2060,Top 5 Unfunny,False,True,21,Human
+596,"No thanks, I prefer spirits.",185,615,1108,Top 5 Unfunny,False,True,28,Human
+596,Last call.,201,557,1024,Top 5 Unfunny,False,True,10,Human

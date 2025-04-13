@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+789,Do you have to come in here every time I turn on the light?,615,1021,2341,Top 5 Funny,True,True,59,Human
+789,I really hope you make better use of your last two wishes.,508,1003,2177,Top 5 Funny,False,True,58,Human
+789,What the hell is a midlife chrysalis?,357,721,1454,Top 5 Funny,True,True,37,Human
+789,This wasn’t what I meant when I told you to grow a pair.,247,568,1101,Top 5 Funny,False,True,56,Human
+789,You went out for wings without me?,239,529,1082,Top 5 Funny,True,True,34,Human
+789,Do you have to come in here every time I turn on the light?,615,1021,2341,Top 5 Unfunny,True,True,59,Human
+789,I really hope you make better use of your last two wishes.,508,1003,2177,Top 5 Unfunny,False,True,58,Human
+789,What the hell is a midlife chrysalis?,357,721,1454,Top 5 Unfunny,True,True,37,Human
+789,This wasn’t what I meant when I told you to grow a pair.,247,568,1101,Top 5 Unfunny,False,True,56,Human
+789,"Ok, fine. You are capable of change.",220,555,1164,Top 5 Unfunny,False,True,36,Human

@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+868,I saw her with an Italian gelato.”,796,2228,3636,Top 5 Funny,False,False,34,Human
+868,"Everyone feels sorry for the kid who dropped the ice cream, but no one ever asks, “Is the ice cream OK?”",505,1144,2229,Top 5 Funny,True,False,104,Human
+868,"I scream, you scream, we all scream. It’s like no one has actual conversations anymore.",409,915,1850,Top 5 Funny,False,True,87,Human
+868,"And to top it off, I only see my kids on sundaes.",383,1206,1935,Top 5 Funny,False,True,49,Human
+868,"I'm sure, doc.  I know when I'm licked.",379,1168,1838,Top 5 Funny,False,True,39,Human
+868,I saw her with an Italian gelato.”,796,2228,3636,Top 5 Unfunny,False,False,34,Human
+868,I wake up right before I hit the sidewalk.,353,1216,2054,Top 5 Unfunny,False,True,42,Human
+868,"And to top it off, I only see my kids on sundaes.",383,1206,1935,Top 5 Unfunny,False,True,49,Human
+868,"I'm sure, doc.  I know when I'm licked.",379,1168,1838,Top 5 Unfunny,False,True,39,Human
+868,"Everyone feels sorry for the kid who dropped the ice cream, but no one ever asks, “Is the ice cream OK?”",505,1144,2229,Top 5 Unfunny,True,False,104,Human

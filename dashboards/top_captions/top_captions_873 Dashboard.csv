@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+873,You might want to put on your surprised eyebrows for what I’m about to say.,836,1590,3453,Top 5 Funny,False,True,75,Human
+873,"Correct, Mr. Tater, tying your tubers means no more tots.",596,1309,2556,Top 5 Funny,False,True,57,Human
+873,You're in good hands. He's in 4th grade and has performed hundreds of these surgeries since kindergarden,579,1236,2634,Top 5 Funny,False,False,104,Human
+873,"So is it Mr. Potāto, or Mr. Potäto?",563,1213,2579,Top 5 Funny,True,True,35,Human
+873,Have you tried pulling it out and putting it back in?,558,1231,2577,Top 5 Funny,True,True,53,Human
+873,You might want to put on your surprised eyebrows for what I’m about to say.,836,1590,3453,Top 5 Unfunny,False,True,75,Human
+873,So how are the tots doing?,535,1429,2812,Top 5 Unfunny,True,True,26,Human
+873,It’s all in your head.,529,1405,2804,Top 5 Unfunny,False,True,22,Human
+873,"Correct, Mr. Tater, tying your tubers means no more tots.",596,1309,2556,Top 5 Unfunny,False,True,57,Human
+873,The problem appears to be all in your head.,513,1295,2641,Top 5 Unfunny,False,True,43,Human

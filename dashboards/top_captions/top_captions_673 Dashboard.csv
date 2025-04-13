@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+673,Ok you can go down one more time but then you have to save me,2322,3600,9323,Top 5 Funny,False,False,61,Human
+673,I 'm gonna wash that man right out of my hair.,2025,3216,8539,Top 5 Funny,False,True,46,Human
+673,"My conditioner said it would give me extra body, but I didn't expect it to be yours.",1859,2775,8162,Top 5 Funny,False,True,84,Human
+673,Gonna wash that man right outta my hair!,1743,3611,8461,Top 5 Funny,False,True,40,Human
+673,"What part of ""Get out of my hair"" don't you understand?",1730,3100,7649,Top 5 Funny,True,True,55,Human
+673,Gonna wash that man right outta my hair!,1743,3611,8461,Top 5 Unfunny,False,True,40,Human
+673,Ok you can go down one more time but then you have to save me,2322,3600,9323,Top 5 Unfunny,False,False,61,Human
+673,I 'm gonna wash that man right out of my hair.,2025,3216,8539,Top 5 Unfunny,False,True,46,Human
+673,"What part of ""Get out of my hair"" don't you understand?",1730,3100,7649,Top 5 Unfunny,True,True,55,Human
+673,It only grows each time Trump tells a lie.,1568,3098,6472,Top 5 Unfunny,False,True,42,Human

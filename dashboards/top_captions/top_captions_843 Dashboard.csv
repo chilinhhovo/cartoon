@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+843,Am I catching you at a bad time?,1116,3559,6197,Top 5 Funny,True,True,32,Human
+843,If you were actually the height you listed on your profile this wouldn't be an issue,605,1742,3210,Top 5 Funny,False,False,84,Human
+843,"No, not your hands. The car keys!",543,1531,2792,Top 5 Funny,False,True,33,Human
+843,Promise not to vote for Trump again?,543,1793,2936,Top 5 Funny,True,True,36,Human
+843,"If I had a ring on my finger, then maybe you could grip better.",490,1988,3197,Top 5 Funny,False,True,63,Human
+843,Am I catching you at a bad time?,1116,3559,6197,Top 5 Unfunny,True,True,32,Human
+843,"If I had a ring on my finger, then maybe you could grip better.",490,1988,3197,Top 5 Unfunny,False,True,63,Human
+843,Promise not to vote for Trump again?,543,1793,2936,Top 5 Unfunny,True,True,36,Human
+843,Just so you know - it's not like me to pick up guys on the fly.,438,1750,3009,Top 5 Unfunny,False,True,63,Human
+843,If you were actually the height you listed on your profile this wouldn't be an issue,605,1742,3210,Top 5 Unfunny,False,False,84,Human

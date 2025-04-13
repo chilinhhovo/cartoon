@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+836,This is the last time we're bringing you back.  Stop jumping over the moon.,2283,4919,9689,Top 5 Funny,False,True,75,Human
+836,"Let me get this straight, you're food, clothing and a beverage?",2246,4385,9482,Top 5 Funny,True,True,63,Human
+836,Don't be embarrassed.  Our atmosphere is all methane.,1833,4860,9635,Top 5 Funny,False,True,53,Human
+836,"Our technology detected a ""moo moo here"" and a ""moo moo there.""",1779,4816,9553,Top 5 Funny,False,False,63,Human
+836,"My name is George Santos. You can trust me, my mother was also a cow and she died in Pearl Harbor.",1603,3513,6692,Top 5 Funny,False,True,98,Human
+836,Four stomachs? Now I’ve seen everything.,1400,5805,10044,Top 5 Unfunny,True,True,40,Human
+836,You’re standing right where I want to put the crop circle.,1484,5611,9999,Top 5 Unfunny,False,True,58,Human
+836,This is the last time we're bringing you back.  Stop jumping over the moon.,2283,4919,9689,Top 5 Unfunny,False,True,75,Human
+836,Don't be embarrassed.  Our atmosphere is all methane.,1833,4860,9635,Top 5 Unfunny,False,True,53,Human
+836,"Our technology detected a ""moo moo here"" and a ""moo moo there.""",1779,4816,9553,Top 5 Unfunny,False,False,63,Human

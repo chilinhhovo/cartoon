@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+878,"When you said you’d be in stockings when I got home, I had something else in mind.",841,1975,4072,Top 5 Funny,False,True,82,Human
+878,Take those off!  They’ll give you mistle toe.,778,1333,3082,Top 5 Funny,False,True,45,Human
+878,"Now, where is that tree skirt?",751,2120,4207,Top 5 Funny,True,True,30,Human
+878,You’re home early.,708,1889,3680,Top 5 Funny,False,True,18,Human
+878,I left one for you. Use your imagination.,661,1497,3195,Top 5 Funny,False,True,41,Human
+878,Just stepping into the holidays.”,595,2135,3458,Top 5 Unfunny,False,False,33,Human
+878,"Now, where is that tree skirt?",751,2120,4207,Top 5 Unfunny,True,True,30,Human
+878,"When you said you’d be in stockings when I got home, I had something else in mind.",841,1975,4072,Top 5 Unfunny,False,True,82,Human
+878,'Twas the night before laundry day.,567,1926,3758,Top 5 Unfunny,False,True,35,Human
+878,You’re home early.,708,1889,3680,Top 5 Unfunny,False,True,18,Human

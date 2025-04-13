@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+855,Let’s Uber to bed.,696,2455,3707,Top 5 Funny,False,True,18,Human
+855,It's a broken line.  Feel free to make a pass.,455,1642,2624,Top 5 Funny,False,True,46,Human
+855,This is easier than telling your mom we're separated.,414,1707,2619,Top 5 Funny,False,True,53,Human
+855,I can't get a dog but you adopt a highway.,385,845,1675,Top 5 Funny,False,True,42,Human
+855,"Marriage is a journey, Frank, not a destination.",364,1324,2221,Top 5 Funny,False,True,48,Human
+855,Let’s Uber to bed.,696,2455,3707,Top 5 Unfunny,False,True,18,Human
+855,This is easier than telling your mom we're separated.,414,1707,2619,Top 5 Unfunny,False,True,53,Human
+855,It's a broken line.  Feel free to make a pass.,455,1642,2624,Top 5 Unfunny,False,True,46,Human
+855,"Marriage is a journey, Frank, not a destination.",364,1324,2221,Top 5 Unfunny,False,True,48,Human
+855,I'm thinking about having the living room re-paved.,285,1056,1848,Top 5 Unfunny,False,True,51,Human

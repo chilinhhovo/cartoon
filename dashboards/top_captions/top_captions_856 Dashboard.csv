@@ -1,0 +1,11 @@
+contest,caption,funny_votes,unfunny_votes,votes,category,has_question_mark,ends_with_punctuation,caption_length,model
+856,You don’t have to say ‘excuse me’ every single time.,1645,3499,7161,Top 5 Funny,False,True,52,Human
+856,I’m wanted for a salt and buttery.,1195,3041,5646,Top 5 Funny,False,True,34,Human
+856,I’m starting to wonder why we were given free movie tickets.,1194,3476,6429,Top 5 Funny,False,True,60,Human
+856,My ear keeps popping.,1176,2667,5320,Top 5 Funny,False,True,21,Human
+856,It usually doesn't happen this fast on a first date.,1064,2775,5310,Top 5 Funny,False,True,52,Human
+856,You don’t have to say ‘excuse me’ every single time.,1645,3499,7161,Top 5 Unfunny,False,True,52,Human
+856,I’m starting to wonder why we were given free movie tickets.,1194,3476,6429,Top 5 Unfunny,False,True,60,Human
+856,I don’t like the look of that guy with the salt shaker.,1035,3089,5868,Top 5 Unfunny,False,True,55,Human
+856,I’m wanted for a salt and buttery.,1195,3041,5646,Top 5 Unfunny,False,True,34,Human
+856,Corn on the curb,1009,2896,5423,Top 5 Unfunny,False,False,16,Human
